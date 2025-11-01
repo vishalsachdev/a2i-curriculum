@@ -1,72 +1,39 @@
-# Core Courses
+# Core Courses (A²I 601–606)
 
-## Course Sequence
+The six-course core sequence establishes the shared mindset and toolkit required to orchestrate intelligent systems responsibly. Each 8-week course blends Coursera media, Canvas discussions, applied projects, oral vivas, and AI-augmented feedback.【F:docs/context/conversation.md†L44-L108】
 
-### Year 1: Foundations
+## A²I 601 – AI Strategy & Problem Framing
+- Position AI initiatives within organizational missions and stakeholder needs.
+- Diagnose coherence gaps across data, workflows, and governance.
+- Practice strategic narrative framing and portfolio prioritization.
 
-#### Introduction to AI and Machine Learning
-- AI fundamentals and history
-- Machine learning basics
-- Python for AI/ML
-- Introduction to data science
+## A²I 602 – Data & AI Infrastructure
+- Design inclusive data architectures leveraging Google Cloud services.
+- Establish observability, lineage, and data quality metrics.
+- Integrate privacy, security, and accessibility into infrastructure decisions.
 
-#### Data Structures and Algorithms
-- Algorithm design and analysis
-- Data structures for ML applications
-- Computational complexity
-- Problem-solving techniques
+## A²I 603 – Evidence & Causality
+- Apply experimental and quasi-experimental methods for trustworthy inference.
+- Evaluate bias, fairness, and differential impact across populations.
+- Interpret causal evidence to guide iterative product decisions.
 
-#### Mathematics for AI
-- Linear algebra
-- Calculus
-- Probability and statistics
-- Optimization
+## A²I 604 – Predictive & Prescriptive AI
+- Operationalize predictive models alongside prescriptive optimization.
+- Balance automation with human judgment in complex workflows.
+- Align AI interventions with sustainable value and mission outcomes.
 
-### Year 2: Advanced Topics
+## A²I 605 – Intelligent Agents & Workflows
+- Architect agentic systems for automation, augmentation, and collaboration.
+- Map human-in-the-loop controls, escalation paths, and safety guardrails.
+- Prototype multi-agent workflows that demonstrate reliability and coherence.
 
-#### Deep Learning
-- Neural networks
-- Convolutional networks
-- Recurrent networks
-- Transformers and attention mechanisms
+## A²I 606 – Governance & Trust Systems
+- Translate regulatory, ethical, and institutional requirements into design constraints.
+- Develop accountability frameworks, audit trails, and compliance dashboards.
+- Facilitate cross-functional governance rituals and reflective practice.
 
-#### Natural Language Processing
-- Text processing and analysis
-- Language models
-- Semantic understanding
-- NLP applications
-
-#### Computer Vision
-- Image processing
-- Object detection and recognition
-- Scene understanding
-- Visual AI applications
-
-### Year 3: Specialization
-
-#### Reinforcement Learning
-- MDP foundations
-- Q-learning and policy gradients
-- Deep reinforcement learning
-- Real-world applications
-
-#### AI Ethics and Society
-- Ethical frameworks
-- Bias and fairness
-- Privacy and security
-- Societal impact
-
-#### Advanced Topics Seminar
-- Emerging AI technologies
-- Research methods
-- Guest speakers from industry
-- Current challenges and opportunities
-
-## Course Format
-
-Each course includes:
-- Lectures (online and in-person)
-- Hands-on labs
-- Problem sets
-- Projects
-- AI-assisted learning support
+### Shared Core Expectations
+- **Applied Projects (50%)** – Learners deliver artifacts that evidence coherent system design.
+- **Auto-Checks (20%)** – Automated assessments reinforce foundational knowledge.
+- **Oral Vivas (20%)** – Week 8 dialogues surface judgment, reflection, and integrity.
+- **Peer Critique (10%)** – Cyber-social review develops evaluative and coaching skills.【F:docs/context/conversation.md†L80-L108】
