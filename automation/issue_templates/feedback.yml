@@ -1,0 +1,101 @@
+name: Curriculum Feedback
+description: Provide feedback on curriculum content, structure, or delivery
+title: "[Feedback]: "
+labels: ["feedback", "needs-review"]
+assignees:
+  - curriculum-team
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to provide feedback on the A2I curriculum!
+        Your input helps us continuously improve the learning experience.
+
+  - type: dropdown
+    id: feedback-category
+    attributes:
+      label: Feedback Category
+      description: What area does this feedback relate to?
+      options:
+        - Course Content
+        - Learning Experience
+        - Platform/Technology
+        - Assessment
+        - Pedagogy
+        - Resources
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: feedback-type
+    attributes:
+      label: Type of Feedback
+      description: What kind of feedback are you providing?
+      options:
+        - Positive (what's working well)
+        - Improvement suggestion
+        - Issue or problem
+        - Question or clarification
+    validations:
+      required: true
+
+  - type: input
+    id: course-name
+    attributes:
+      label: Course or Module Name
+      description: Which course or module does this relate to? (if applicable)
+      placeholder: e.g., Introduction to AI/ML, Deep Learning Module 3
+
+  - type: textarea
+    id: feedback-details
+    attributes:
+      label: Detailed Feedback
+      description: Please provide detailed feedback
+      placeholder: |
+        Be as specific as possible. Include:
+        - What you experienced
+        - What you expected
+        - Suggestions for improvement
+        - Any relevant context
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How important is this feedback?
+      options:
+        - Low - Nice to have
+        - Medium - Would significantly improve experience
+        - High - Critical issue affecting learning
+      default: 1
+    validations:
+      required: true
+
+  - type: dropdown
+    id: user-type
+    attributes:
+      label: I am a...
+      description: What is your role?
+      options:
+        - Student (current)
+        - Student (alumni)
+        - Faculty/Instructor
+        - Teaching Assistant
+        - Community Member
+        - Industry Partner
+        - Other
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this feedback, you agree to follow our Code of Conduct
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

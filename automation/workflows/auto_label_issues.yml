@@ -1,0 +1,81 @@
+name: Auto-label Issues
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  label-issues:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Apply labels based on content
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const title = issue.title.toLowerCase();
+            const body = issue.body ? issue.body.toLowerCase() : '';
+            const labels = [];
+
+            // Label based on issue template type
+            if (issue.labels.some(label => label.name === 'feedback')) {
+              labels.push('needs-review');
+            }
+
+            if (issue.labels.some(label => label.name === 'curriculum-update')) {
+              labels.push('curriculum');
+            }
+
+            if (issue.labels.some(label => label.name === 'bug')) {
+              labels.push('needs-triage');
+            }
+
+            // Label based on content area
+            if (title.includes('course') || body.includes('course')) {
+              labels.push('curriculum');
+            }
+
+            if (title.includes('platform') || body.includes('canvas') || body.includes('coursera') || body.includes('github')) {
+              labels.push('platform');
+            }
+
+            if (title.includes('policy') || body.includes('governance') || body.includes('ethics')) {
+              labels.push('governance');
+            }
+
+            if (title.includes('pedagogy') || body.includes('teaching') || body.includes('learning')) {
+              labels.push('pedagogy');
+            }
+
+            if (title.includes('entrepreneurship') || body.includes('venture') || body.includes('innovation studio')) {
+              labels.push('entrepreneurship');
+            }
+
+            // Priority labels
+            if (title.includes('urgent') || title.includes('critical') || body.includes('urgent')) {
+              labels.push('priority:high');
+            }
+
+            // Add labels to issue
+            if (labels.length > 0) {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                labels: labels
+              });
+            }
+
+      - name: Add to project board
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const issue = context.payload.issue;
+
+            // Add to curriculum project board
+            // This would require project board API integration
+            console.log('Would add issue to project board');
