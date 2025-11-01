@@ -1,4 +1,4 @@
-# Context: Curriculum Development Conversation
+he# Context: Curriculum Development Conversation
 
 ## Purpose
 
@@ -169,6 +169,18 @@ Conventional LMSs reproduce didactic, top-down pedagogy. They measure compliance
 **Repo:** `a2i-curriculum` (public GitHub)
 
 ### Structure Highlights
+docs/
+curriculum/
+pedagogy/
+platform/
+governance/
+entrepreneurship/
+context/conversation.md
+automation/
+workflows/
+issue_templates/
+
+
 ### Automations
 - `ai_review.yml`: LLM-based PR summarizer and coherence checker  
 - `curriculum_change_log.yml`: auto-updates CHANGELOG.md  
