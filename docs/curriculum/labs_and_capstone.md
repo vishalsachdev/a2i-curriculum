@@ -1,75 +1,52 @@
-# Labs and Capstone
+# Studios and Capstone
 
-## Labs
+## Applied Studios (A²I 621–623)
 
-### Lab Structure
+Each studio is an 8-week, project-intensive experience that immerses learners in the practice of orchestrating intelligent systems on Google Cloud infrastructure with open collaboration in GitHub.【F:docs/context/conversation.md†L56-L124】
 
-Each core course is accompanied by hands-on labs that reinforce theoretical concepts through practical application.
+### A²I 621 – Analytics Engineering Studio
+- Build inclusive data pipelines and semantic layers in BigQuery and Looker.
+- Operationalize data quality checks, lineage, and access policies.
+- Deliver reproducible analytics artifacts ready for enterprise deployment.
 
-#### Lab Components
-- Guided exercises
-- Open-ended challenges
-- Real-world datasets
-- Industry-relevant tools and frameworks
+### A²I 622 – Data Product Studio
+- Translate opportunity statements into deployable AI products.
+- Prototype services using Vertex AI, managed APIs, and automation frameworks.
+- Conduct peer and stakeholder reviews emphasizing coherence and value realization.
 
-#### Lab Infrastructure
-- Google Cloud Platform
-- Jupyter notebooks
-- Version control with Git/GitHub
-- Collaborative development environments
+### A²I 623 – Agent Ops & Evaluation Studio
+- Evaluate agentic workflows for reliability, safety, and guardrail coverage.
+- Implement evaluation harnesses, red-teaming rituals, and observability dashboards.
+- Document human-in-the-loop protocols and escalation procedures.
 
-### Example Labs
+### Studio Experience
+- Weekly design reviews and peer critique circles.
+- Shared telemetry dashboards to surface progress and risks.
+- Integration with Canvas oral vivas and AI-augmented coaching.
 
-1. **ML Fundamentals Lab**: Build and train basic ML models
-2. **Deep Learning Lab**: Implement neural networks from scratch
-3. **NLP Lab**: Create text processing pipelines
-4. **Computer Vision Lab**: Build image classification systems
-5. **RL Lab**: Train agents in simulated environments
+## Capstone (A²I 699 – Intelligent Systems for Public Value)
 
-## Capstone Project
+### Purpose
+Learners synthesize program threads by delivering an authentic system that advances public or organizational value while demonstrating governance, entrepreneurship, and reflexive practice.【F:docs/context/conversation.md†L135-L177】
 
-### Overview
+### Tracks
+1. **Systems Integration Project** – Partner with an organization to orchestrate data, agents, and human teams into a coherent workflow.
+2. **Venture Launch Project** – Pursue a startup concept supported by the iVenture Accelerator, culminating in a public demo and venture plan.
 
-The capstone project is a semester-long (or year-long) project where students apply their knowledge to solve a real-world problem.
+### Core Requirements
+- Formal proposal and stakeholder charter by Week 2.
+- Iterative build logs and observability dashboards reviewed bi-weekly.
+- Week 8 viva with faculty, peers, and external advisors.
+- Public artifact (whitepaper, product, or policy playbook) licensed for community learning.
 
-### Requirements
+### Support Ecosystem
+- Faculty mentors with governance, technical, and venture expertise.
+- Industry advisors aligned with the program’s domain tracks.
+- Access to Google Cloud resources, GitHub Actions automation, and AI tooling.
+- Integration with entrepreneurship programming (Origin Ventures Office, iVenture, Strategy & Innovation faculty).
 
-- Identify a meaningful problem
-- Design and implement an AI solution
-- Evaluate performance and impact
-- Present findings to stakeholders
-- Document the entire process
-
-### Project Types
-
-1. **Research Projects**: Novel approaches to AI challenges
-2. **Application Projects**: Practical solutions to real problems
-3. **Entrepreneurial Projects**: Viable products or services
-4. **Social Impact Projects**: AI for good initiatives
-
-### Capstone Support
-
-- Faculty advisors
-- Industry mentors
-- Peer collaboration
-- AI-assisted development tools
-- Access to computing resources
-
-### Deliverables
-
-- Project proposal
-- Progress reports
-- Final implementation
-- Technical documentation
-- Presentation and demo
-- Reflection paper
-
-## Assessment
-
-Labs and capstone are assessed on:
-- Technical execution
-- Innovation and creativity
-- Real-world applicability
-- Documentation quality
-- Presentation and communication
-- Ethical considerations
+### Assessment Alignment
+- **Applied Impact (40%)** – Demonstrated value, alignment with mission, and stakeholder adoption.
+- **Governance & Trust (25%)** – Clarity of controls, accountability, and ethical considerations.
+- **Technical & Operational Excellence (20%)** – Reliability, observability, and integration quality.
+- **Reflection & Leadership (15%)** – Viva performance, reflective essays, and peer feedback contributions.

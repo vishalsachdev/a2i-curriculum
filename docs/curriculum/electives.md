@@ -1,96 +1,52 @@
-# Electives
+# Electives & Domain Tracks
 
-## Overview
+## Purpose
 
-Electives allow students to customize their learning path based on interests and career goals.
+Electives deepen expertise within mission-driven domains so learners can translate core orchestration skills into sector-specific impact. Offerings evolve through open contribution but are organized around three anchor tracks identified in the founding conversation.【F:docs/context/conversation.md†L129-L137】
 
-## Available Electives
+## Track Overview
 
-### Technical Electives
+### Growth for Good
+Focuses on equitable experimentation, ethical marketing, and customer journeys that prioritize inclusion and trust.
 
-#### Advanced Machine Learning
-- Ensemble methods
-- Transfer learning
-- Meta-learning
-- AutoML
+**Sample Electives**
+- Responsible Growth Analytics (experiment design for inclusive outcomes)
+- Human-Centered Marketing Automation (journey orchestration with guardrails)
+- Social Impact Metrics Studio (measuring mission-aligned value)
 
-#### AI Systems Engineering
-- ML ops and deployment
-- Model serving at scale
-- Monitoring and maintenance
-- Production ML systems
+### Finance for Inclusion
+Equips learners to design financial systems that expand access while maintaining compliance and risk controls.
 
-#### Robotics and Embodied AI
-- Robot perception
-- Motion planning
-- Human-robot interaction
-- Autonomous systems
+**Sample Electives**
+- Inclusive Credit & Risk Modeling (alternative data, fairness audits)
+- RegTech & Compliance Automation (governance workflows across regulators)
+- Financial Resilience Analytics (forecasting and stress testing for underserved communities)
 
-#### Generative AI
-- GANs and VAEs
-- Diffusion models
-- Large language models
-- Creative AI applications
+### Healthcare for Humanity
+Centers on access, outcomes, and ethical deployment of intelligent systems in health contexts.
 
-#### Quantum Computing for AI
-- Quantum fundamentals
-- Quantum algorithms
-- Quantum ML
-- Near-term applications
+**Sample Electives**
+- Care Pathway Intelligence (workflow orchestration across clinicians and agents)
+- Health Data Cooperatives (governance models for community-owned data)
+- Responsible Diagnostics & Triage (evaluation frameworks for clinical agents)
 
-### Domain-Specific Electives
+## Entrepreneurship Integration
 
-#### AI for Healthcare
-- Medical imaging
-- Clinical decision support
-- Drug discovery
-- Healthcare analytics
+- **A²I 643 – Venture Creation in Intelligent Systems:** Required for learners pursuing the venture capstone path; covers opportunity assessment, lean experimentation, funding models, and go-to-market strategy.【F:docs/context/conversation.md†L157-L177】
+- Domain tracks collaborate with the iVenture Accelerator, Origin Ventures Office, and industry mentors to incubate new ventures and partnerships.
 
-#### AI for Finance
-- Algorithmic trading
-- Risk assessment
-- Fraud detection
-- Financial forecasting
+## Elective Experience
 
-#### AI for Climate and Sustainability
-- Environmental monitoring
-- Climate modeling
-- Resource optimization
-- Sustainable systems
+- 8-week modules aligned with the Canvas template, integrating Coursera content, applied assignments, and oral vivas.
+- Cross-track studios encourage interdisciplinary teams tackling shared challenges.
+- Open GitHub repositories capture syllabi, artifacts, and evaluation rubrics for community iteration.
 
-#### AI for Education
-- Adaptive learning systems
-- Educational data mining
-- Intelligent tutoring
-- Learning analytics
+## Proposing New Electives
 
-### Cross-Disciplinary Electives
+Community members may suggest additions via the curriculum governance process. Proposals should specify:
+- Domain alignment and stakeholder need.
+- How the course reinforces coherence, governance, and inclusion.
+- Required partnerships (industry, civic, research) and resource implications.
+- Assessment strategy leveraging AI-augmented feedback.
 
-#### AI and Law
-- AI regulation
-- Intellectual property
-- Liability and responsibility
-- Legal applications of AI
-
-#### AI and Design
-- Human-centered AI
-- UX for AI systems
-- Design thinking
-- Creative applications
-
-#### AI and Business
-- AI strategy
-- Business transformation
-- AI product management
-- Value creation
-
-## Elective Format
-
-- Typically 4-6 week intensive courses
-- Mix of lectures, readings, and projects
-- Guest speakers from industry and academia
-- Practical, application-focused
-
-## Adding New Electives
-
-The curriculum is designed to evolve. New electives can be proposed through the curriculum update process. See [CONTRIBUTING.md](../../CONTRIBUTING.md) for details.
+See [CONTRIBUTING.md](../../CONTRIBUTING.md) for submission guidelines.
