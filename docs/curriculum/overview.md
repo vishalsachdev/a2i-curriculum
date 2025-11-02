@@ -21,6 +21,13 @@ Electives are organized into mission-driven tracks—Growth for Good, Finance fo
 ### Entrepreneurship Thread
 Entrepreneurship is woven throughout via the venture creation elective (A²I 643), iVenture Accelerator support, and modules on opportunity recognition, funding, and commercialization.【F:docs/context/conversation.md†L157-L177】
 
+## Pedagogical Framework
+
+A²I pedagogy unites four complementary models—**Reflexive Learning**, **Cyber-Social Learning**, **AI Feedback and Assessment**, and the **Empowerment ↔ Plasticity Framework**—to transform classrooms into adaptive ecosystems.
+Students and intelligent agents co-create knowledge through cycles of action and reflection, peer critique, and open governance.
+This design widens the program's *coherence bandwidth*: the shared capacity of humans and machines to learn from and with one another.
+See [docs/pedagogy/README.md](../pedagogy/README.md) for details.
+
 ## Learning Philosophy
 
 The learning model blends reflexive, cyber-social, and AI-augmented pedagogy:
