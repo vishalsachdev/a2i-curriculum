@@ -1,157 +1,37 @@
-# Canvas LMS Integration
+# Canvas Integration Blueprint
 
-## Overview
+## Role in the Delivery Stack
 
-Canvas serves as the primary learning management system for the A2I curriculum, providing a centralized hub for course materials, assignments, grades, and communication.
+Canvas anchors the synchronous, graded, and community-governed elements of the 36-credit A²I program, providing the backbone for the shared 8-week course template described in the founding conversation.【F:docs/context/conversation.md†L27-L88】
 
-## Platform Features
+## 8-Week Module Template
 
-### Course Organization
-- Modular structure aligned with curriculum
-- Clear navigation and organization
-- Integrated syllabus and schedule
-- Resource libraries
+| Week | Canvas Responsibilities | Connected Platforms |
+|------|------------------------|---------------------|
+| 0 | Publish orientation, AI-use charter, and governance agreements; host kickoff forum. | GitHub for charter PRs, Coursera primer playlist.【F:docs/context/conversation.md†L76-L88】【F:docs/context/conversation.md†L167-L193】 |
+| 1-4 | Manage discussion prompts, formative quizzes, and project checkpoints. | Coursera auto-checks, GCP lab links, GitHub issue trackers.【F:docs/context/conversation.md†L65-L109】 |
+| 5-7 | Facilitate studio design reviews, governance triads, and peer critique cycles. | BigQuery/Vertex AI telemetry, GitHub review requests.【F:docs/context/conversation.md†L100-L134】 |
+| 8 | Schedule oral vivas, collect reflections, and release summative rubrics. | Viva transcripts to GitHub, impact briefs to stakeholders.【F:docs/context/conversation.md†L76-L120】【F:docs/context/conversation.md†L135-L177】 |
 
-### Assignment Management
-- Automated submission and grading
-- Rubrics and assessment criteria
-- Peer review workflows
-- Late submission policies
+## Key Canvas Spaces
 
-### Communication
-- Announcements and updates
-- Discussion boards
-- Messaging system
-- Office hours scheduling
+- **Modules:** Mirror the 8-week cadence with consistent structure to reduce cognitive load for working professionals.【F:docs/context/conversation.md†L27-L88】
+- **Assignments:** Capture applied artifacts, viva recordings, and reflexive essays with rubrics emphasizing coherence, governance, and mission impact.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L82-L109】
+- **Discussions:** Anchor cyber-social exchanges and cross-track critiques, ensuring access and inclusion remain visible program threads.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L111-L163】
+- **Analytics:** Surface participation, peer feedback flow, and risk alerts for faculty governance rituals.【F:docs/context/conversation.md†L139-L152】【F:docs/context/conversation.md†L214-L230】
 
-### Analytics
-- Student progress tracking
-- Engagement metrics
-- Performance analytics
-- Early warning systems
+## Integrations & Automations
 
-## Integration Points
+- **LTI to Coursera:** Syncs playlists, assessments, and completion data so learners experience a seamless handoff between asynchronous content and Canvas-based reflection.【F:docs/context/conversation.md†L65-L88】
+- **GCP Lab Launchers:** Deep links instantiate BigQuery, Vertex AI, and Looker labs directly from assignments, pre-configured with project scaffolds.【F:docs/context/conversation.md†L65-L109】
+- **GitHub Webhooks:** Canvas gradebook entries trigger when PRs merge, reinforcing open documentation of learning evidence.【F:docs/context/conversation.md†L167-L193】
+- **AI Viva Recorder:** Speech-to-text capture and summarization feed governance dashboards while keeping humans in control of assessment.【F:docs/context/conversation.md†L76-L88】【F:docs/context/conversation.md†L139-L152】
 
-### GitHub Integration
-- Link assignments to GitHub repositories
-- Automated repository creation
-- Submission via GitHub
-- Code review in GitHub, grades in Canvas
+## Accessibility & Inclusion
 
-### Google Cloud Platform
-- Access to computing resources
-- Lab environment provisioning
-- Jupyter notebook integration
-- Cloud-based projects
+Canvas course shells default to multi-modal content, captioned media, translation aids, and flexible deadlines to reflect UIUC’s land-grant commitment to widening participation.【F:docs/context/conversation.md†L39-L47】 Weekly check-ins prompt faculty to review participation heatmaps and intervene where inclusion gaps appear.【F:docs/context/conversation.md†L156-L163】【F:docs/context/conversation.md†L214-L230】
 
-### AI Tools
-- AI tutoring assistants
-- Automated feedback
-- Plagiarism detection
-- Accessibility tools
+## Governance Practices
 
-### Coursera
-- Public course hosting
-- Credential management
-- Cross-platform student data
-- Shared content modules
-
-## Course Structure
-
-### Module Template
-Each module includes:
-- Learning objectives
-- Reading and resources
-- Video lectures
-- Interactive exercises
-- Assignments
-- Discussion prompts
-- Assessment
-
-### Assignment Types
-- Auto-graded quizzes
-- Programming assignments
-- Project submissions
-- Peer reviews
-- Reflective writing
-- Group projects
-
-## Best Practices
-
-### Course Design
-- Consistent structure across courses
-- Clear expectations and deadlines
-- Multiple content formats (text, video, interactive)
-- Accessibility compliance
-
-### Student Experience
-- Mobile-friendly design
-- Intuitive navigation
-- Regular communication
-- Timely feedback
-
-### Faculty Support
-- Course templates
-- Instructional design support
-- Technical assistance
-- Training and resources
-
-## Accessibility
-
-Canvas accessibility features:
-- Screen reader compatibility
-- Keyboard navigation
-- Caption support for videos
-- Alternative text for images
-- Accessible document formats
-
-## Data and Privacy
-
-### Data Collection
-- Learning analytics
-- Student interactions
-- Performance data
-- Engagement metrics
-
-### Privacy Protection
-- FERPA compliance
-- Secure data storage
-- Limited data sharing
-- Student consent
-
-### Data Use
-- Improving learning experience
-- Research (with consent)
-- Institutional reporting
-- Individual student support
-
-## Technical Requirements
-
-### For Students
-- Modern web browser
-- Stable internet connection
-- Computer/tablet/phone
-- No special software required
-
-### For Faculty
-- Browser access
-- Course editing permissions
-- Training completion
-- Support resources
-
-## Troubleshooting
-
-Common issues and solutions:
-- Login problems → IT support
-- Assignment submission → Help desk
-- Grade discrepancies → Instructor
-- Technical errors → Canvas support
-
-## Future Enhancements
-
-Planned improvements:
-- Enhanced AI integration
-- Better mobile experience
-- Advanced analytics
-- Improved collaboration tools
-- VR/AR content support
+- Changes to Canvas templates require a GitHub issue citing the relevant principle or mission alignment need, ensuring transparency in pedagogical evolution.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L167-L193】
+- Monthly audits confirm assignments still assess coherence over capability and that viva protocols remain robust against emerging AI risks.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L139-L152】

@@ -1,163 +1,31 @@
 # AI Feedback and Assessment
 
-## Overview
+## Guiding Premise
 
-AI-augmented feedback and assessment provide timely, personalized support while maintaining academic rigor and human oversight.
+AI inside A²I assessments exists to **increase coherence**, not to surveil or shortcut learning. Faculty and learners co-design how intelligent tools surface evidence, reflection, and risk signals in keeping with the program’s governance-as-innovation stance.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L139-L152】
 
-## Principles
+## Assessment Architecture
 
-### 1. AI as Complement, Not Replacement
+| Component | Weight | Role of AI |
+|-----------|--------|------------|
+| Applied Projects | 50% | Agents compare artifacts against mission outcomes, stakeholder promises, and governance standards before human review.【F:docs/context/conversation.md†L82-L88】 |
+| Auto-Checks | 20% | Coursera/Canvas quizzes and labs provide immediate feedback, tuned to highlight coherence gaps rather than rote correctness.【F:docs/context/conversation.md†L76-L88】 |
+| Oral Vivas | 20% | Speech-to-text models capture Week 8 dialogues; analytics surface themes and unanswered risks for faculty adjudication.【F:docs/context/conversation.md†L76-L88】【F:docs/context/conversation.md†L139-L152】 |
+| Peer Critique | 10% | AI summarizes cross-team reviews to spotlight divergent perspectives and ensure inclusion of quieter voices.【F:docs/context/conversation.md†L144-L152】【F:docs/context/conversation.md†L156-L163】 |
 
-- AI supports, not substitutes, human judgment
-- Faculty oversight of all summative assessment
-- AI handles routine feedback, humans handle complex evaluation
-- Transparent about AI role
+## Workflow Across the 8-Week Template
 
-### 2. Timely and Personalized
+1. **Week 0 – AI Use Charter:** Students draft AI-use declarations, clarifying tooling, disclosure norms, and accountability rituals. Canvas modules include exemplars and a self-audit agent that checks for clarity and completeness.【F:docs/context/conversation.md†L76-L88】
+2. **Weeks 1-4 – Formative Analytics:** Auto-checks benchmark understanding of strategy, infrastructure, and causality. Feedback bots flag when evidence chains or governance controls are underspecified and route learners to relevant Coursera micro-lessons.【F:docs/context/conversation.md†L94-L114】
+3. **Weeks 5-7 – Studio Evaluations:** GCP-hosted evaluation harnesses capture telemetry from prototypes. Agents compute fairness, reliability, and observability metrics, handing faculty a structured brief before live critique.【F:docs/context/conversation.md†L101-L109】【F:docs/context/conversation.md†L120-L135】
+4. **Week 8 – Viva Intelligence Packets:** AI aggregates project artifacts, peer reviews, and lab telemetry into a briefing deck to prime viva panels. Humans make final determinations, while agents log improvement prompts for post-viva iteration.【F:docs/context/conversation.md†L76-L88】【F:docs/context/conversation.md†L139-L154】
 
-- Immediate feedback on practice exercises
-- Customized to individual learning needs
-- Multiple attempts encouraged
-- Learning-focused rather than grade-focused
+## Safeguards & Governance
 
-### 3. Formative Focus
+- **Human-in-the-Loop:** All summative judgments stay with faculty committees. AI agents provide evidence synthesis, not grades.【F:docs/context/conversation.md†L139-L152】
+- **Bias & Equity Audits:** Monthly reviews of feedback models ensure Growth for Good, Finance for Inclusion, and Healthcare for Humanity learners receive equitable coaching and challenge.【F:docs/context/conversation.md†L111-L114】【F:docs/context/conversation.md†L156-L163】
+- **Transparency:** Learners can inspect prompts, rubrics, and agent logs via GitHub, reinforcing open governance expectations.【F:docs/context/conversation.md†L167-L193】
 
-- Emphasis on learning and improvement
-- Low-stakes practice with AI feedback
-- High-stakes assessment with human review
-- Growth over time tracked
+## Faculty Enablement
 
-## Implementation
-
-### AI-Assisted Feedback
-
-#### Code Review
-- Style and convention checking
-- Bug detection
-- Performance analysis
-- Improvement suggestions
-
-#### Writing Support
-- Clarity and coherence
-- Structure and organization
-- Citation checking
-- Argument analysis
-
-#### Problem-Solving
-- Step-by-step guidance
-- Conceptual explanations
-- Alternative approaches
-- Common mistakes highlighted
-
-### Assessment Types
-
-#### Automated Assessment (AI-Primary)
-- Coding exercises with test suites
-- Multiple-choice concept checks
-- Code quality metrics
-- Routine problem sets
-
-#### Hybrid Assessment (AI-Assisted)
-- Project documentation review
-- Design document feedback
-- Progress reports
-- Reflective writing
-
-#### Human Assessment (AI-Supported)
-- Capstone projects
-- Creative work
-- Novel solutions
-- Ethical reasoning
-
-## AI Tools and Technologies
-
-### Current Tools
-- Automated testing frameworks
-- Code analysis tools
-- Plagiarism detection
-- Learning management system integrations
-
-### Emerging Technologies
-- Large language models for feedback
-- Adaptive learning systems
-- Multimodal assessment
-- Conversational tutoring agents
-
-## Quality Assurance
-
-### Validation
-- Regular review of AI feedback quality
-- Comparison with human assessment
-- Student feedback on AI usefulness
-- Continuous refinement
-
-### Bias Mitigation
-- Regular audits for bias
-- Diverse training data
-- Human review of edge cases
-- Transparency in algorithms
-
-## Student Support
-
-### Using AI Feedback
-- Guidance on interpreting AI feedback
-- Strategies for improvement
-- When to seek human help
-- Academic integrity considerations
-
-### AI Literacy
-- Understanding AI capabilities and limitations
-- Critical evaluation of AI suggestions
-- Responsible use of AI tools
-- Privacy and data considerations
-
-## Faculty Support
-
-### Training
-- Effective use of AI assessment tools
-- Interpreting AI analytics
-- Balancing AI and human assessment
-- Pedagogical best practices
-
-### Resources
-- Documentation and tutorials
-- Technical support
-- Community of practice
-- Ongoing professional development
-
-## Ethical Considerations
-
-### Transparency
-- Clear communication about AI use
-- Explanation of how assessments work
-- Student rights and responsibilities
-- Opt-out options where appropriate
-
-### Fairness
-- Accessibility of AI tools
-- Accommodations for diverse learners
-- Consistent application
-- Appeal processes
-
-### Privacy
-- Data protection
-- Student consent
-- Secure systems
-- Retention policies
-
-## Continuous Improvement
-
-Assessment practices are regularly reviewed based on:
-- Learning outcomes data
-- Student feedback
-- Faculty experience
-- Research on best practices
-- Technological advances
-
-## Research and Innovation
-
-The A2I program contributes to:
-- Research on AI in education
-- Development of new assessment tools
-- Best practices documentation
-- Sharing findings with community
+Faculty development sessions model how to read AI-generated coherence briefs, how to author reflexive prompts, and how to adjust thresholds as new risks emerge. Mentors log refinements to rubrics and agent behavior through open PRs so the assessment system evolves alongside the program vision.【F:docs/context/conversation.md†L167-L193】【F:docs/context/conversation.md†L214-L230】

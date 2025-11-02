@@ -1,211 +1,36 @@
 # AI Use Policy
 
-## Overview
+## Intent
 
-This policy governs the use of AI tools and technologies within the A2I curriculum, balancing innovation with academic integrity, transparency, and responsible use.
+The A²I program positions AI as a cognitive partner. This policy ensures learners leverage intelligent tools transparently while preserving human judgment, mission alignment, and governance rigor.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L139-L152】
 
-## Guiding Principles
+## Disclosure Requirements
 
-### 1. Transparency
-- Clear disclosure of AI use
-- Understanding of AI capabilities and limitations
-- Awareness of when AI is being used
-- Acknowledgment of AI assistance
+1. **Week 0 Declaration:** Every learner submits an AI-use charter in Canvas outlining approved tools, safeguards, and accountability partners. Declarations are version-controlled in GitHub.【F:docs/context/conversation.md†L76-L88】【F:docs/context/conversation.md†L167-L193】
+2. **Artifact Statements:** Each submission includes an AI contribution note describing prompts, iterations, and human oversight, reinforcing reflexive practice.【F:docs/context/conversation.md†L139-L152】
+3. **Peer Accountability:** Studio teams review one another’s declarations during governance triads to ensure consistent interpretation of policy expectations.【F:docs/context/conversation.md†L100-L135】
 
-### 2. Educational Value
-- AI enhances learning, doesn't replace it
-- Focus on understanding, not just answers
-- Development of critical thinking
-- Preparation for AI-augmented work
+## Permitted Use
 
-### 3. Academic Integrity
-- Original thinking required
-- Proper attribution
-- Authentic assessment
-- Ethical use
+- **Ideation & Synthesis:** Brainstorming, summarizing research, and generating stakeholder scenarios when humans verify accuracy.【F:docs/context/conversation.md†L139-L152】
+- **Feedback & Evaluation:** Draft critiques, code review suggestions, and observability alerts that humans interpret and act upon.【F:docs/context/conversation.md†L139-L152】
+- **Accessibility Support:** Translation, captioning, and alternative format generation to uphold access and inclusion commitments.【F:docs/context/conversation.md†L39-L47】
 
-### 4. Equity and Access
-- Equitable access to AI tools
-- Accommodation for diverse needs
-- No disadvantage for non-users
-- Support for all students
+## Prohibited Use
 
-## Permitted Uses
+- **Undisclosed Automation:** Submitting AI-generated work without acknowledgement or misrepresenting agent contributions violates academic integrity.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L139-L152】
+- **Delegated Judgment:** Allowing AI to make final grading, governance, or stakeholder commitments without human oversight undermines program principles.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L139-L152】
+- **Bias Amplification:** Deploying AI outputs that degrade access, equity, or mission alignment without remediation is prohibited.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L156-L163】
 
-### Learning and Practice
+## Review & Enforcement
 
-#### Encouraged Uses
-- Brainstorming and idea generation
-- Explaining concepts and answering questions
-- Debugging assistance
-- Code review and suggestions
-- Writing feedback and improvement
-- Learning new programming languages
-- Understanding error messages
+- **Monitoring:** AI logs, Canvas analytics, and GitHub histories inform monthly governance reviews to surface policy drift or equity concerns.【F:docs/context/conversation.md†L214-L230】
+- **Incident Response:** Potential violations trigger the academic integrity workflow, emphasizing restorative action and transparency.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L214-L230】
+- **Policy Updates:** Changes to approved tools or guardrails require an issue citing conversation references and mission impact before approval.【F:docs/context/conversation.md†L156-L163】【F:docs/context/conversation.md†L167-L193】
 
-#### Appropriate with Attribution
-- Research assistance
-- Literature review support
-- Data analysis suggestions
-- Prototype development
-- Content outlining
+## Support
 
-### Course-Specific Guidelines
+- **Tool Clinics:** Faculty and mentors host sessions on prompt design, evaluation heuristics, and bias mitigation to deepen AI literacy.【F:docs/context/conversation.md†L139-L152】【F:docs/context/conversation.md†L214-L230】
+- **Resource Library:** The repository aggregates exemplars of disclosure statements, governance scorecards, and evaluation harnesses to guide responsible use.【F:docs/context/conversation.md†L167-L193】
 
-Each course specifies:
-- Which AI tools are permitted
-- How AI should be acknowledged
-- Restrictions on AI use
-- Assessment-specific rules
-
-## Restricted Uses
-
-### Prohibited Without Disclosure
-- Generating assignment solutions without understanding
-- Submitting AI-generated work as your own
-- Using AI on exams without permission
-- Circumventing learning objectives
-
-### Always Prohibited
-- Academic dishonesty
-- Plagiarism
-- Contract cheating
-- Manipulating or gaming AI systems
-- Violating others' privacy
-- Generating harmful content
-
-## Attribution Requirements
-
-### When to Cite AI Use
-
-Cite when AI:
-- Generates significant text or code
-- Provides key ideas or insights
-- Assists in analysis or design
-- Contributes to creative work
-
-### How to Cite
-
-Include:
-- Name of AI tool
-- Version or date accessed
-- Specific use (e.g., "debugging assistance")
-- Extent of use
-
-Example:
-```
-AI Acknowledgment: Used Claude (Anthropic, November 2025) for debugging
-assistance with memory management issues in lines 45-67.
-```
-
-## Course-Specific Policies
-
-### Foundational Courses
-- Limited AI use to encourage fundamental skill development
-- AI for explanation and clarification
-- No AI for core assessments without permission
-
-### Advanced Courses
-- More flexible AI use
-- Focus on effective AI collaboration
-- Emphasis on critical evaluation
-- Novel applications encouraged
-
-### Capstone Projects
-- AI tools as professional practice
-- Full disclosure required
-- Assessment includes AI use effectiveness
-- Reflection on AI limitations
-
-## AI Tools Provided
-
-### Institutional Tools
-- AI tutoring assistants
-- Code review bots
-- Writing assistants
-- Research tools
-
-### Student Responsibility
-- Understand tool capabilities
-- Use appropriately
-- Report issues
-- Provide feedback
-
-## Enforcement
-
-### Violations
-- Academic integrity process
-- Course-specific consequences
-- Educational interventions
-- Potential disciplinary action
-
-### Review Process
-- Investigation of suspected violations
-- Student explanation opportunity
-- Faculty determination
-- Appeal procedures
-
-## Faculty Guidance
-
-### Setting Expectations
-- Clear communication in syllabus
-- Assignment-specific guidelines
-- Examples of appropriate use
-- Regular reminders
-
-### Designing Assessments
-- AI-resistant when appropriate
-- Embrace AI where beneficial
-- Focus on higher-order thinking
-- Multiple assessment types
-
-### Detecting Inappropriate Use
-- Familiarity with AI outputs
-- Inconsistencies in student work
-- AI detection tools (with caution)
-- Conversations with students
-
-## Student Resources
-
-### Training
-- AI literacy modules
-- Ethical use workshops
-- Tool-specific training
-- Best practices
-
-### Support
-- Questions about policy
-- Guidance on appropriate use
-- Academic integrity support
-- Technology access
-
-## Policy Review
-
-This policy is reviewed:
-- Annually
-- As technology evolves
-- Based on community feedback
-- In response to incidents
-
-## Relationship to Other Policies
-
-This policy complements:
-- Academic integrity policy
-- Code of conduct
-- Privacy policy
-- Acceptable use policy
-
-## Questions and Clarifications
-
-When in doubt:
-1. Ask your instructor
-2. Disclose AI use
-3. Err on the side of transparency
-4. Seek guidance from academic support
-
-## References
-
-- University academic integrity policy
-- Disciplinary guidelines
-- Technology acceptable use policy
-- Privacy and data protection policy
+This policy keeps AI participation aligned with A²I’s vision of producing system orchestrators who can wield intelligence responsibly for public value.【F:docs/context/conversation.md†L27-L47】【F:docs/context/conversation.md†L135-L177】

@@ -1,263 +1,50 @@
-# A2I Curriculum Roadmap
+# A²I Curriculum Roadmap
 
-## Overview
+## Purpose
 
-This roadmap outlines the planned development and evolution of the AI for Innovation curriculum over the next several years.
+This roadmap turns the founding conversation into a staged plan for launching and evolving the 36-credit, 8-week Master of Science in Applied Artificial Intelligence & Business Systems (A²I). It centers coherence, governance, entrepreneurship, and open development at every milestone.【F:docs/context/conversation.md†L27-L230】
 
-## Current Status (Phase 0)
+## Phase 0 – Foundation (Months 0-3)
 
-### Completed
-- ✅ Repository structure established
-- ✅ Documentation framework created
-- ✅ Core documentation templates
-- ✅ Governance policies drafted
-- ✅ Automation workflows defined
+- Establish GitHub repository structure, contribution policies, and automation (`ai_review.yml`, `curriculum_change_log.yml`).【F:docs/context/conversation.md†L167-L193】
+- Build Canvas master shell with Week 0 orientation, viva protocols, and AI-use charter templates.【F:docs/context/conversation.md†L76-L88】
+- Produce Coursera pilot modules introducing program vision, governance mindset, and domain threads.【F:docs/context/conversation.md†L27-L114】
+- Provision Google Cloud projects with baseline IAM, BigQuery datasets, and Vertex AI workspaces for studios.【F:docs/context/conversation.md†L65-L109】
 
-### In Progress
-- 🔄 Community building
-- 🔄 Faculty recruitment
-- 🔄 Platform setup
-- 🔄 Initial course development
+## Phase 1 – Core Launch (Months 4-9)
 
-## Phase 1: Foundation (Months 1-6)
+- Publish syllabi and assessment matrices for A²I 601–606 emphasizing coherence, governance, and reflexive pedagogy.【F:docs/context/conversation.md†L94-L109】【F:docs/context/conversation.md†L139-L152】
+- Stand up studios (621–623) with evaluation harnesses, observability dashboards, and peer critique rituals.【F:docs/context/conversation.md†L101-L109】
+- Release AI-use policy, data stewardship guidelines, and academic integrity playbooks anchored in governance-as-innovation.【F:docs/context/conversation.md†L39-L47】
+- Launch Growth for Good, Finance for Inclusion, and Healthcare for Humanity elective clusters with partner advisory circles.【F:docs/context/conversation.md†L111-L114】【F:docs/context/conversation.md†L156-L163】
 
-### Goals
-- Launch core curriculum infrastructure
-- Develop foundational courses
-- Establish governance processes
-- Build community
+## Phase 2 – Entrepreneurship & Capstone Integration (Months 10-15)
 
-### Milestones
+- Deliver A²I 643 Venture Creation course and align Innovation Studio services (governance clinics, venture mechanics workshops, GCP support).【F:docs/context/conversation.md†L116-L135】
+- Formalize A²I 699 capstone pathways (systems integration, venture launch) with stakeholder charters and viva boards.【F:docs/context/conversation.md†L116-L177】
+- Publish public dashboards highlighting venture progress, community impact, and governance metrics to GitHub Pages.【F:docs/context/conversation.md†L167-L193】【F:docs/context/conversation.md†L214-L230】
 
-#### Month 1-2: Infrastructure
-- [ ] Canvas LMS setup and configuration
-- [ ] GitHub organization and repositories
-- [ ] Google Cloud Platform accounts
-- [ ] Coursera partnership finalized
-- [ ] CI/CD workflows operational
+## Phase 3 – Governance & Inclusion Scaling (Months 16-24)
 
-#### Month 3-4: Core Courses (Initial)
-- [ ] Introduction to AI/ML (complete)
-- [ ] Python for AI (complete)
-- [ ] Mathematics for AI (complete)
-- [ ] Data Structures and Algorithms (complete)
+- Implement monthly governance rituals using Canvas analytics, AI feedback logs, and repository metrics to track coherence and equity.【F:docs/context/conversation.md†L139-L152】【F:docs/context/conversation.md†L214-L230】
+- Expand partnerships through the Illinois Innovation Network and global collaborators to deepen engagement and economic development threads.【F:docs/context/conversation.md†L156-L163】
+- Introduce multilingual Coursera tracks and accessibility enhancements to broaden reach in line with UIUC’s mission.【F:docs/context/conversation.md†L39-L47】
+- Iterate curriculum via open PRs responding to learner, mentor, and partner feedback captured in GitHub issues.【F:docs/context/conversation.md†L167-L193】
 
-#### Month 5-6: Community and Governance
-- [ ] Faculty onboarding (5+ instructors)
-- [ ] Student advisory board formed
-- [ ] Governance policies approved
-- [ ] First community event
-- [ ] Mentor network established (10+ mentors)
+## Phase 4 – Continuous Innovation (Months 25+)
 
-### Success Metrics
-- 4 courses ready for delivery
-- 50+ students enrolled
-- 90%+ student satisfaction
-- All infrastructure operational
+- Launch public research on reflexive pedagogy, cyber-social learning, and AI governance practices derived from program data.【F:docs/context/conversation.md†L139-L152】【F:docs/context/conversation.md†L214-L230】
+- Scale venture ecosystem with additional funding partnerships and Origin Ventures/iVenture-aligned accelerators.【F:docs/context/conversation.md†L124-L135】
+- Maintain rolling updates to Canvas, Coursera, GCP, and GitHub integrations to support new modalities and agentic workflows.【F:docs/context/conversation.md†L65-L152】
 
-## Phase 2: Expansion (Months 7-12)
+## Success Metrics
 
-### Goals
-- Complete core curriculum
-- Launch electives
-- Establish Innovation Studio
-- Scale operations
+| Theme | Indicator |
+|-------|-----------|
+| **Coherence** | Percentage of courses demonstrating clear alignment between strategy, evidence, infrastructure, and governance deliverables.【F:docs/context/conversation.md†L39-L109】 |
+| **Inclusion** | Representation of underserved learners in domain tracks and venture residencies; accessibility compliance across platforms.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L156-L163】 |
+| **Entrepreneurship** | Number of ventures/incubations progressing to capstone launch with documented public value outcomes.【F:docs/context/conversation.md†L116-L135】【F:docs/context/conversation.md†L135-L177】 |
+| **Governance** | Frequency and quality of governance ritual outputs, including AI-use audits and data stewardship reports.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L214-L230】 |
+| **Open Development** | Volume of community contributions, PR cycle times, and transparency of changelog updates.【F:docs/context/conversation.md†L167-L193】 |
 
-### Milestones
-
-#### Month 7-8: Advanced Courses
-- [ ] Deep Learning (complete)
-- [ ] Natural Language Processing (complete)
-- [ ] Computer Vision (complete)
-- [ ] AI Ethics and Society (complete)
-
-#### Month 9-10: Specialization
-- [ ] First 3 electives launched
-- [ ] Capstone project framework
-- [ ] Lab infrastructure complete
-- [ ] Assessment tools operational
-
-#### Month 11-12: Entrepreneurship
-- [ ] Venture Creation course launched
-- [ ] Innovation Studio opened
-- [ ] First Demo Day
-- [ ] Industry partnerships (3+)
-
-### Success Metrics
-- 8+ core courses operational
-- 3+ electives available
-- 150+ students enrolled
-- 10+ capstone projects
-- Innovation Studio active
-
-## Phase 3: Maturation (Year 2)
-
-### Goals
-- Refine based on feedback
-- Expand course offerings
-- Grow community
-- Demonstrate impact
-
-### Q1: Refinement
-- [ ] Course improvements based on Year 1 data
-- [ ] Enhanced AI assessment tools
-- [ ] Expanded mentor network (25+)
-- [ ] Research publications (2+)
-
-### Q2: Growth
-- [ ] 5+ new electives
-- [ ] International partnerships (2+)
-- [ ] Coursera courses launched (3+)
-- [ ] Alumni network established
-
-### Q3: Innovation
-- [ ] AI-augmented learning enhancements
-- [ ] VR/AR pilot programs
-- [ ] Advanced analytics implementation
-- [ ] Personalized learning paths
-
-### Q4: Impact
-- [ ] 300+ students total
-- [ ] 20+ ventures launched
-- [ ] Industry placement (90%+)
-- [ ] First graduates
-
-### Success Metrics
-- 15+ courses total
-- 300+ active students
-- 20+ student ventures
-- 90%+ job placement
-- Accreditation achieved
-
-## Phase 4: Leadership (Year 3+)
-
-### Goals
-- Become model AI curriculum
-- Lead innovation in AI education
-- Scale impact
-- Sustain excellence
-
-### Year 3 Focus
-- National recognition
-- Research contributions
-- Scaled Coursera presence
-- International expansion
-
-### Long-term Vision
-- Pre-eminent AI education program
-- Global community of learners
-- Significant research impact
-- Entrepreneurial ecosystem
-- Model for other institutions
-
-### Metrics
-- 500+ students
-- 50+ ventures launched
-- Top-ranked program
-- 10+ research publications/year
-- International recognition
-
-## Key Initiatives
-
-### Continuous Improvement
-**Ongoing**
-- Student feedback loops
-- Faculty development
-- Curriculum updates
-- Technology upgrades
-- Assessment refinement
-
-### Research and Innovation
-**Years 2-3**
-- AI in education research
-- Learning analytics
-- Novel pedagogies
-- Publishing and sharing
-- Conference presentations
-
-### Community Building
-**Ongoing**
-- Student clubs and organizations
-- Alumni network
-- Industry connections
-- Academic partnerships
-- Public engagement
-
-### Diversity and Inclusion
-**Ongoing**
-- Diverse student recruitment
-- Inclusive pedagogy
-- Accessibility improvements
-- Scholarship programs
-- Support services
-
-## Dependencies and Risks
-
-### Critical Dependencies
-- Funding secured
-- Faculty recruitment
-- Technology partners
-- Student enrollment
-- Accreditation approval
-
-### Key Risks
-- Technology changes
-- Funding constraints
-- Competition
-- Regulatory changes
-- Market shifts
-
-### Mitigation Strategies
-- Flexible architecture
-- Multiple funding sources
-- Continuous innovation
-- Strong partnerships
-- Adaptable curriculum
-
-## Review and Updates
-
-### Review Frequency
-- Monthly: Progress check
-- Quarterly: Milestone review
-- Annually: Major roadmap update
-
-### Stakeholder Input
-- Student feedback
-- Faculty input
-- Industry advisory
-- Institutional leadership
-- Community suggestions
-
-### Adjustment Process
-1. Gather feedback
-2. Analyze data
-3. Propose changes
-4. Community review
-5. Leadership approval
-6. Update roadmap
-
-## Contributing to Roadmap
-
-Want to suggest changes or additions?
-1. Review current roadmap
-2. Open an issue with proposal
-3. Provide rationale and impact
-4. Engage in discussion
-5. Submit for review
-
-See [CONTRIBUTING.md](../CONTRIBUTING.md) for details.
-
-## Questions and Discussion
-
-Join the conversation:
-- GitHub Discussions
-- Community meetings
-- Feedback surveys
-- Direct contact
-
-## Related Documents
-
-- [Curriculum Overview](curriculum/overview.md)
-- [Governance](governance/)
-- [Contributing Guidelines](../CONTRIBUTING.md)
-- [Changelog](../CHANGELOG.md)
+This roadmap keeps the curriculum accountable to the founding insight—*capability is cheap; coherence is scarce*—by sequencing work that continually reinforces alignment among people, data, and intelligent systems.【F:docs/context/conversation.md†L27-L47】

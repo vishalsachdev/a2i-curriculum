@@ -1,205 +1,36 @@
-# Google Cloud Platform Stack
+# Google Cloud Stack
 
-## Overview
+## Strategic Role
 
-Google Cloud Platform (GCP) provides the technical infrastructure for the A2I curriculum, enabling scalable, cloud-based computing for AI/ML education.
+Google Cloud furnishes the applied laboratories where learners orchestrate data pipelines, train and evaluate models, and deploy agentic workflows that embody the program’s commitment to coherence and governance.【F:docs/context/conversation.md†L65-L109】
 
-## Core Services
+## Core Services in Use
 
-### Compute Resources
+- **BigQuery & Looker:** Power analytics engineering, observability dashboards, and mission-aligned metrics required in studios and capstone work.【F:docs/context/conversation.md†L65-L109】【F:docs/context/conversation.md†L135-L177】
+- **Vertex AI:** Hosts model training, prompt engineering, and evaluation harnesses for predictive, prescriptive, and agentic systems.【F:docs/context/conversation.md†L101-L109】【F:docs/context/conversation.md†L120-L135】
+- **Cloud Run & Functions:** Enable rapid deployment of microservices that connect AI insights to operational workflows during studios.【F:docs/context/conversation.md†L101-L109】
+- **IAM & Cloud Logging:** Provide the governance backbone—role-based access, audit trails, and telemetry for the trust systems core course.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L100-L109】
 
-#### Compute Engine
-- VM instances for labs
-- GPU/TPU access for deep learning
-- Custom machine types
-- Preemptible instances for cost savings
+## Learning Journeys
 
-#### Google Kubernetes Engine (GKE)
-- Container orchestration
-- Scalable deployments
-- Microservices architecture
-- Auto-scaling
+| Course | GCP Focus | Sample Deliverable |
+|--------|-----------|--------------------|
+| A²I 602 – Data & AI Infrastructure | Inclusive data architectures, lineage, and policy automation. | BigQuery data product with Looker dashboard demonstrating equitable access controls.【F:docs/context/conversation.md†L94-L109】 |
+| A²I 605 – Intelligent Agents & Workflows | Multi-agent orchestration, human-in-the-loop controls. | Vertex AI agent pipeline with escalation triggers recorded in Cloud Logging.【F:docs/context/conversation.md†L100-L109】 |
+| A²I 621 – Analytics Engineering Studio | Reproducible data pipelines and semantic layers. | Dataform repo deployed through Cloud Build with quality checks and governance annotations.【F:docs/context/conversation.md†L106-L109】 |
+| A²I 623 – Agent Ops & Evaluation Studio | Reliability, safety, and guardrail evaluation. | Automated red-team harness measuring response quality, bias, and failover behavior.【F:docs/context/conversation.md†L107-L109】【F:docs/context/conversation.md†L120-L135】 |
+| A²I 699 – Capstone | Systems integration or venture prototypes. | Production-ready stack with observability dashboards and governance dossier for partners.【F:docs/context/conversation.md†L116-L177】 |
 
-### Data and Storage
+## Operational Practices
 
-#### Cloud Storage
-- Dataset repository
-- Student project storage
-- Course materials hosting
-- Backup and archiving
+- **Project Provisioning:** Cohorts receive scoped GCP projects with budget caps, service catalog presets, and policy baselines to encourage responsible experimentation.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L65-L109】
+- **Telemetry Pipelines:** Labs push logs and metrics to shared dashboards that faculty use during governance rituals to monitor risk and progress.【F:docs/context/conversation.md†L139-L152】【F:docs/context/conversation.md†L214-L230】
+- **Open Artifacts:** Terraform templates, notebooks, and evaluation harnesses live in GitHub for transparency and reuse.【F:docs/context/conversation.md†L167-L193】
 
-#### BigQuery
-- Large-scale data analysis
-- SQL-based queries
-- Real-world datasets
-- Analytics projects
+## Inclusion & Access
 
-#### Cloud SQL
-- Relational database
-- Application backends
-- Structured data
-- High availability
+UIUC’s access mission guides resource allocation—credits prioritize community-oriented projects, and alternative lightweight environments are offered for regions with bandwidth constraints.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L156-L163】
 
-### AI/ML Services
+## Governance Alignment
 
-#### Vertex AI
-- Managed ML platform
-- Model training and deployment
-- AutoML capabilities
-- Feature store
-
-#### AI Platform Notebooks
-- Managed Jupyter environments
-- Pre-configured ML frameworks
-- Collaborative notebooks
-- Version control integration
-
-#### Pre-trained APIs
-- Vision API
-- Natural Language API
-- Translation API
-- Speech-to-Text/Text-to-Speech
-
-### Development Tools
-
-#### Cloud Build
-- CI/CD pipelines
-- Automated testing
-- Container builds
-- Deployment automation
-
-#### Cloud Source Repositories
-- Git repository hosting
-- Integration with GitHub
-- Code review
-- Version control
-
-#### Cloud Shell
-- Browser-based terminal
-- Pre-installed tools
-- Persistent storage
-- Easy access
-
-## Student Access
-
-### Account Provisioning
-- Educational credits
-- Resource quotas
-- Project organization
-- Access management
-
-### Lab Environments
-- Pre-configured templates
-- One-click deployment
-- Isolated projects
-- Tear-down automation
-
-### Cost Management
-- Budget alerts
-- Spending limits
-- Resource monitoring
-- Cost optimization tips
-
-## Course Integration
-
-### Assignment Infrastructure
-- Automated environment setup
-- Submission validation
-- Resource cleanup
-- Grading integration
-
-### Capstone Projects
-- Dedicated project resources
-- Higher resource limits
-- Production-like environments
-- Deployment support
-
-## Security and Compliance
-
-### Access Control
-- IAM policies
-- Role-based access
-- Service accounts
-- Audit logging
-
-### Data Protection
-- Encryption at rest
-- Encryption in transit
-- VPC isolation
-- Security scanning
-
-### Compliance
-- FERPA compliance
-- Data residency
-- Privacy controls
-- Regular audits
-
-## Best Practices
-
-### For Students
-- Use credits wisely
-- Clean up resources
-- Follow security guidelines
-- Monitor spending
-
-### For Faculty
-- Template-based provisioning
-- Resource quotas
-- Automated cleanup
-- Cost tracking
-
-## Monitoring and Support
-
-### Performance Monitoring
-- Cloud Monitoring
-- Logging and diagnostics
-- Error reporting
-- Uptime checks
-
-### Support Channels
-- Documentation
-- Technical support
-- Office hours
-- Community forums
-
-## Training and Resources
-
-### Student Onboarding
-- GCP fundamentals
-- Platform orientation
-- Best practices
-- Troubleshooting guides
-
-### Faculty Training
-- Advanced GCP features
-- Course infrastructure design
-- Cost optimization
-- Security configuration
-
-## Alternatives and Fallbacks
-
-### Multi-Cloud Strategy
-- AWS as backup
-- Azure for specialized needs
-- Local alternatives
-- Hybrid approaches
-
-### Offline Options
-- Local development environments
-- Downloadable datasets
-- Offline documentation
-- Limited functionality mode
-
-## Future Enhancements
-
-### Planned Upgrades
-- Expanded GPU/TPU access
-- New AI/ML services
-- Enhanced automation
-- Better cost management tools
-
-### Research Collaboration
-- Research credits
-- Advanced resources
-- Publication support
-- Industry partnerships
+Regular reviews ensure GCP usage reflects governance-as-innovation: documenting decision trails, embedding accountability, and aligning with program threads on leadership, engagement, and equity.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L156-L163】【F:docs/context/conversation.md†L214-L230】
