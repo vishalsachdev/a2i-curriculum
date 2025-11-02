@@ -2,35 +2,39 @@
 
 ## Vision
 
-The AI for Innovation (A2I) curriculum prepares students to become ethical, innovative leaders in the AI-driven economy through hands-on learning, real-world projects, and entrepreneurial thinking.
+The Master of Science in Applied Artificial Intelligence and Business Systems (A²I) develops **system orchestrators** who can align people, data, and intelligent agents toward verifiable business and societal value. The program embraces the insight that *capability is cheap; coherence is scarce* and therefore focuses on leadership, governance, and reflexive learning with AI.【F:docs/context/conversation.md†L1-L138】
 
 ## Program Structure
 
+- **Credits & Cadence:** 36 credits delivered across twelve 8-week courses designed for working professionals. Every course follows a shared Canvas template with Week 0 orientation, Weeks 1–8 learning cycles, and Week 8 viva and reflection.【F:docs/context/conversation.md†L44-L92】
+- **Delivery Ecosystem:** Coursera scales asynchronous content, Canvas anchors graded and synchronous elements, Google Cloud powers labs, and GitHub houses the open development repository for transparency.【F:docs/context/conversation.md†L56-L76】
+
 ### Core Courses
-Foundational knowledge in AI, machine learning, and related technologies.
+Six foundational courses (A²I 601–606) establish shared literacy in strategy, infrastructure, causality, intelligent workflows, and governance.【F:docs/context/conversation.md†L94-L119】
 
-### Labs & Capstone
-Practical, project-based learning culminating in a capstone project.
+### Studios & Capstone
+Three applied studios (A²I 621–623) provide hands-on practice, culminating in A²I 699 where students integrate systems for public value or launch ventures.【F:docs/context/conversation.md†L121-L155】
 
-### Electives
-Specialized topics allowing students to customize their learning path.
+### Domain Tracks & Electives
+Electives are organized into mission-driven tracks—Growth for Good, Finance for Inclusion, and Healthcare for Humanity—so learners can contextualize core capabilities in high-impact domains.【F:docs/context/conversation.md†L129-L137】
 
-### Venture Creation
-Entrepreneurship course and innovation studio for building AI-powered solutions.
+### Entrepreneurship Thread
+Entrepreneurship is woven throughout via the venture creation elective (A²I 643), iVenture Accelerator support, and modules on opportunity recognition, funding, and commercialization.【F:docs/context/conversation.md†L157-L177】
 
 ## Learning Philosophy
 
-The curriculum is built on:
-- **Reflexive Learning**: Continuous reflection and adaptation
-- **Cyber-Social Learning**: Collaborative, technology-enhanced learning
-- **AI-Augmented Education**: Leveraging AI for feedback and assessment
-- **Practice-Based**: Learning by doing with real-world applications
+The learning model blends reflexive, cyber-social, and AI-augmented pedagogy:
 
-## Delivery
+- **Reflexive Learning:** Students co-create knowledge artifacts, critique platforms, and reflect on the systems they build.【F:docs/context/conversation.md†L179-L214】
+- **Cyber-Social Learning:** Human ↔ AI ↔ peer feedback loops sustain continuous improvement and transparency.【F:docs/context/conversation.md†L207-L214】
+- **AI as Cognitive Partner:** Intelligent tools provide formative assessment, analytics, and coaching rather than policing compliance.【F:docs/context/conversation.md†L197-L205】
+- **Practice-Based:** Every course centers on applied projects, oral vivas, and peer critique to demonstrate coherent outcomes.【F:docs/context/conversation.md†L80-L108】
 
-- Primary platform: Canvas LMS
-- Public courses: Coursera
-- Technical infrastructure: Google Cloud
-- Open development: GitHub
+## Delivery Infrastructure
 
-See detailed documentation in the respective sections.
+- **Canvas LMS:** Hosts assessments, peer review, and oral vivas.
+- **Coursera:** Delivers scalable asynchronous media.
+- **Google Cloud Platform:** Provides BigQuery, Vertex AI, and Looker lab environments.
+- **GitHub:** Maintains open curriculum development and documentation workflows.【F:docs/context/conversation.md†L56-L76】
+
+Consult the detailed curriculum, pedagogy, and platform sections for course-level information.

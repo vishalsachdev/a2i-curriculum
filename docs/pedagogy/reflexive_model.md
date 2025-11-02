@@ -1,81 +1,33 @@
 # Reflexive Learning Model
 
-## Overview
+## Why Reflexivity Anchors A²I
 
-The reflexive learning model is a core pedagogical approach in the A2I curriculum, emphasizing continuous reflection, adaptation, and meta-learning.
+The A²I program rejects compliance-driven e-learning in favor of a reflexive model where learners interrogate the sociotechnical systems they build. The founding conversation calls out how conventional LMS platforms over-index on surveillance metrics instead of cognition, pushing us to create spaces where students surface their own judgment and values.【F:docs/context/conversation.md†L139-L154】
 
-## Key Principles
+## Design Commitments
 
-### 1. Reflection as Learning
+1. **Ergative Outcomes First** – Every module culminates in artifacts that show what learners *make*, not just what they recall. Project briefs, playbooks, dashboards, and viva recordings live in public or partner-facing repositories to demonstrate applied impact.【F:docs/context/conversation.md†L141-L147】
+2. **Reflection as Assessment** – Week 8 oral vivas and iterative retros become primary evidence of understanding, requiring learners to narrate their design decisions, governance trade-offs, and ethical stance.【F:docs/context/conversation.md†L76-L88】
+3. **AI as Cognitive Prosthesis** – Intelligent agents critique drafts, surface counterfactuals, and synthesize peer feedback so humans can focus on meaning-making rather than compliance policing.【F:docs/context/conversation.md†L145-L152】
+4. **Governance-as-Design** – Learners practice embedding trust signals, observability, and accountability into every artifact, treating governance as a creative constraint rather than an afterthought.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L100-L109】
 
-Students are encouraged to:
-- Reflect on their learning process
-- Identify strengths and areas for improvement
-- Connect new knowledge to prior understanding
-- Consider multiple perspectives
+## Reflexive Learning Cycle
 
-### 2. Adaptive Learning Paths
+| Stage | Learner Moves | Platform Support |
+|-------|----------------|------------------|
+| **Sense** | Surface assumptions about missions, stakeholders, and data realities. | Curated conversation excerpts, Canvas prompts, Coursera case mini-lectures.【F:docs/context/conversation.md†L27-L88】 |
+| **Design** | Prototype workflows that align humans, data, and agents. | GCP sandboxes, GitHub issues, AI design partners.【F:docs/context/conversation.md†L65-L109】【F:docs/context/conversation.md†L149-L152】 |
+| **Evidence** | Gather causal and experiential evidence of impact and risk. | Studio evaluation harnesses, peer critique rituals, reflexive analytics.【F:docs/context/conversation.md†L101-L114】【F:docs/context/conversation.md†L144-L152】 |
+| **Reflect** | Host vivas, publish public artifacts, iterate governance plans. | Canvas viva rooms, GitHub Pages showcases, Origin Ventures mentorship.【F:docs/context/conversation.md†L76-L134】 |
 
-The curriculum supports:
-- Personalized learning trajectories
-- Flexible pacing
-- Choice in projects and topics
-- Responsive to individual needs
+The cycle repeats weekly across the 8-week template so learners experience continual feedback and revision rather than end-of-term judgment.【F:docs/context/conversation.md†L76-L88】
 
-### 3. Meta-Learning
+## Faculty & Mentor Roles
 
-Students develop:
-- Awareness of their own learning strategies
-- Ability to learn how to learn
-- Self-regulation skills
-- Growth mindset
+- **Socratic Guides:** Faculty use the conversation archive as a living text, asking learners to situate work inside A²I principles and UIUC’s mission.【F:docs/context/conversation.md†L39-L60】
+- **Governance Coaches:** Mentors stress observability, risk posture, and community accountability in every review.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L120-L155】
+- **Entrepreneurial Catalysts:** Advisors connect reflexive insights to venture or systems integration pathways articulated in the capstone tracks.【F:docs/context/conversation.md†L116-L135】
 
-## Implementation
+## Continuous Program Reflection
 
-### Reflection Activities
-
-1. **Learning Journals**: Regular written reflections on learning experiences
-2. **Peer Discussions**: Collaborative reflection sessions
-3. **Project Retrospectives**: Analysis of project outcomes and processes
-4. **Portfolio Reviews**: Curated collections of work with reflective commentary
-
-### AI-Enhanced Reflection
-
-AI tools support reflection by:
-- Prompting reflective questions
-- Analyzing learning patterns
-- Suggesting areas for deeper exploration
-- Providing personalized feedback
-
-### Assessment Integration
-
-Reflection is integrated into assessment:
-- Self-assessment components
-- Reflective essays and reports
-- Process documentation
-- Learning goal setting and review
-
-## Benefits
-
-The reflexive approach:
-- Deepens understanding
-- Promotes autonomous learning
-- Develops critical thinking
-- Prepares for lifelong learning
-- Enhances transfer of knowledge
-
-## Research Foundation
-
-This model draws on:
-- Schön's reflective practitioner
-- Kolb's experiential learning cycle
-- Metacognitive learning theory
-- Self-regulated learning research
-
-## Continuous Improvement
-
-The reflexive model applies to the curriculum itself:
-- Regular curriculum review
-- Student feedback integration
-- Faculty reflection on teaching
-- Iterative refinement
+Monthly governance rituals examine whether coursework still embodies the founding vision—*capability is cheap; coherence is scarce*—and whether new tools or practices enhance coherence for learners and communities.【F:docs/context/conversation.md†L27-L47】【F:docs/context/conversation.md†L214-L230】 When misalignment appears, faculty log issues in GitHub and coordinate fixes through open pull requests so the reflexive ethos guides the curriculum itself.【F:docs/context/conversation.md†L167-L193】

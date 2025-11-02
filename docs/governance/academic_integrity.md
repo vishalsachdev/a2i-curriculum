@@ -1,297 +1,33 @@
-# Academic Integrity
+# Academic Integrity & Coherence Standards
 
-## Overview
+## Purpose
 
-Academic integrity is foundational to the A2I curriculum. We expect all students, faculty, and community members to uphold the highest standards of honesty and ethical behavior.
+Academic integrity within A²I is inseparable from the program’s demand for coherent, mission-aligned systems. Learners must document how humans, data, and agents collaborate, ensuring honesty about contributions, limitations, and risks.【F:docs/context/conversation.md†L27-L47】【F:docs/context/conversation.md†L139-L152】
 
-## Core Values
+## Core Commitments
 
-### Honesty
-- Truthfulness in all academic work
-- Accurate representation of sources
-- Authentic effort and original thinking
+1. **Transparent Authorship:** Every submission—projects, vivas, code, venture briefs—includes an AI-use declaration and collaborator log stored in GitHub.【F:docs/context/conversation.md†L76-L88】【F:docs/context/conversation.md†L167-L193】
+2. **Evidence Integrity:** Data sources, evaluation methods, and observability metrics must be auditable. Fabrication erodes the governance-as-innovation ethos and triggers remediation or disciplinary review.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L100-L109】
+3. **Mission Alignment:** Work must align with UIUC’s access mission and the program’s domain tracks; artifacts that undermine equity or trust are revised or rejected.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L111-L163】
 
-### Trust
-- Mutual respect between students and faculty
-- Reliability in collaboration
-- Confidence in credentials
+## Expectations by Learning Mode
 
-### Fairness
-- Equitable treatment
-- Consistent standards
-- Just consequences
+| Context | Integrity Expectations | Examples |
+|---------|-----------------------|----------|
+| **Canvas Discussions** | Cite conversation excerpts, partner materials, and AI assistance. Challenge ideas respectfully, foregrounding UIUC and Gies values.【F:docs/context/conversation.md†L39-L60】【F:docs/context/conversation.md†L139-L152】 | Annotated discussion posts, AI-generated summaries with disclosure notes. |
+| **Studios & Labs** | Maintain reproducible pipelines, commit histories, and governance checklists. Peer review includes integrity spot-checks.【F:docs/context/conversation.md†L101-L135】 | BigQuery lineage scripts, Vertex AI experiment logs, PR reviews confirming original work. |
+| **Capstone & Ventures** | Publish stakeholder charters, risk registers, and viva transcripts. Misrepresentation of partnerships or metrics violates academic integrity and venture ethics.【F:docs/context/conversation.md†L116-L177】 | Public-facing whitepapers, diligence packets validated by mentors. |
 
-### Respect
-- Acknowledgment of others' work
-- Proper attribution
-- Ethical conduct
+## Handling Violations
 
-### Responsibility
-- Accountability for actions
-- Understanding expectations
-- Commitment to integrity
+1. **Issue Filing:** Suspected violations generate a GitHub issue tagged with the relevant program thread and governance label.【F:docs/context/conversation.md†L156-L163】【F:docs/context/conversation.md†L167-L193】
+2. **Review Panel:** Faculty, governance coaches, and when appropriate partner representatives examine evidence, including AI logs and viva recordings.【F:docs/context/conversation.md†L139-L152】【F:docs/context/conversation.md†L214-L230】
+3. **Restorative Actions:** Outcomes focus on restoring coherence—revisions, public errata, or additional governance training—before escalating to formal sanctions when intent to deceive is clear.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L214-L230】
 
-## Expected Behaviors
+## Support & Education
 
-### Original Work
-- Produce your own authentic work
-- Develop genuine understanding
-- Engage meaningfully with material
+- **Week 0 Orientation:** Canvas hosts workshops on responsible AI, open scholarship, and disclosure expectations.【F:docs/context/conversation.md†L76-L88】
+- **Mentor Clinics:** Studios include integrity checkpoints to model professional ethics in analytics, finance, and healthcare domains.【F:docs/context/conversation.md†L111-L114】【F:docs/context/conversation.md†L135-L163】
+- **Resource Library:** GitHub maintains templates for attribution, data provenance, and viva documentation so learners can comply confidently.【F:docs/context/conversation.md†L167-L193】
 
-### Proper Attribution
-- Cite sources appropriately
-- Acknowledge collaboration
-- Give credit where due
-
-### Honest Representation
-- Represent your abilities accurately
-- Report data truthfully
-- Acknowledge limitations
-
-### Respect for Learning
-- Focus on understanding, not just grades
-- Engage with integrity in all activities
-- Support others' learning
-
-## Prohibited Behaviors
-
-### Plagiarism
-- Using others' work without attribution
-- Self-plagiarism (resubmitting own work)
-- Improper paraphrasing
-- Missing or inadequate citations
-
-### Cheating
-- Using unauthorized materials on exams
-- Copying from others
-- Unauthorized collaboration
-- Contract cheating (having others do work)
-
-### Fabrication
-- Making up data or sources
-- Falsifying results
-- Misrepresenting research
-
-### Facilitation
-- Helping others cheat
-- Sharing solutions inappropriately
-- Selling or distributing course materials
-
-### Other Violations
-- Sabotaging others' work
-- Unauthorized access to materials
-- Misrepresentation of circumstances
-- Bribery or coercion
-
-## AI and Academic Integrity
-
-### Responsible AI Use
-- Follow AI use policy
-- Disclose AI assistance
-- Maintain authentic learning
-- Critical evaluation of AI outputs
-
-### AI-Related Violations
-- Undisclosed AI use
-- Submitting AI-generated work as own
-- Using AI to circumvent learning
-- Inappropriate AI collaboration
-
-See [AI Use Policy](ai_use_policy.md) for details.
-
-## Collaboration Guidelines
-
-### Permitted Collaboration
-- Study groups for concept discussion
-- Peer review when specified
-- Team projects as assigned
-- Helping with debugging concepts (not solutions)
-
-### Individual Work
-- Assignments marked as individual
-- Exams and tests
-- Final submissions (even if collaboration allowed in process)
-- Personal reflections
-
-### Clear Communication
-- Faculty specify collaboration rules
-- When unclear, ask before collaborating
-- Document collaboration properly
-- Acknowledge help received
-
-## Citation and Attribution
-
-### When to Cite
-- Direct quotes
-- Paraphrased ideas
-- Data and statistics
-- Images and media
-- Code snippets
-- AI assistance
-- Peer assistance
-
-### Citation Styles
-- Follow course-specific requirements
-- Consistency within document
-- Common styles: APA, MLA, Chicago, IEEE
-- Code comments for code sources
-
-### Resources
-- Citation guides
-- Reference management tools
-- Writing center support
-- Library services
-
-## Reporting Violations
-
-### Student Responsibility
-- Report suspected violations
-- Seek clarification when unsure
-- Protect academic community
-- Confidential reporting available
-
-### Faculty Responsibility
-- Investigate concerns
-- Fair and consistent process
-- Educate students
-- Document and report
-
-## Violation Process
-
-### Investigation
-1. Concern identified
-2. Evidence gathered
-3. Student notified
-4. Opportunity to respond
-5. Determination made
-
-### Outcomes
-
-#### Educational
-- Discussion with instructor
-- Academic integrity training
-- Reflection assignment
-- Learning opportunity
-
-#### Academic
-- Warning
-- Assignment redo
-- Grade reduction
-- Course failure
-
-#### Disciplinary
-- Probation
-- Suspension
-- Expulsion
-- Transcript notation
-
-### Appeals
-- Right to appeal
-- Clear process
-- Impartial review
-- Timely resolution
-
-## Prevention
-
-### Clear Expectations
-- Syllabus policies
-- Assignment guidelines
-- Rubrics and examples
-- Regular reminders
-
-### Assessment Design
-- Varied assessment types
-- Process-focused assignments
-- Authentic assessments
-- Academic integrity built in
-
-### Support Services
-- Writing center
-- Tutoring
-- Time management
-- Stress management
-- Technology training
-
-## Cultural Considerations
-
-### Different Academic Backgrounds
-- Varying citation practices
-- Different collaboration norms
-- Language challenges
-- Support and education
-
-### International Students
-- Orientation to expectations
-- Additional resources
-- Cultural liaison support
-- Patient guidance
-
-## Technology and Integrity
-
-### Permitted Tools
-- Institutionally provided
-- Explicitly allowed by instructor
-- Properly attributed
-- Used ethically
-
-### Online Exams
-- Proctoring when required
-- Honor code affirmation
-- Secure browsers
-- Clear rules
-
-### Code Similarity
-- Detection tools used
-- Discussion before conclusion
-- Education on proper coding practices
-- Acceptable code reuse policies
-
-## Building Integrity Culture
-
-### Community Responsibility
-- Everyone upholds standards
-- Peer influence positive
-- Open discussion
-- Continuous improvement
-
-### Honor Code
-- Student commitment
-- Community standards
-- Shared responsibility
-- Pride in integrity
-
-### Ongoing Education
-- First-year orientation
-- Course-specific training
-- Workshops and events
-- Resources and support
-
-## Resources
-
-### For Students
-- Academic integrity website
-- Writing center
-- Tutoring services
-- Counseling
-- Ombuds office
-
-### For Faculty
-- Policy guidelines
-- Detection tools
-- Reporting procedures
-- Professional development
-
-## Contact
-
-Questions about academic integrity:
-- Course instructor (first contact)
-- Academic integrity office
-- Student affairs
-- Ombuds
-
-## Related Policies
-
-- AI Use Policy
-- Code of Conduct
-- Privacy Policy
-- Student Conduct Code
+Academic integrity in A²I is not just compliance—it is how we sustain trust in the systems we deploy for public value.【F:docs/context/conversation.md†L27-L47】【F:docs/context/conversation.md†L135-L177】

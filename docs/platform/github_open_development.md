@@ -1,281 +1,38 @@
 # GitHub Open Development
 
-## Overview
+## Why GitHub Matters
 
-GitHub serves as the platform for open, collaborative curriculum development, enabling transparency, community contribution, and version-controlled evolution.
+GitHub is the public memory of the A²I program. It documents curriculum evolution, governance debates, and learner artifacts so the community can hold itself accountable to the founding principles of coherence, inclusion, and reflexive learning.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L167-L193】
 
-## Repository Structure
+## Repository Architecture
 
-### Main Repository
-- Curriculum documentation
-- Course materials
-- Assignment templates
-- Automation workflows
-
-### Course Repositories
-- Individual course content
-- Labs and exercises
-- Solutions (private)
-- Student submissions
-
-### Student Portfolios
-- Personal project repositories
-- Portfolio websites
-- Contribution history
-- Learning artifacts
-
-## Open Source Philosophy
-
-### Transparency
-- Public curriculum development
-- Open issue tracking
-- Visible decision-making
-- Community engagement
-
-### Collaboration
-- Community contributions
-- Faculty collaboration
-- Student input
-- Industry partnerships
-
-### Innovation
-- Rapid iteration
-- Experimental features
-- Best practice sharing
-- Collective improvement
+- **`docs/`** – Curriculum, pedagogy, platform, governance, and entrepreneurship guides linked to conversation excerpts for provenance.【F:docs/context/conversation.md†L167-L193】
+- **`automation/`** – Actions like `ai_review.yml` and `curriculum_change_log.yml` enforce change visibility and AI-use declarations.【F:docs/context/conversation.md†L184-L193】
+- **Studio & Course Repos** – Each course (A²I 601–606, 621–623, 643, 699) maintains templates, rubrics, and sample artifacts under open licenses to encourage remixing and critique.【F:docs/context/conversation.md†L94-L135】
 
 ## Contribution Workflow
 
-### For Students
+1. **Issue First:** Contributors open issues referencing the relevant program thread (Access & Equity, Innovation & Research, Engagement & Economic Development, Leadership & Ethics).【F:docs/context/conversation.md†L156-L163】
+2. **Proposal Draft:** Pull requests include AI-use statements, impact rationale, and links to conversation lines that justify the change.【F:docs/context/conversation.md†L167-L193】
+3. **Peer & AI Review:** Maintainers and AI summarizers collaborate to ensure updates strengthen coherence rather than add disconnected capability.【F:docs/context/conversation.md†L39-L47】【F:docs/context/conversation.md†L184-L193】
+4. **Changelog Automation:** Upon merge, Actions update public logs so the broader community can trace curriculum evolution.【F:docs/context/conversation.md†L184-L193】
 
-#### Learning Through Contribution
-- Report issues in course materials
-- Suggest improvements
-- Fix typos and errors
-- Share resources
+## Learner Engagement
 
-#### Portfolio Building
-- Public project repositories
-- Open-source contributions
-- Collaboration history
-- Professional presence
+- **Project Artifacts:** Students push studio deliverables, evaluation harnesses, and governance dossiers to shared repos, modeling professional documentation habits.【F:docs/context/conversation.md†L101-L135】
+- **Peer Feedback:** PR reviews become structured critique spaces, supported by AI agents that summarize themes and flag unresolved questions before viva sessions.【F:docs/context/conversation.md†L139-L152】
+- **Public Reflection:** Capstone teams publish playbooks and venture briefs through GitHub Pages to contribute to the mission of widening access and economic development.【F:docs/context/conversation.md†L116-L177】【F:docs/context/conversation.md†L156-L163】
 
-### For Faculty
+## Governance & Trust
 
-#### Curriculum Development
-- Content creation and updates
-- Peer review process
-- Version control
-- Change tracking
+- **Transparency:** All governance policies, AI use guidelines, and risk registers live in version control, embodying governance-as-innovation.【F:docs/context/conversation.md†L39-L47】
+- **Accountability Rituals:** Monthly reviews analyze contribution diversity, response times, and inclusion metrics using repository analytics.【F:docs/context/conversation.md†L214-L230】
+- **Community Norms:** The Code of Conduct and contribution guidelines align with UIUC and Gies expectations for respectful, mission-driven collaboration.【F:docs/context/conversation.md†L39-L60】
 
-#### Collaboration
-- Cross-institutional sharing
-- Joint course development
-- Best practice exchange
-- Research collaboration
+## Interface with Other Platforms
 
-### For External Contributors
+- **Canvas:** Gradebook automations trigger when PRs merge, capturing learning evidence in the LMS.【F:docs/context/conversation.md†L76-L88】【F:docs/context/conversation.md†L167-L193】
+- **Coursera:** Selected assignments direct learners to open issues or PRs, ensuring asynchronous study culminates in public artifacts.【F:docs/context/conversation.md†L65-L88】【F:docs/context/conversation.md†L167-L193】
+- **Google Cloud:** Infrastructure code, notebooks, and telemetry pipelines synchronize through GitHub Actions for reproducibility.【F:docs/context/conversation.md†L65-L109】【F:docs/context/conversation.md†L167-L193】
 
-#### Community Participation
-- Issue reporting
-- Feature suggestions
-- Documentation improvements
-- Translation and localization
-
-#### Expert Input
-- Industry perspective
-- Technical expertise
-- Curriculum review
-- Guest content
-
-## GitHub Features in Use
-
-### Issues and Projects
-- Curriculum planning
-- Bug tracking
-- Feature requests
-- Student feedback
-
-### Pull Requests
-- Content updates
-- Peer review
-- Discussion and refinement
-- Approval workflow
-
-### Actions and Automation
-- Automated testing
-- Content validation
-- Deployment pipelines
-- Changelog generation
-
-### Discussions
-- Community forum
-- Q&A
-- Announcements
-- Brainstorming
-
-### GitHub Pages
-- Public documentation
-- Course websites
-- Student portfolios
-- Project showcases
-
-## Integration with Learning
-
-### Version Control Skills
-- Git fundamentals
-- Branching and merging
-- Collaboration workflows
-- Professional practices
-
-### Code Review
-- Peer code review
-- Feedback and iteration
-- Quality standards
-- Communication skills
-
-### Open Source Participation
-- Contributing to real projects
-- Community engagement
-- Professional networking
-- Portfolio development
-
-## Assignment Workflow
-
-### Assignment Distribution
-- Template repositories
-- Classroom integration
-- Automated setup
-- Instructions in README
-
-### Student Submissions
-- Fork and clone
-- Development in branches
-- Pull request submission
-- Automated testing
-
-### Grading and Feedback
-- Code review comments
-- Automated checks
-- Rubric application
-- Grade recording
-
-## Privacy and Academic Integrity
-
-### Public vs. Private
-- Public: Documentation, templates, learning materials
-- Private: Solutions, student grades, sensitive data
-
-### Academic Integrity
-- Plagiarism detection
-- Original work verification
-- Proper attribution
-- Honor code
-
-### Student Control
-- Option for private repositories
-- Selective portfolio sharing
-- Profile privacy settings
-- Contribution visibility
-
-## Community Management
-
-### Governance
-- Clear contribution guidelines
-- Code of conduct
-- Review process
-- Decision-making transparency
-
-### Communication
-- Issue templates
-- PR templates
-- Discussion guidelines
-- Community support
-
-### Recognition
-- Contributor acknowledgment
-- Maintainer roles
-- Achievement badges
-- Community highlights
-
-## Tools and Integrations
-
-### GitHub Classroom
-- Assignment distribution
-- Repository creation
-- Roster management
-- Feedback tools
-
-### GitHub CLI
-- Command-line workflows
-- Automation scripts
-- Bulk operations
-- Integration with tools
-
-### APIs and Webhooks
-- Custom integrations
-- LMS connections
-- Analytics
-- Notifications
-
-## Metrics and Analytics
-
-### Repository Insights
-- Contribution patterns
-- Issue resolution
-- Pull request activity
-- Community growth
-
-### Student Analytics
-- Commit frequency
-- Code quality metrics
-- Collaboration patterns
-- Portfolio completeness
-
-## Best Practices
-
-### Repository Management
-- Clear README files
-- Organized structure
-- Comprehensive documentation
-- Regular maintenance
-
-### Collaboration
-- Descriptive commits
-- Meaningful PR descriptions
-- Constructive reviews
-- Responsive communication
-
-### Documentation
-- Up-to-date content
-- Clear instructions
-- Visual aids
-- Accessibility
-
-## Security
-
-### Access Control
-- Team permissions
-- Branch protection
-- Secret management
-- Audit logs
-
-### Dependency Management
-- Dependabot alerts
-- Security scanning
-- Update automation
-- Vulnerability response
-
-## Future Enhancements
-
-### Planned Features
-- Enhanced classroom tools
-- Better analytics
-- AI-assisted code review
-- Improved collaboration features
-
-### Community Growth
-- Broader participation
-- International expansion
-- Industry partnerships
-- Research collaboration
+GitHub keeps A²I accountable to its founding insight—*capability is cheap; coherence is scarce*—by making every improvement visible, reviewable, and grounded in shared mission.【F:docs/context/conversation.md†L27-L47】
