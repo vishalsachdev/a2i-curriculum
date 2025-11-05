@@ -23,8 +23,8 @@ Entrepreneurship is woven throughout via the venture creation elective (A²I 643
 
 ## Pedagogical Framework
 
-A²I pedagogy unites four complementary models—**Reflexive Learning**, **Cyber-Social Learning**, **AI Feedback and Assessment**, and the **Empowerment ↔ Plasticity Framework**—to transform classrooms into adaptive ecosystems.
-Students and intelligent agents co-create knowledge through cycles of action and reflection, peer critique, and open governance.
+A²I pedagogy unites five complementary models—**Reflexive Learning**, **Cyber-Social Learning**, **AI Feedback and Assessment**, **Empowerment ↔ Plasticity Framework**, and **Capabilities vs Skills**—to transform classrooms into adaptive ecosystems.
+Students and intelligent agents co-create knowledge through cycles of action and reflection, peer critique, and open governance, learning to architect reusable capabilities rather than master transient tools.
 This design widens the program's *coherence bandwidth*: the shared capacity of humans and machines to learn from and with one another.
 See [docs/pedagogy/README.md](../pedagogy/README.md) for details.
 
