@@ -17,6 +17,7 @@ The A2I curriculum combines technical AI/ML education with entrepreneurship, eth
 - [Pedagogy](docs/pedagogy/)
 - [Platform & Tools](docs/platform/)
 - [Governance & Policies](docs/governance/)
+- [Research & Resources](docs/research/)
 - [Roadmap](docs/roadmap.md)
 
 ## Contributing
