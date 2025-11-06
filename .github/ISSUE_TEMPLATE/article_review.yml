@@ -2,8 +2,6 @@ name: Article Review Request
 description: Submit an article (blog, research paper, news) for curriculum impact review
 title: "[Article Review]: "
 labels: ["article-review", "needs-review", "research"]
-assignees:
-  - curriculum-team
 
 body:
   - type: markdown
