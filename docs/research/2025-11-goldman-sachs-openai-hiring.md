@@ -131,7 +131,7 @@ Industry news analysis and trend reporting based on hiring patterns and industry
 
 ### Curriculum Integration Points
 
-1. **Introduction to AI/ML Course**: 
+1. **Introduction to AI/ML Course**:
    - Use in Week 1-2 as motivational example
    - Discuss in "AI Across Industries" module
    - Include in career pathways overview
@@ -158,24 +158,24 @@ Industry news analysis and trend reporting based on hiring patterns and industry
 
 ### Suggested Activities
 
-- **Reading Assignment**: 
+- **Reading Assignment**:
   - Assign as pre-class reading for career development discussion
   - Include in curated articles for industry trends module
   - Pair with similar articles from other industries for comparative analysis
 
-- **Discussion Questions**: 
+- **Discussion Questions**:
   1. What does Goldman Sachs' interest in OpenAI talent suggest about the future skills required in finance? How does this align with your career goals?
   2. How might LLMs transform financial services? What are the opportunities and risks?
   3. What other traditional industries do you think will follow similar patterns? Why?
   4. What combination of domain knowledge and AI skills would be most valuable in finance or your target industry?
   5. What ethical considerations arise when deploying AI in financial decision-making?
 
-- **Lab Exercise**: 
+- **Lab Exercise**:
   - Research and present on AI adoption in different industries (banking, healthcare, retail, etc.)
   - Analyze job postings from major companies for AI-related skill requirements
   - Create a personal skill development plan based on industry trends
 
-- **Project Ideas**: 
+- **Project Ideas**:
   - **Industry Analysis Project**: Research and report on AI transformation in a specific industry
   - **Career Pathway Mapping**: Create visual map of AI career opportunities across sectors
   - **Skills Gap Analysis**: Compare curriculum learning outcomes with industry job requirements
