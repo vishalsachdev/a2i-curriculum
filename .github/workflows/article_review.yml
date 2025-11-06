@@ -8,6 +8,9 @@ jobs:
   process-article-review:
     if: contains(github.event.issue.labels.*.name, 'article-review')
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
 
     steps:
       - name: Checkout repository
@@ -215,6 +218,8 @@ jobs:
       (contains(github.event.issue.labels.*.name, 'reviewed') ||
        contains(github.event.issue.labels.*.name, 'integrated'))
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
 
     steps:
       - name: Thank submitter on completion
