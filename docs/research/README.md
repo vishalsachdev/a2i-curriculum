@@ -85,6 +85,7 @@ When reviewing submitted articles:
 ## Index of Reviews
 
 - [2511.01956v1 - Analysis](2511-01956-analysis.md) - *Pending network access for article retrieval*
+- [2025-11 - Goldman Sachs Now Hiring for OpenAI](2025-11-goldman-sachs-openai-hiring.md) - Industry trends in AI talent acquisition and finance sector transformation
 
 ---
 
