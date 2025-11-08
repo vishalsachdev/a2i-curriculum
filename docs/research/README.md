@@ -47,9 +47,45 @@ When adding a new article review:
 2. Use the template provided in `article-review-template.md`
 3. Link the review in the index below
 
+### Article Submission Process
+
+**For Community Members:**
+
+If you find an article that might be relevant to the curriculum:
+
+1. **Submit via GitHub Issue:**
+   - Go to the [Issues page](../../issues/new/choose)
+   - Select "Article Review Request" template
+   - Fill in the article details and explain its relevance
+   - Submit the issue
+
+2. **What Happens Next:**
+   - Your submission is automatically labeled and assigned to the curriculum team
+   - Initial triage occurs within 2-3 business days
+   - Full review within 1-2 weeks (depending on urgency and complexity)
+   - You'll receive feedback on whether the article will be integrated
+
+3. **Possible Outcomes:**
+   - **Integrate:** Article is reviewed, documented here, and incorporated into curriculum
+   - **Recommended Reading:** Added to course resources but not required material
+   - **Track for Future:** Noted for future curriculum updates
+   - **No Action:** Not relevant at this time (with explanation)
+
+**For Curriculum Team:**
+
+When reviewing submitted articles:
+
+1. Use the reviewer checklist provided in the article review issue
+2. Create a detailed review document using `article-review-template.md`
+3. Save as `YYYY-MM-descriptive-title.md` in this directory
+4. Link to the review in the Index of Reviews section below
+5. Add appropriate labels to the GitHub issue (reviewed, integrated, etc.)
+6. Provide feedback to the submitter
+
 ## Index of Reviews
 
 - [2511.01956v1 - Analysis](2511-01956-analysis.md) - *Pending network access for article retrieval*
+- [2025-11 - Goldman Sachs Now Hiring for OpenAI](2025-11-goldman-sachs-openai-hiring.md) - Industry trends in AI talent acquisition and finance sector transformation
 
 ---
 
