@@ -1,2 +1,152 @@
+# OS-specific files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary and backup files
+*.bak
+*.backup
+*.tmp
+*.temp
+*.log
+
+# Environment and configuration
+.env
+.env.local
+.env.*.local
+*.local
+
+# Python (if using any Python tooling)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Node.js (if using any JS tooling)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Claude AI cache
 .claude/
+
+# Curriculum-specific: Draft and working documents
+*-draft.md
+*-draft.*
+draft-*
+working-*
+wip-*
+*_scratch.*
+*_notes.*
+personal-*
+my-*
+
+# Curriculum-specific: Internal and confidential materials
+*-internal.md
+*-internal.*
+*-confidential.md
+*-confidential.*
+*-private.md
+*-private.*
+internal/
+confidential/
+private/
+
+# Curriculum-specific: Assessment materials (answer keys, solutions, grades)
+answer-keys/
+answer_keys/
+solutions/
+rubrics-private/
+grades/
+student-grades/
+assessment-solutions/
+*-answers.*
+*-solutions.*
+*-key.*
+
+# Curriculum-specific: Student data and submissions
+students/
+student-data/
+submissions/
+student-submissions/
+*-student-data.*
+*-submissions.*
+
+# Curriculum-specific: Institutional documents
+accreditation/
+budgets/
+financial/
+hiring/
+hr/
+personnel/
+strategic-planning/
+
+# Curriculum-specific: Meeting notes and correspondence
+meetings/
+minutes/
+notes/
+correspondence/
+emails/
+*-meeting-notes.*
+
+# Curriculum-specific: Review drafts and internal reviews
+*-review-draft.*
+reviews/drafts/
+reviews/internal/
+
+# Curriculum-specific: Partnership and business development
+partnerships/private/
+partnerships/drafts/
+*-partnership-draft.*
+*-mou-draft.*
+*-proposal-draft.*
+business-development/
+
+# Curriculum-specific: Media files (drafts and large files)
+videos/drafts/
+audio/drafts/
+media/drafts/
+*-draft.mov
+*-draft.avi
+*-draft.mp4
+*-draft.mp3
+*-draft.wav
+# Note: Public media files in videos/, audio/, media/ root are tracked
+# Only ignore drafts and files in draft subdirectories
+
+# Curriculum-specific: Exports and archives
+exports/
+archives/
+*.pdf.bak
+*-export.*
+*-archive.*
+
+# Curriculum-specific: Canvas/Coursera exports
+canvas-exports/
+coursera-exports/
+lms-exports/

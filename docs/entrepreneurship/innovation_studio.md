@@ -1,14 +1,40 @@
-# Innovation Studio & Venture Ecosystem
+# Innovation Studio & Leadership Ecosystem
 
 ## Mission
 
-The Innovation Studio translates A²I’s entrepreneurship thread into a year-round incubator that helps learners turn reflexive insights into ventures aligned with public value. It leverages the Origin Ventures Office, iVenture Accelerator, and Strategy & Innovation faculty network highlighted in the founding conversation.【F:docs/context/conversation.md†L124-L135】
+The Innovation Studio translates A²I's Innovation Leadership thread into a year-round incubator and transformation lab that helps learners turn reflexive insights into high-impact initiatives—whether corporate innovation projects, new ventures, or social enterprises. It recognizes that leadership in the AI era takes multiple forms and supports three distinct pathways aligned with diverse career aspirations.【F:docs/context/conversation.md†L124-L135】
 
-## Participation Pathways
+## Three Innovation Pathways
 
-- **Venture Track Learners:** Students pursuing the A²I 699 Venture Launch capstone secure residency to advance their startups with mentorship and resources.【F:docs/context/conversation.md†L116-L135】
-- **Domain Track Collaborators:** Teams from Growth for Good, Finance for Inclusion, and Healthcare for Humanity electives incubate sector-specific pilots that extend mission impact.【F:docs/context/conversation.md†L111-L114】【F:docs/context/conversation.md†L156-L163】
-- **Community Partners:** Civic and industry partners co-locate for limited residencies to co-design solutions with student teams, reinforcing engagement and economic development commitments.【F:docs/context/conversation.md†L156-L163】
+### 1. Corporate Innovation Pathway (60%)
+**Focus:** Leading AI transformation within existing organizations
+
+**Support Services:**
+- Change management coaching and organizational readiness assessments
+- Executive stakeholder mapping and communication planning
+- Innovation lab design and center of excellence frameworks
+- Budget justification and resource allocation guidance
+- Connection to corporate partners for pilot implementation
+
+### 2. Venture Creation Pathway (25%)
+**Focus:** Launching AI-native startups and technology ventures
+
+**Support Services:**
+- Origin Ventures Office and iVenture Accelerator integration
+- Investor pitch coaching and cap table strategy
+- Product-market fit validation and customer discovery support
+- Fundraising strategy from seed through Series A
+- Legal clinics for entity formation and IP strategy
+
+### 3. Social Innovation Pathway (15%)
+**Focus:** Public sector transformation and social enterprise development
+
+**Support Services:**
+- Public sector partnership development and procurement navigation
+- Multi-stakeholder governance framework design
+- Impact measurement and social value assessment
+- Sustainable funding models for mission-driven organizations
+- Community partner co-location and collaboration support【F:docs/context/conversation.md†L156-L163】
 
 ## Core Services
 
