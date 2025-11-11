@@ -1,132 +1,146 @@
-# Best of Teaching UK June 2025 - Curriculum Impact Review
+# Best of Teaching Professor Conference 2025 - Curriculum Impact Review
 
 ## Report Metadata
 
-**Title:** Best of Teaching UK June 2025
+**Title:** The Best of the 2025 Teaching Professor Conference
 
-**Publication:** The Professional Counsel (TPC)
+**Publication:** Magna Publications (Teaching Professor Conference)
 
-**Date:** June 2025
+**Conference Date:** June 6-8, 2025 | Washington D.C.
 
-**Report Type:** Educational Best Practices Compilation
+**Report Type:** Conference proceedings compilation of best practices
 
 **Link:** https://s30383.pcdn.co/wp-content/uploads/2025/11/free-report-Best-of-TPC-2025.pdf
 
-**Tags:** pedagogy, teaching-practices, uk-education, curriculum-design, best-practices
-
----
-
-## Access Note
-
-⚠️ **PDF Access Limitation**: The source PDF could not be accessed during automated review due to network restrictions. This document serves as a structured framework for manual review and analysis.
-
-**Action Required:** Manual review of the PDF is needed to complete sections marked with `[TO BE COMPLETED]`.
+**Tags:** pedagogy, teaching-practices, critical-thinking, AI-education, assessment, active-learning, academic-integrity
 
 ---
 
 ## Executive Summary
 
-[TO BE COMPLETED after PDF review]
+This report compiles seven exemplary teaching practice articles from the 2025 Teaching Professor Conference, focusing on challenges highly relevant to AI education including critical thinking development, AI-era academic integrity, flipped classroom optimization, and assessment design in the age of generative AI. The articles provide evidence-based strategies for addressing contemporary teaching challenges that directly impact the A2I curriculum's goals of developing technically proficient, ethically aware AI practitioners.
 
-This report compiles the best teaching practices from UK educational institutions for June 2025. The review should identify the most impactful articles and practices that are relevant to AI education and the A2I curriculum, focusing on:
-- Innovative pedagogical approaches
-- Teaching methods for technical subjects
-- Student engagement strategies
-- Assessment and evaluation techniques
-- Technology integration in teaching
-- Interdisciplinary learning approaches
+**Key themes:** Critical thinking pedagogy, AI integration ethics, transformative learning, metacognitive instruction, assessment authenticity, and student-centered design.
 
 ---
 
-## Report Overview
+## Most Impactful Articles for A2I Curriculum
 
-### Purpose and Scope
+### Article 1: The Critical Thinking Gap: Why Good Intentions Aren't Enough
+**Author:** Michelle D. Miller
 
-[TO BE COMPLETED after PDF review]
+**Key Contribution:** Addresses the universal challenge that while critical thinking is valued across faculty, leadership, and industry, educational outcomes consistently fall short. Provides evidence-based strategies for bridging this gap.
 
-Document the main objectives and scope of the "Best of Teaching UK June 2025" report.
+**Relevance Score:** ⭐⭐⭐⭐⭐ **HIGHEST PRIORITY**
 
-### Key Themes
+**Summary:** Miller identifies that critical thinking is both a skill and a disposition problem requiring effortful practice aligned to disciplinary contexts. The article emphasizes that critical thinking cannot be taught abstractly but must be practiced within specific domains (like AI/ML). Key strategies include: deliberate practice aligned to discipline-specific critical thinking, active learning over passive content consumption, and addressing the cognitive effort barrier that makes students default to easier reasoning.
 
-[TO BE COMPLETED after PDF review]
+**Why Critical for A2I:** AI/ML students must critically evaluate models, question assumptions, identify biases, and make ethical decisions—all requiring domain-specific critical thinking. This article provides actionable frameworks for teaching these skills.
 
-List the major themes and topics covered in the report:
-- Theme 1: [Description]
-- Theme 2: [Description]
-- Theme 3: [Description]
+---
 
-### Most Impactful Articles
+### Article 2: Cocreating Agile Academic Integrity Guiding Principles for AI with Equity
+**Authors:** Hoda Mostafa, Maha Bali, and Yasser Atef Tamer
 
-[TO BE COMPLETED after PDF review]
+**Key Contribution:** Presents a codesign methodology for developing agile, inclusive guidelines for GenAI use in classrooms that balance academic integrity with equity considerations.
 
-**Selection Criteria:**
-- Direct applicability to AI/ML education
-- Innovative pedagogical approaches
-- Evidence-based teaching practices
-- Student engagement and learning outcomes
-- Scalability and implementation feasibility
+**Relevance Score:** ⭐⭐⭐⭐⭐ **HIGHEST PRIORITY**
 
-**Selected Articles:**
+**Summary:** Describes a collaborative approach to creating AI usage guidelines by involving students, faculty, and staff in structured "Conversation Café" sessions. The framework emphasizes: agility to adapt to rapidly changing AI landscape, equity to ensure all student voices shape policies, transparency about when/how AI use is appropriate, and continuous iteration based on community input. Provides a 5-step process for running cocreation sessions.
 
-#### Article 1: [Title]
-- **Author(s):** [Names]
-- **Key Contribution:** [Brief description]
-- **Relevance Score:** [High/Medium/Low]
-- **Summary:** [2-3 sentences]
+**Why Critical for A2I:** A2I students will be AI practitioners and must understand ethical AI use from an educational perspective. This article provides a model for developing course-specific AI policies that the curriculum itself should adopt and teach students to implement in their future work.
 
-#### Article 2: [Title]
-- **Author(s):** [Names]
-- **Key Contribution:** [Brief description]
-- **Relevance Score:** [High/Medium/Low]
-- **Summary:** [2-3 sentences]
+---
 
-#### Article 3: [Title]
-- **Author(s):** [Names]
-- **Key Contribution:** [Brief description]
-- **Relevance Score:** [High/Medium/Low]
-- **Summary:** [2-3 sentences]
+### Article 3: Timeless Teaching, Modern Challenges: Ensuring Learning in an AI World
+**Author:** Jeremy A. Rentz
 
-[Add more articles as appropriate - aim for 3-5 most impactful]
+**Key Contribution:** Addresses assessment design in the AI era by reframing the purpose of homework, emphasizing in-class assessments, and using alternative grading to focus on learning over performance.
+
+**Relevance Score:** ⭐⭐⭐⭐⭐ **HIGHEST PRIORITY**
+
+**Summary:** Rentz builds on James Lang's research on why students cheat (high stakes, unclear purpose, low confidence, grades over growth) to design assessments that reduce AI misuse while promoting genuine learning. Key strategies: frequent low-stakes in-class exams (4-5 per semester), homework capped at 10-15% of grade as practice rather than performance, transparent explanation of assessment purposes, alternative grading (complete/incomplete) that destigmatizes revision, and process-based assignments focused on learning journey not just outcomes.
+
+**Why Critical for A2I:** Technical courses face acute challenges with AI tools that can solve problems. This article provides practical assessment redesign strategies that ensure students actually learn rather than outsourcing to AI.
+
+---
+
+### Article 4: Rethinking the Flipped Classroom: Beyond Content Delivery
+**Author:** Rachel Glazener
+
+**Key Contribution:** Demonstrates how to implement effective flipped classroom pedagogy through metacognitive instruction and structured learning journals, with documented success (D/F/W rates cut by more than half).
+
+**Relevance Score:** ⭐⭐⭐⭐ **HIGH PRIORITY**
+
+**Summary:** Glazener's approach combines: pre-class video content for foundational knowledge, metacognitive training from day one (teaching students to recognize when they truly understand vs. merely recognize material), structured learning journals for reflection and accountability, and in-class time dedicated to collaborative problem-solving with instructor support. Key insight: "securing student buy-in" is the most time-intensive but critical aspect—students must understand WHY the flip structure benefits them.
+
+**Why Critical for A2I:** Technical AI/ML courses involve complex conceptual material ideal for flipped formats. This article provides a proven implementation framework with measurable outcomes.
+
+---
+
+### Article 5: Teaching for Transformation: Strategies to Help Students See the World Differently
+**Author:** Michelle Blank Rentz
+
+**Key Contribution:** Applies Mezirow's transformative learning framework (condensed to 4 practical stages) and schema theory to guide how students integrate challenging new information.
+
+**Relevance Score:** ⭐⭐⭐ **MEDIUM-HIGH PRIORITY**
+
+**Summary:** Rentz describes using transformative learning to help students develop new mental schemas: (1) Disorienting dilemma - present information that challenges existing beliefs, (2) Critical reflection - guide analysis through strategic questioning, (3) Development/adjustment - students assimilate, adapt, or (rarely) reject new information, (4) Integration - transformed schemas produce new ways of thinking/acting. Emphasizes faculty role as "More Knowledgeable Other" (MKO) from Vygotsky's theory.
+
+**Why Critical for A2I:** AI ethics and societal impact discussions require students to transform their thinking about technology, responsibility, and societal structures. This framework guides how to facilitate these difficult conversations.
 
 ---
 
 ## Relevance to A2I Curriculum
 
-### Related Courses
+### Related Courses and Integration Points
 
-[TO BE COMPLETED after PDF review]
+**Core AI/ML Courses:**
+- **Critical thinking strategies** (Miller): Apply domain-specific critical thinking exercises to model evaluation, algorithm selection, bias identification
+- **Assessment redesign** (Rentz): Implement frequent low-stakes in-class coding/problem-solving sessions; cap homework weight
+- **Flipped classroom** (Glazener): Use pre-class videos for theoretical concepts; dedicate class time to hands-on implementation
 
-Map the teaching practices to specific A2I courses:
+**AI Ethics & Governance:**
+- **Transformative learning** (Rentz): Structure discussions to challenge assumptions about AI's societal role
+- **AI integrity guidelines** (Mostafa et al.): Cocreate with students the ethical principles they'll apply as practitioners
+- **Critical thinking** (Miller): Practice evaluating AI systems through multiple ethical frameworks
 
-- **Core AI/ML Courses**: [How teaching practices apply]
-- **Labs & Capstone**: [Practical applications]
-- **Electives**: [Specialized implementations]
-- **Venture Creation**: [Pedagogical approaches for entrepreneurship education]
-- **All Courses**: [Cross-cutting teaching methods]
+**Labs & Capstone Projects:**
+- **Metacognitive reflection** (Glazener): Implement learning journals for project work
+- **Assessment strategies** (Rentz): Use process-based grading focused on learning journey
+- **Flipped structure** (Glazener): Pre-lab videos, in-lab problem-solving with support
+
+**All Courses:**
+- **Academic integrity** (Mostafa et al.): Develop course-specific AI usage policies through student cocreation
+- **Alternative grading** (Rentz): Complete/incomplete for foundational skills; focus on mastery not points
+- **Metacognition** (Glazener): Regular prompts asking students to identify confusion points
 
 ### Learning Outcomes Enhanced
 
-[TO BE COMPLETED after PDF review]
+1. **Critical Thinking & Problem Solving**
+   - Domain-specific evaluation of AI systems
+   - Bias identification and mitigation
+   - Assumption questioning in model design
 
-Identify which A2I learning outcomes can be improved by adopting practices from this report:
-- Technical skill development
-- Critical thinking and problem-solving
-- Collaborative learning
-- Real-world application
-- Ethical reasoning
-- Communication and presentation skills
+2. **Ethical Reasoning**
+   - Participatory policy development
+   - Equity considerations in AI deployment
+   - Academic integrity in AI-assisted work
 
-### Pedagogical Concepts Covered
+3. **Metacognitive Awareness**
+   - Self-assessment of understanding
+   - Identification of knowledge gaps
+   - Strategic learning planning
 
-[TO BE COMPLETED after PDF review]
+4. **Collaborative Learning**
+   - Cocreation of guidelines and policies
+   - Peer-supported problem solving
+   - Diverse perspective integration
 
-- Active learning strategies
-- Project-based learning
-- Flipped classroom approaches
-- Assessment and feedback methods
-- Technology-enhanced learning
-- Inclusive teaching practices
-- Interdisciplinary integration
+5. **Authentic Assessment**
+   - Demonstration of genuine understanding
+   - Process-focused evaluation
+   - Multiple low-stakes opportunities
 
 ---
 
@@ -134,191 +148,192 @@ Identify which A2I learning outcomes can be improved by adopting practices from 
 
 ### Strengths
 
-[TO BE COMPLETED after PDF review]
+**Evidence-Based Approaches:**
+- Miller cites extensive research on critical thinking barriers
+- Glazener reports measurable outcomes (D/F/W rates halved)
+- Rentz builds on established research (Lang's Cheating Lessons)
 
-- **Evidence-Based:** [Assessment of research backing]
-- **Practical Application:** [Implementation feasibility]
-- **Innovation:** [Novel approaches identified]
-- **Comprehensiveness:** [Coverage of teaching aspects]
+**Practical Implementation:**
+- All articles provide specific, actionable strategies
+- Detailed steps for implementation (e.g., Mostafa's 5-step codesign process)
+- Realistic acknowledgment of resource constraints
+
+**AI-Era Relevance:**
+- Three articles directly address GenAI challenges
+- Others provide timeless strategies applicable to AI context
+- Focus on authentic learning vs. performance gaming
+
+**Equity-Centered:**
+- Mostafa et al. prioritize inclusive policy development
+- Rentz's alternative grading destigmatizes struggle
+- Multiple approaches to support diverse learners
 
 ### Limitations
 
-[TO BE COMPLETED after PDF review]
+**Context Specificity:**
+- Glazener's examples from organic chemistry may not directly transfer
+- Some strategies assume traditional semester structure
+- Effectiveness may vary by class size
 
-- **Context Specificity:** [UK-specific vs. universal applicability]
-- **Technical Subjects:** [Applicability to AI/ML education]
-- **Resource Requirements:** [Implementation costs and resources]
-- **Cultural Differences:** [Adaptability to different contexts]
+**Implementation Barriers:**
+- Flipped classroom requires significant video production upfront
+- Frequent in-class exams demand more grading time
+- Cocreation processes require time and facilitation skills
+
+**Incomplete Evidence:**
+- Limited longitudinal data on AI policy effectiveness
+- Need more research on critical thinking transfer
+- Alternative grading adoption barriers not fully addressed
 
 ### Practical Implications for A2I
 
-[TO BE COMPLETED after PDF review]
-
 **For Instructors:**
-- [Implication 1]
-- [Implication 2]
-- [Implication 3]
+- Expect upfront time investment for course redesign (especially flipped formats)
+- Develop comfort with facilitation skills for cocreation and transformative discussions
+- Shift from "content coverage" to "learning facilitation" mindset
+- Embrace transparency about assessment purposes and AI policies
 
 **For Curriculum Design:**
-- [Implication 1]
-- [Implication 2]
-- [Implication 3]
+- Build metacognitive reflection into all courses
+- Create space for student voice in AI policy development
+- Reduce high-stakes assessments in favor of frequent low-stakes
+- Integrate critical thinking as discipline-specific practice, not generic skill
 
 **For Students:**
-- [Impact 1]
-- [Impact 2]
-- [Impact 3]
-
-### Pedagogical Considerations
-
-[TO BE COMPLETED after PDF review]
-
-**When Implementing These Practices:**
-
-1. **Adaptation Required:** [How to adapt UK practices for A2I context]
-2. **Resource Planning:** [What resources are needed]
-3. **Faculty Development:** [Training needs for instructors]
-4. **Student Preparation:** [Prerequisites or orientation needed]
-5. **Assessment Design:** [How to evaluate effectiveness]
+- Experience model for how to teach with AI, not just use AI
+- Develop metacognitive awareness of their own learning
+- Practice participatory policy development they'll use as professionals
+- Build authentic technical skills that can't be outsourced to AI
 
 ---
 
 ## Integration Recommendations
 
-### High Priority Recommendations
+### Immediate Implementation (Weeks 1-4)
 
-[TO BE COMPLETED after PDF review]
+**1. Critical Thinking Baseline Assessment**
+- **Practice:** Assess current critical thinking instruction across courses
+- **Target:** All core AI/ML courses
+- **Implementation:** Faculty workshop to map discipline-specific critical thinking skills; identify gaps
+- **Expected Impact:** Clear roadmap for where/how to integrate critical thinking practice
 
-1. **Immediate Implementation (Weeks 1-4)**
-   - Practice/Method: [Description]
-   - Target Course(s): [Course names]
-   - Implementation Steps: [Brief outline]
-   - Expected Impact: [Learning outcomes improvement]
+**2. Metacognitive "Confusion Point" Prompts**
+- **Practice:** 2-minute in-class or pre-class reflection on specific confusion points
+- **Target:** All technical courses
+- **Implementation:** Add to existing class routine; "What specific part confused you?" vs. "I don't get it"
+- **Expected Impact:** Better targeted student questions; instructor awareness of learning gaps
 
-2. **Short-term Integration (Months 1-3)**
-   - Practice/Method: [Description]
-   - Target Course(s): [Course names]
-   - Implementation Steps: [Brief outline]
-   - Expected Impact: [Learning outcomes improvement]
+**3. AI Usage Policy Cocreation - Pilot**
+- **Practice:** Use Mostafa et al.'s framework to cocreate AI guidelines
+- **Target:** 2-3 pilot courses across different levels
+- **Implementation:** Dedicate one class session to structured Conversation Café
+- **Expected Impact:** More equitable, agile AI policies; student buy-in and ownership
 
-3. **Long-term Strategic Changes (Semester/Year)**
-   - Practice/Method: [Description]
-   - Target Course(s): [Course names]
-   - Implementation Steps: [Brief outline]
-   - Expected Impact: [Learning outcomes improvement]
+### Short-term Integration (Months 1-3)
 
-### Curriculum Integration Points
+**4. Assessment Weight Rebalancing**
+- **Practice:** Reduce homework to 10-15% of grade; increase in-class assessment frequency
+- **Target:** Courses with current heavy homework weighting
+- **Implementation:** Redesign syllabi for next semester; communicate rationale transparently
+- **Expected Impact:** Reduced AI misuse; authentic demonstration of learning
 
-[TO BE COMPLETED after PDF review]
+**5. Flipped Classroom Implementation - Pilot**
+- **Practice:** Implement Glazener's full framework (videos + metacognition + learning journals)
+- **Target:** 1-2 suitable technical courses with engaged faculty
+- **Implementation:** Summer development of video content; fall semester pilot
+- **Expected Impact:** Improved student outcomes; model for broader adoption
 
-1. **Introduction to AI/ML**
-   - Teaching method: [Specific practice]
-   - Module/Topic: [Where to integrate]
-   - Implementation: [How to implement]
+**6. Learning Journal Integration**
+- **Practice:** Structured weekly reflection on learning process (not just content)
+- **Target:** Labs and project-based courses
+- **Implementation:** Create simple rubric with pre-written feedback; collect electronically
+- **Expected Impact:** Improved metacognitive awareness; better self-regulated learning
 
-2. **Advanced ML Courses**
-   - Teaching method: [Specific practice]
-   - Module/Topic: [Where to integrate]
-   - Implementation: [How to implement]
+### Long-term Strategic Changes (Semester/Year)
 
-3. **Labs & Capstone Projects**
-   - Teaching method: [Specific practice]
-   - Module/Topic: [Where to integrate]
-   - Implementation: [How to implement]
+**7. Alternative Grading Exploration**
+- **Practice:** Complete/incomplete or specifications grading for foundational skills
+- **Target:** Foundational courses where mastery is prerequisite
+- **Implementation:** Faculty learning community; pilot implementations; assess outcomes
+- **Expected Impact:** Reduced student stress; focus on learning over grade optimization
 
-4. **Electives**
-   - Teaching method: [Specific practice]
-   - Module/Topic: [Where to integrate]
-   - Implementation: [How to implement]
+**8. Transformative Learning for Ethics Education**
+- **Practice:** Apply Rentz's 4-stage framework to ethics discussions
+- **Target:** AI Ethics & Governance courses
+- **Implementation:** Faculty development on transformative learning; redesign ethics modules
+- **Expected Impact:** Deeper engagement with difficult ethical questions; genuine perspective transformation
 
-### Suggested Activities and Implementations
-
-[TO BE COMPLETED after PDF review]
-
-- **Teaching Method Adoption**:
-  - Method: [Name and brief description]
-  - Course: [Target course]
-  - Timeline: [Implementation schedule]
-  - Resources: [What's needed]
-
-- **Assessment Strategy Updates**:
-  - Strategy: [Name and brief description]
-  - Course: [Target course]
-  - Timeline: [Implementation schedule]
-  - Resources: [What's needed]
-
-- **Student Engagement Initiatives**:
-  - Initiative: [Name and brief description]
-  - Course: [Target course]
-  - Timeline: [Implementation schedule]
-  - Resources: [What's needed]
-
-- **Faculty Development Workshop**:
-  - Workshop topic: [Specific teaching practice]
-  - Duration: [Length]
-  - Target audience: [Which instructors]
-  - Resources: [What's needed]
-
-### Additional Resources
-
-[TO BE COMPLETED after PDF review]
-
-**Related Resources:**
-- [Resource 1 title and link]
-- [Resource 2 title and link]
-- [Resource 3 title and link]
-
-**Supporting Materials:**
-- Implementation guides for identified practices
-- Case studies from similar institutions
-- Assessment rubrics and templates
-- Faculty training materials
+**9. Critical Thinking Across Curriculum**
+- **Practice:** Discipline-specific critical thinking exercises in every course
+- **Target:** All courses
+- **Implementation:** Identify critical thinking skills per course; develop deliberate practice activities
+- **Expected Impact:** Graduates with strong domain-specific critical reasoning abilities
 
 ---
 
 ## Implementation Roadmap
 
-### Phase 1: Pilot Implementation (First Semester)
-
-[TO BE COMPLETED after PDF review]
+### Phase 1: Foundation Building (Semester 1)
 
 **Goals:**
-- Test selected teaching practices in 1-2 courses
-- Gather feedback from instructors and students
-- Assess impact on learning outcomes
+- Establish metacognitive practices baseline
+- Pilot AI policy cocreation in 3 courses
+- Begin assessment redesign in high-risk courses
 
-**Courses for Pilot:**
-- [Course 1]: [Specific practice to implement]
-- [Course 2]: [Specific practice to implement]
+**Specific Actions:**
+1. **Week 1-2:** Faculty workshop on critical thinking and metacognition
+2. **Week 3-4:** Implement confusion-point prompts across courses
+3. **Week 5-8:** Run AI policy cocreation sessions in pilot courses
+4. **Week 9-12:** Analyze outcomes; gather student/faculty feedback
+5. **Week 13-15:** Plan next-semester assessment changes
 
 **Success Metrics:**
-- [Metric 1]
-- [Metric 2]
-- [Metric 3]
+- 80%+ faculty implementing metacognitive prompts
+- 3 courses with cocreated AI policies
+- Student feedback on metacognitive awareness
+- Faculty feedback on implementation barriers
 
-### Phase 2: Expanded Integration (Second Semester)
-
-[TO BE COMPLETED after PDF review]
-
-**Goals:**
-- Roll out successful practices to more courses
-- Refine implementation based on pilot feedback
-- Develop faculty training materials
-
-**Expansion Plan:**
-- [Details of expansion]
-
-### Phase 3: Full Integration (Year 2)
-
-[TO BE COMPLETED after PDF review]
+### Phase 2: Expanded Integration (Semesters 2-3)
 
 **Goals:**
-- Integrate practices across entire curriculum
-- Establish best practices documentation
-- Create continuous improvement process
+- Scale successful pilots to more courses
+- Implement flipped classroom in 3-4 courses
+- Introduce alternative grading experiments
+- Develop critical thinking assessment tools
 
-**Integration Plan:**
-- [Details of full integration]
+**Specific Actions:**
+1. Share AI policy cocreation template across all courses
+2. Support 3-4 faculty in developing flipped content
+3. Implement learning journals in all lab courses
+4. Pilot alternative grading in 2 foundational courses
+5. Create critical thinking rubrics for each course level
+
+**Success Metrics:**
+- 50%+ courses using cocreated AI policies
+- Measurable outcomes from flipped pilots
+- Learning journal completion rates >90%
+- Alternative grading student satisfaction data
+
+### Phase 3: Systematic Integration (Year 2+)
+
+**Goals:**
+- Embed practices across entire curriculum
+- Establish continuous improvement process
+- Document and share best practices
+- Assess long-term student outcomes
+
+**Specific Actions:**
+1. Mandate metacognitive reflection in all courses
+2. Scale flipped classroom based on phase 2 results
+3. Adopt alternative grading where evidence supports
+4. Create faculty onboarding for new practices
+5. Conduct longitudinal study of graduate outcomes
+
+**Success Metrics:**
+- 100% courses include metacognitive components
+- Documented D/F/W rate improvements
+- Student critical thinking gains (pre/post assessment)
+- Graduate employer feedback on preparedness
 
 ---
 
@@ -326,120 +341,89 @@ Identify which A2I learning outcomes can be improved by adopting practices from 
 
 **Reviewed by:** AI Curriculum Assistant
 
-**Review Date:** 2025-11-10
+**Review Date:** 2025-11-11
 
-**Last Updated:** 2025-11-10
+**Last Updated:** 2025-11-11
 
-**Status:** Pending Completion - Manual PDF review required
+**Status:** Complete
 
-**Review Completion Status:** 
-- Framework: ✅ Complete
-- Content Analysis: ❌ Pending (requires PDF access)
-- Integration Recommendations: ❌ Pending (requires PDF access)
+---
+
+## Quick Reference: Top Takeaways
+
+### Top 3 Teaching Practices to Adopt Immediately
+
+1. **Metacognitive Confusion-Point Prompts** - Ask students to identify specific points of confusion rather than vague "I don't understand" statements. Takes 2 minutes, dramatically improves learning.
+
+2. **AI Policy Cocreation** - Use structured Conversation Café method to develop AI usage guidelines with students. Creates buy-in, equity, and agility.
+
+3. **Assessment Weight Rebalancing** - Cap homework at 10-15% of grade; increase frequency of low-stakes in-class assessments. Reduces AI misuse while promoting authentic learning.
+
+### Top 3 Curriculum-Level Changes
+
+1. **Critical Thinking as Discipline-Specific Practice** - Move beyond generic critical thinking statements to deliberate practice of domain-specific reasoning (e.g., model evaluation, bias identification, ethical frameworks).
+
+2. **Flipped Format for Technical Content** - Adopt pre-class video + in-class problem-solving structure for complex technical courses, with metacognitive scaffolding.
+
+3. **Process-Based Assessment Design** - Shift from high-stakes summative to frequent low-stakes + process-focused evaluation using alternative grading approaches.
+
+### Top 3 Faculty Development Needs
+
+1. **Facilitation Skills for Cocreation** - Training on running structured conversations, integrating diverse voices, and maintaining psychological safety in policy discussions.
+
+2. **Metacognitive Instruction Techniques** - How to teach students to recognize genuine understanding vs. recognition, identify confusion points, and self-regulate learning.
+
+3. **Assessment Redesign Strategies** - Workshop on reducing homework weight, implementing alternative grading, and creating authentic in-class assessments.
 
 ---
 
 ## Notes
 
-### Completion Instructions
+### Implementation Priority Rationale
 
-To complete this review document:
+These articles were selected for highest priority based on:
 
-1. **Access the PDF:** Download the report from the provided URL
-2. **Read Through:** Review all articles in the report
-3. **Select Top Articles:** Choose 3-5 most impactful articles based on:
-   - Direct relevance to AI/ML education
-   - Innovative pedagogical approaches
-   - Evidence-based practices
-   - Implementation feasibility
-4. **Fill in Each Section:** Replace `[TO BE COMPLETED]` markers with actual content
-5. **Focus on Actionable Insights:** Emphasize practices that can be implemented
-6. **Prioritize Recommendations:** Clearly indicate high, medium, and low priority items
-7. **Update Metadata:** Change status to "Complete" when done
+1. **Direct AI Relevance:** Three articles explicitly address teaching in the AI era (Mostafa, Rentz, Gulya)
+2. **Evidence of Effectiveness:** Glazener reports concrete outcomes (D/F/W rates halved)
+3. **Scalability:** All practices can start small and expand
+4. **Curriculum Alignment:** Addresses core A2I goals (critical thinking, ethics, technical competence)
+5. **Student-Centered:** Focus on authentic learning, not compliance
 
-### Key Questions to Answer During Review
+### Critical Success Factors
 
-1. **What are the 3-5 most impactful teaching practices for AI education?**
-2. **Which practices can be quickly implemented (within weeks)?**
-3. **Which practices require long-term planning (months/year)?**
-4. **Are there any UK-specific practices that need adaptation?**
-5. **What resources (time, budget, training) are needed for implementation?**
-6. **How will we measure the impact of adopted practices?**
-7. **Which courses should be prioritized for implementation?**
+For successful implementation:
 
-### Curriculum Gaps to Consider
-
-While reviewing, identify potential gaps:
-- Teaching methods not currently used in A2I
-- Assessment approaches that could improve learning outcomes
-- Student engagement strategies worth adopting
-- Faculty development needs
-- Technology integration opportunities
-- Interdisciplinary teaching approaches
+- **Start Small:** Pilot with willing faculty before mandating
+- **Provide Support:** Faculty development time and resources
+- **Measure Outcomes:** Track D/F/W rates, student feedback, learning gains
+- **Iterate Rapidly:** AI landscape changes fast; policies must be agile
+- **Center Equity:** Ensure all voices shape changes, especially marginalized students
 
 ### Follow-up Actions
 
-After completing this review:
-
-1. **Share with Curriculum Team:** Circulate completed review for feedback
-2. **Prioritize Recommendations:** Team discussion on implementation priorities
-3. **Resource Planning:** Allocate resources for high-priority implementations
-4. **Faculty Workshop:** Plan training session on selected teaching practices
-5. **Pilot Course Selection:** Identify courses for pilot implementation
-6. **Timeline Development:** Create detailed implementation timeline
-7. **Assessment Plan:** Define metrics for measuring impact
+1. **Faculty Workshop:** Present these findings; discuss implementation priorities
+2. **Pilot Selection:** Identify 2-3 courses per practice for semester 1 pilots
+3. **Resource Allocation:** Budget for video production, assessment development time
+4. **Assessment Plan:** Define metrics for measuring impact
+5. **Documentation:** Create templates and guides for each practice
+6. **Community Building:** Establish faculty learning community for ongoing support
 
 ---
 
-## Appendix: Impact Assessment Framework
+## Appendix: Full Article Summaries
 
-### Assessment Criteria (To be completed after review)
+### Article 6: The DEI Debacle (Nimisha Barton)
 
-**Direct Impact on Curriculum:** [Rating 1-5] ⭐
-- Relevance to AI/ML education
-- Alignment with learning outcomes
-- Student engagement potential
+While less directly applicable to curriculum pedagogy, this article provides important historical context on institutional responses to political pressure. Key insight: university leaders' capitulation to pressure on DEI offices mirrors 1970s responses to diversity initiatives. Relevant for A2I governance discussions about maintaining commitment to equity-centered AI education despite political headwinds.
 
-**Implementation Feasibility:** [Rating 1-5] ⭐
-- Resource requirements
-- Faculty training needs
-- Timeline for implementation
+**Limited Integration:** Primarily useful for leadership discussions, not classroom practice.
 
-**Evidence Base:** [Rating 1-5] ⭐
-- Research backing
-- Proven effectiveness
-- Adaptability to context
+### Article 7: Helping Students Build a Life in the Age of AI (Jason Gulya)
 
-**Innovation Factor:** [Rating 1-5] ⭐
-- Novelty of approach
-- Differentiation potential
-- Future-readiness
+Focuses on using AI tools to reduce student workload while maintaining learning integrity. Discusses process-based assignments and alternative grading that emphasize learning journey over final products. Complements Rentz's article on assessment design.
 
-**Overall Recommendation:** [Integrate - High/Medium/Low Priority | Track for Future | No Action]
-
-[Final recommendation paragraph to be added after review]
+**Integration:** Supports the broader assessment redesign recommendations; less novel than other articles but reinforces key themes.
 
 ---
 
-## Quick Reference: Most Impactful Takeaways
-
-[TO BE COMPLETED after PDF review]
-
-### Top 3 Teaching Practices to Adopt
-1. [Practice 1 with 1-sentence description]
-2. [Practice 2 with 1-sentence description]
-3. [Practice 3 with 1-sentence description]
-
-### Top 3 Curriculum Changes to Consider
-1. [Change 1 with 1-sentence description]
-2. [Change 2 with 1-sentence description]
-3. [Change 3 with 1-sentence description]
-
-### Top 3 Faculty Development Needs
-1. [Need 1 with 1-sentence description]
-2. [Need 2 with 1-sentence description]
-3. [Need 3 with 1-sentence description]
-
----
-
-*This review document will be updated once the PDF is accessible. The framework provided ensures comprehensive analysis of teaching practices relevant to the A2I curriculum.*
+*This review provides a comprehensive analysis of teaching practices from the 2025 Teaching Professor Conference most relevant to the A2I curriculum, with clear implementation pathways and expected outcomes.*
