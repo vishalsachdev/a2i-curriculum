@@ -713,6 +713,6 @@ The program is positioned to become a signature offering that enhances instituti
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** November 2024  
+**Document Version:** 1.0
+**Last Updated:** November 2025
 **Contact:** vishal AT illinois DOT edu

@@ -172,7 +172,7 @@ governance_coherence:
 ### Executive Dashboard View
 
 ```markdown
-# Q4 2024 AI Coherence Scorecard
+# Q4 2025 AI Coherence Scorecard
 
 ## Overall Coherence Score: 72/100 🟡
 
@@ -232,14 +232,14 @@ gantt
     title Coherence Improvement Roadmap
     dateFormat  YYYY-MM-DD
     section Strategic
-    Strategy Alignment Workshop    :2024-01-01, 7d
+    Strategy Alignment Workshop    :2025-01-01, 7d
     Portfolio Rebalancing          :7d
     section Stakeholder
-    Stakeholder Mapping            :2024-01-01, 5d
+    Stakeholder Mapping            :2025-01-01, 5d
     Engagement Plan                :5d
     Feedback Systems               :5d
     section Governance
-    Policy Development             :2024-01-08, 14d
+    Policy Development             :2025-01-08, 14d
     Committee Formation            :7d
 ```
 
@@ -332,7 +332,7 @@ class CoherenceCalculator:
 
 **Executive Presentation Format:**
 ```markdown
-## AI Coherence Update - Q4 2024
+## AI Coherence Update - Q4 2025
 
 ### Headlines
 - Overall coherence improved 12 points to 72/100
@@ -376,7 +376,7 @@ def evaluate_vendor_coherence(vendor, our_scorecard):
 
 ## Industry Benchmarks
 
-### Coherence by Industry (2024)
+### Coherence by Industry (2025)
 
 | Industry | Average Score | Top Quartile | Leader |
 |----------|--------------|--------------|---------|

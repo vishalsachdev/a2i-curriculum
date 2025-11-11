@@ -1,7 +1,7 @@
 # Business School Adaptations: Implementation Summary
 
-**Date:** November 11, 2024  
-**Based on:** First-Principles Curriculum Review (November 2024)  
+**Date:** November 11, 2025
+**Based on:** First-Principles Curriculum Review (November 2025)  
 **Aligned with:** Online Delivery Adaptation Framework
 
 ## Overview
@@ -379,12 +379,12 @@ While adapting for business school context, the program maintains core principle
 
 ## Next Steps
 
-**Immediate (Week of November 11, 2024):**
+**Immediate (Week of November 11, 2025):**
 1. Review and approve changes with program leadership
 2. Share with faculty for feedback and buy-in
 3. Begin Phase 1 planning and resource allocation
 
-**Phase 1 Launch (January 2025):**
+**Phase 1 Launch (January 2026):**
 1. Deploy Business Coherence Scorecard in Canvas
 2. Train faculty on new assessment methods
 3. Launch industry partnership outreach
@@ -408,10 +408,10 @@ The Business Coherence Scorecard, Innovation Leadership framework, and industry 
 
 ---
 
-*This summary document accompanies the First-Principles Curriculum Review (November 2024) and provides a roadmap for the next phase of A²I program evolution.*
+*This summary document accompanies the First-Principles Curriculum Review (November 2025) and provides a roadmap for the next phase of A²I program evolution.*
 
 ## Document History
 
-- **November 11, 2024** - Initial creation based on first-principles review implementation
-- **Next Review** - March 2025 (quarterly review of Phase 1 progress)
+- **November 11, 2025** - Initial creation based on first-principles review implementation
+- **Next Review** - March 2026 (quarterly review of Phase 1 progress)
 
