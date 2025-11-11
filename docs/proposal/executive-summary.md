@@ -60,8 +60,8 @@ Eight foundational courses covering:
 - Predictive & Prescriptive AI
 - Intelligent Agents & Workflows
 - Governance & Trust Systems
-- AI Economics & Business Models *(New)*
-- Leading AI Transformation *(New)*
+- AI Economics & Business Models
+- Leading AI Transformation
 
 **Applied Studios (9 credits):**
 Three hands-on project studios:

@@ -110,7 +110,7 @@ The adaptations operationalize the program's central insight—*capability is ch
   - **A²I 605**: Added change management, human-AI team leadership
   - **A²I 606**: Added regulatory frameworks (COBIT/ISO)
 
-- Added two new business-focused courses:
+- Added two business-focused courses to the core:
   - **A²I 607 – AI Economics & Business Models**
     - Platform economics and network effects
     - AI pricing strategies and value capture
@@ -289,7 +289,7 @@ The adaptations operationalize the program's central insight—*capability is ch
 - Budget: $120,000
 
 **Phase 3 (Months 7-12): Structural Additions**
-- Launch A²I 607 and 608 (new courses)
+- Launch A²I 607 and 608
 - Establish industry advisory boards (3 tracks)
 - Develop executive education version
 - Create corporate partnership program ($400K revenue target)

@@ -21,50 +21,50 @@ Each course would follow a business sprint cycle structure that mirrors real org
 - **Executive Briefing Skills:** Regular practice communicating to decision-makers rather than technical peers
 - **Coherence Assessment:** Business Coherence Scorecard tracking throughout provides continuous improvement framework
 
-## A²I 601 – AI Strategy & Problem Framing (Enhanced)
+## A²I 601 – AI Strategy & Problem Framing
 - Position AI initiatives within organizational missions and stakeholder needs.
 - Diagnose coherence gaps across data, workflows, and governance.
 - Practice strategic narrative framing and portfolio prioritization.
-- **NEW:** AI vendor evaluation frameworks and build vs. buy decisions.
-- **NEW:** Technology readiness assessment and ROI analysis.
-- **NEW:** Cost-benefit analysis for AI initiatives.
+- AI vendor evaluation frameworks and build vs. buy decisions.
+- Technology readiness assessment and ROI analysis.
+- Cost-benefit analysis for AI initiatives.
 
 ## A²I 602 – Data & AI Infrastructure
 - Design inclusive data architectures leveraging Google Cloud services.
 - Establish observability, lineage, and data quality metrics.
 - Integrate privacy, security, and accessibility into infrastructure decisions.
-- **NEW:** Data monetization strategies and data-as-asset frameworks.
-- **NEW:** Multi-vendor management and platform integration.
+- Data monetization strategies and data-as-asset frameworks.
+- Multi-vendor management and platform integration.
 
 ## A²I 603 – Evidence & Causality
 - Apply experimental and quasi-experimental methods for trustworthy inference.
 - Evaluate bias, fairness, and differential impact across populations.
 - Interpret causal evidence to guide iterative product decisions.
-- **NEW:** Business impact assessment and ROI measurement.
-- **NEW:** A/B testing for business metrics optimization.
+- Business impact assessment and ROI measurement.
+- A/B testing for business metrics optimization.
 
 ## A²I 604 – Predictive & Prescriptive AI
 - Operationalize predictive models alongside prescriptive optimization.
 - Balance automation with human judgment in complex workflows.
 - Align AI interventions with sustainable value and mission outcomes.
-- **NEW:** Platform economics and network effects.
-- **NEW:** AI pricing strategies and value capture models.
+- Platform economics and network effects.
+- AI pricing strategies and value capture models.
 
 ## A²I 605 – Intelligent Agents & Workflows
 - Architect agentic systems for automation, augmentation, and collaboration.
 - Map human-in-the-loop controls, escalation paths, and safety guardrails.
 - Prototype multi-agent workflows that demonstrate reliability and coherence.
-- **NEW:** Managing human-AI teams and change management.
-- **NEW:** Stakeholder communication and AI literacy programs.
+- Managing human-AI teams and change management.
+- Stakeholder communication and AI literacy programs.
 
 ## A²I 606 – Governance & Trust Systems
 - Translate regulatory, ethical, and institutional requirements into design constraints.
 - Develop accountability frameworks, audit trails, and compliance dashboards.
 - Facilitate cross-functional governance rituals and reflective practice.
-- **NEW:** Regulatory landscape navigation and compliance frameworks.
-- **NEW:** COBIT/ISO frameworks integration for enterprise governance.
+- Regulatory landscape navigation and compliance frameworks.
+- COBIT/ISO frameworks integration for enterprise governance.
 
-## A²I 607 – AI Economics & Business Models (New)
+## A²I 607 – AI Economics & Business Models
 - Platform economics and network effects in AI markets.
 - AI pricing strategies and value capture mechanisms.
 - Market structure and competitive dynamics in AI industries.
@@ -72,7 +72,7 @@ Each course would follow a business sprint cycle structure that mirrors real org
 - Business model innovation for AI-native companies.
 - Economic impact assessment and market sizing.
 
-## A²I 608 – Leading AI Transformation (New)
+## A²I 608 – Leading AI Transformation
 - Change management strategies for AI adoption.
 - Building data-driven organizational cultures.
 - Managing resistance and building trust in AI systems.

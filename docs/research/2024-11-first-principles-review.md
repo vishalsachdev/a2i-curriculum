@@ -162,18 +162,18 @@ Reframe as three pathways:
 
 ### 8. Add Business Fundamentals for AI Leaders
 
-#### New Addition: Business School Unique Value
+#### Addition: Business School Unique Value
 **Business School Opportunity**: Teach what CS programs cannot.
 
-**Recommended Additions:**
+**Recommended Additions (now incorporated into proposal):**
 
-**A²I 607 – AI Economics and Business Models** (New Core Course)
+**A²I 607 – AI Economics and Business Models**
 - Platform economics and network effects
 - AI pricing strategies and value capture
 - Market structure and competitive dynamics
 - Regulation and antitrust considerations
 
-**A²I 608 – Leading AI Transformation** (New Core Course)
+**A²I 608 – Leading AI Transformation**
 - Change management for AI adoption
 - Building data-driven cultures
 - Managing human-AI teams

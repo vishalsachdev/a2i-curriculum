@@ -72,8 +72,8 @@ Eight foundational courses would establish shared literacy in orchestrating inte
 - **A²I 604 – Predictive & Prescriptive AI**: Balance automation with judgment, platform economics, pricing strategies
 - **A²I 605 – Intelligent Agents & Workflows**: Architect multi-agent systems, change management, human-AI teams
 - **A²I 606 – Governance & Trust Systems**: Regulatory requirements, COBIT/ISO frameworks, compliance
-- **A²I 607 – AI Economics & Business Models** *(New)*: Platform economics, pricing strategies, market dynamics, competitive positioning
-- **A²I 608 – Leading AI Transformation** *(New)*: Change management, building data cultures, executive communication, innovation labs
+- **A²I 607 – AI Economics & Business Models**: Platform economics, pricing strategies, market dynamics, competitive positioning
+- **A²I 608 – Leading AI Transformation**: Change management, building data cultures, executive communication, innovation labs
 
 #### Applied Studios (9 credits)
 Three project-intensive studios would provide hands-on practice:
