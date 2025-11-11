@@ -1,4 +1,4 @@
-# Contributing to A2I Curriculum
+# Contributing to A²I Curriculum
 
 Thank you for your interest in contributing to the AI for Innovation curriculum!
 
@@ -51,7 +51,7 @@ Found an interesting article, blog post, or research paper relevant to AI educat
 - Opinion pieces on AI ethics and policy
 - White papers from industry leaders
 
-See [docs/research/README.md](research/README.md) for more about our article review process.
+See [Research & Resources](research/README.md) for more about our article review process.
 
 ## Review Process
 

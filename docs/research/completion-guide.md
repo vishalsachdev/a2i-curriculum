@@ -7,7 +7,7 @@ This guide provides instructions for completing the review of arXiv article 2511
 ## Prerequisites
 
 - Access to the internet to retrieve the arXiv article
-- Understanding of the A2I curriculum structure (see [curriculum overview](../curriculum/overview.md))
+- Understanding of the A²I curriculum structure (see [curriculum overview](../curriculum/overview.md))
 - Familiarity with the curriculum's learning outcomes and course objectives
 
 ## Step-by-Step Instructions
@@ -39,7 +39,7 @@ As you read, document:
 
 ### 4. Analyze Curriculum Relevance
 
-For each A2I course, consider:
+For each A²I course, consider:
 
 #### A²I 601 - AI Strategy & Problem Framing
 - Does the paper present strategic insights about AI deployment?
@@ -186,4 +186,4 @@ If you encounter challenges completing the review:
 
 ---
 
-*This guide is part of the A2I curriculum development process. Last updated: 2025-11-05*
+*This guide is part of the A²I curriculum development process. Last updated: 2025-11-05*
