@@ -1,0 +1,174 @@
+name: Curriculum Update Proposal
+description: Propose changes, additions, or updates to curriculum content
+title: "[Curriculum Update]: "
+labels: ["curriculum-update", "needs-review"]
+assignees:
+  - curriculum-team
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for proposing a curriculum update!
+        Please provide as much detail as possible to help us evaluate your proposal.
+
+  - type: dropdown
+    id: update-type
+    attributes:
+      label: Type of Update
+      description: What kind of update are you proposing?
+      options:
+        - New course
+        - New module/section
+        - Content revision
+        - Content removal
+        - Reordering/restructuring
+        - New elective
+        - Lab/exercise update
+        - Assessment change
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Curriculum Area
+      description: Which area of the curriculum does this affect?
+      options:
+        - Core Courses
+        - Electives
+        - Labs and Capstone
+        - Entrepreneurship
+        - Pedagogy
+        - Platform/Delivery
+        - Governance/Policies
+        - Cross-cutting
+    validations:
+      required: true
+
+  - type: input
+    id: course-module
+    attributes:
+      label: Course/Module Name
+      description: Name of the course or module being updated (or proposed name for new content)
+      placeholder: e.g., Advanced Reinforcement Learning
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-state
+    attributes:
+      label: Current State
+      description: Describe the current curriculum content (skip if proposing new content)
+      placeholder: What currently exists that you want to change?
+
+  - type: textarea
+    id: proposed-changes
+    attributes:
+      label: Proposed Changes
+      description: Describe your proposed changes in detail
+      placeholder: |
+        Be specific about:
+        - What you want to add/change/remove
+        - How it should be structured
+        - Key topics or content
+        - Suggested learning objectives
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why is this change needed?
+      placeholder: |
+        Explain:
+        - What problem does this solve?
+        - What need does it address?
+        - How does it improve the curriculum?
+        - Any supporting evidence or research
+    validations:
+      required: true
+
+  - type: textarea
+    id: learning-outcomes
+    attributes:
+      label: Learning Outcomes Impact
+      description: How does this affect student learning outcomes?
+      placeholder: |
+        - What will students be able to do after this change?
+        - How does it align with program outcomes?
+        - What skills/knowledge will students gain?
+
+  - type: textarea
+    id: prerequisites
+    attributes:
+      label: Prerequisites
+      description: What prior knowledge or courses are required? (if applicable)
+      placeholder: e.g., Introduction to ML, Linear Algebra
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty Level
+      description: What level is this content? (if applicable)
+      options:
+        - Introductory
+        - Intermediate
+        - Advanced
+        - Mixed
+        - N/A
+
+  - type: textarea
+    id: resources
+    attributes:
+      label: Resources Required
+      description: What resources would be needed to implement this?
+      placeholder: |
+        Consider:
+        - Faculty expertise
+        - Technology/platforms
+        - Datasets
+        - Computing resources
+        - Time investment
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementation Timeline
+      description: When and how should this be implemented?
+      placeholder: |
+        Suggested timeline and rollout strategy
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Any supporting materials, links, or references?
+      placeholder: |
+        - Academic papers
+        - Industry standards
+        - Similar courses at other institutions
+        - Relevant resources
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Proposal Checklist
+      description: Please confirm you've considered these aspects
+      options:
+        - label: Aligns with curriculum vision and goals
+        - label: Considers student learning outcomes
+        - label: Has clear rationale and justification
+        - label: Feasible to implement with available resources
+        - label: I'm willing to contribute to implementation (if applicable)
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this proposal, you agree to follow our Code of Conduct
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
