@@ -1,5 +1,5 @@
 # First-Principles Curriculum Review: Business School Context
-*Date: November 11, 2024*  
+*Date: November 11, 2025*  
 *Author: Curriculum Review Team*
 
 ## Executive Summary

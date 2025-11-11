@@ -116,10 +116,12 @@ Keep the changelog high-level and curated, not granular. It should tell the stor
 - `bug_report.yml` - Documentation errors
 - `feedback.yml` - General feedback
 
-## Roadmap Phases
+## Program Metrics & Continuous Improvement
 
-- **Phase 0 (Months 0-3):** Foundation - GitHub structure, Canvas shell, Coursera pilots, GCP provisioning
-- **Phase 1 (Months 4-9):** Core Launch - Core courses 601-606, studios 621-623, policies, electives
-- **Phase 2 (Months 10-15):** Entrepreneurship & Capstone - Venture course, capstone pathways, dashboards
-- **Phase 3 (Months 16-24):** Governance Scaling - Monthly rituals, partnerships, multilingual tracks
-- **Phase 4 (Months 25+):** Continuous Innovation - Public research, venture ecosystem, platform updates
+The program prioritizes coherence, inclusion, entrepreneurship, governance, and open development as core success themes. Detailed metrics and assessment frameworks are documented in:
+
+- **`docs/metrics.md`** - Program success metrics aligned with "Capability is cheap; coherence is scarce" philosophy
+- **`docs/pedagogy/business_coherence_scorecard.md`** - Student-level assessment tool for measuring coherence
+- **`docs/research/2025-11-first-principles-review.md`** - Annual curriculum review methodology
+
+**Philosophy:** Continuous improvement over fixed roadmaps. Success is measured by coherence (alignment across strategy-operations-governance), not by time-bound deliverables.

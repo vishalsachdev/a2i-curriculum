@@ -281,7 +281,7 @@ Created five comprehensive proposal documents in `docs/proposal/`:
 - `docs/proposal/executive-summary.md`
 - `docs/proposal/business-case.md`
 - `docs/proposal/stakeholder-benefits.md`
-- `docs/proposal/approval-roadmap.md`
+- `docs/proposal/approval-roadmap.md` *(later removed; replaced by `docs/metrics.md` to focus on continuous improvement over time-bound phases)*
 - `docs/proposal/FAQ.md`
 - `docs/proposal/review-checklist.md`
 - `appendices/README.md`
