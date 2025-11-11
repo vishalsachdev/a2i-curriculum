@@ -360,7 +360,7 @@ gcp_organization:
   structure:
     organization: "a2i-curriculum.org"
     folders:
-      - name: "cohort-2024-fall"
+      - name: "cohort-2025-fall"
         projects:
           - instructor-resources
           - shared-datasets

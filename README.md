@@ -146,7 +146,7 @@ This proposal is organized for different audiences. Start with the sections most
 
 **Start here for strategic overview:**
 - [Curriculum Overview](docs/curriculum/overview.md) – Program vision and business school positioning
-- [Business School Adaptations Summary](docs/curriculum/business_school_adaptations_summary.md) – Strategic enhancements (Nov 2024)
+- [Business School Adaptations Summary](docs/curriculum/business_school_adaptations_summary.md) – Strategic enhancements (Nov 2025)
 - [Roadmap](docs/roadmap.md) – Development phases and success metrics
 - [Research Foundation](docs/research/) – Evidence base for program design
 
@@ -250,6 +250,6 @@ We are committed to maintaining an inclusive, respectful learning community. Thi
 
 **Contact**: For inquiries about the A²I proposal, contact vishal AT illinois DOT edu or open an issue in this repository.
 
-**Last Updated:** November 2024
+**Last Updated:** November 2025
 
 *Built on the insight that capability is cheap; coherence is scarce.*

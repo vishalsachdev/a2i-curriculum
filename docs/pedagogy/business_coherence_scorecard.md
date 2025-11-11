@@ -359,5 +359,5 @@ This tool bridges the gap between the program's innovative vision and business s
 
 ---
 
-*This scorecard undergoes quarterly review. Current version: 1.0 (November 2024). Feedback and contributions welcome via curriculum GitHub repository.*
+*This scorecard undergoes quarterly review. Current version: 1.0 (November 2025). Feedback and contributions welcome via curriculum GitHub repository.*
 
