@@ -53,6 +53,14 @@ As AI systems like Claude Skills demonstrate, employers need graduates who can e
 
 ---
 
+### 6. Business Coherence Scorecard
+The Business Coherence Scorecard operationalizes the program's core insight—*capability is cheap; coherence is scarce*—into measurable business metrics using established frameworks.  
+Students track their progress across five dimensions: Strategic Alignment, Operational Efficiency, Stakeholder Value, Risk Management, and Innovation Pipeline.  
+The scorecard provides a common language for assessing AI initiatives throughout the program and in workplace applications, using tools like Balanced Scorecards, Six Sigma/Lean, Stakeholder Value Maps, COBIT/ISO frameworks, and Stage-Gate models.  
+→ See [`business_coherence_scorecard.md`](business_coherence_scorecard.md)
+
+---
+
 ## Faculty & Governance
 - **Governance-as-Design:** trust, observability, and accountability are treated as creative constraints.  
 - **Reflexive Review:** monthly governance rituals assess whether coursework still embodies the founding vision.  
