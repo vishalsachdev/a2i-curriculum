@@ -147,7 +147,7 @@ This proposal is organized for different audiences. Start with the sections most
 **Start here for strategic overview:**
 - [Curriculum Overview](docs/curriculum/overview.md) – Program vision and business school positioning
 - [Business School Adaptations Summary](docs/curriculum/business_school_adaptations_summary.md) – Strategic enhancements (Nov 2025)
-- [Roadmap](docs/roadmap.md) – Development phases and success metrics
+- [Success Metrics](docs/metrics.md) – Program evaluation framework aligned with coherence philosophy
 - [Research Foundation](docs/research/) – Evidence base for program design
 
 **Key questions answered:**
@@ -212,7 +212,7 @@ This proposal is organized for different audiences. Start with the sections most
 - [Platform & Tools](docs/platform/)
 - [Governance & Policies](docs/governance/)
 - [Research & Evidence](docs/research/)
-- [Development Roadmap](docs/roadmap.md)
+- [Success Metrics & Continuous Improvement](docs/metrics.md)
 
 ## Contributing to This Proposal
 
