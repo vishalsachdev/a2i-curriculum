@@ -86,6 +86,7 @@ When reviewing submitted articles:
 
 - [2511.01956v1 - Analysis](2511-01956-analysis.md) - *Pending network access for article retrieval*
 - [2025-11 - Goldman Sachs Now Hiring for OpenAI](2025-11-goldman-sachs-openai-hiring.md) - Industry trends in AI talent acquisition and finance sector transformation
+- [2025-06 - Best of Teaching Professor Conference 2025](2025-06-best-of-teaching-uk.md) - Critical thinking, AI-era assessment, flipped classroom, and academic integrity practices for AI education
 
 ---
 
