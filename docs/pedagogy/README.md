@@ -45,6 +45,14 @@ Each course alternates between action and adaptation, expanding the program’s 
 
 ---
 
+### 5. Capabilities vs Skills: Architecting Knowledge Systems
+Business schools traditionally taught tool skills—Excel formulas, Python scripts, BI dashboards.  
+A²I teaches **capability architecture**—designing reusable, composable knowledge systems that orchestrate AI, humans, and data into coherent workflows.  
+As AI systems like Claude Skills demonstrate, employers need graduates who can encode business logic into intelligent system architectures, not just execute tasks with current tools.  
+→ See [`capabilities_vs_skills.md`](capabilities_vs_skills.md)
+
+---
+
 ## Faculty & Governance
 - **Governance-as-Design:** trust, observability, and accountability are treated as creative constraints.  
 - **Reflexive Review:** monthly governance rituals assess whether coursework still embodies the founding vision.  

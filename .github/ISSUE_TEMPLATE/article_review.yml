@@ -1,0 +1,212 @@
+name: Article Review Request
+description: Submit an article (blog, research paper, news) for curriculum impact review
+title: "[Article Review]: "
+labels: ["article-review", "needs-review", "research"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for sharing an article with us!
+        This template helps us evaluate how articles might impact or be integrated into the A2I curriculum.
+
+  - type: input
+    id: article-url
+    attributes:
+      label: Article URL
+      description: Link to the article
+      placeholder: https://example.com/article
+    validations:
+      required: true
+
+  - type: input
+    id: article-title
+    attributes:
+      label: Article Title
+      description: Full title of the article
+      placeholder: e.g., "Goldman Sachs Now Hiring for OpenAI"
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author(s)
+      description: Author name(s) or publication
+      placeholder: e.g., John Doe, TechCrunch
+
+  - type: input
+    id: publication-date
+    attributes:
+      label: Publication Date
+      description: When was this published?
+      placeholder: e.g., 2025-11-01
+
+  - type: dropdown
+    id: article-type
+    attributes:
+      label: Article Type
+      description: What type of article is this?
+      options:
+        - Research paper
+        - Industry blog post
+        - News article
+        - Technical documentation
+        - Opinion/analysis piece
+        - Case study
+        - White paper
+        - Tutorial/guide
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: article-summary
+    attributes:
+      label: Article Summary
+      description: Brief summary of the article's main points
+      placeholder: |
+        Provide a 2-3 sentence summary of what the article covers and its main argument or findings.
+    validations:
+      required: true
+
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Relevance to A2I Curriculum
+      description: Why is this article relevant to the curriculum?
+      placeholder: |
+        Explain:
+        - What topic or concept does it relate to?
+        - How might it impact curriculum design or content?
+        - Does it represent an industry trend we should address?
+        - Does it suggest gaps in current curriculum?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: curriculum-area
+    attributes:
+      label: Curriculum Area(s)
+      description: Which area(s) of the curriculum does this relate to?
+      multiple: true
+      options:
+        - Core Courses
+        - Machine Learning
+        - Deep Learning
+        - NLP/LLMs
+        - Computer Vision
+        - Reinforcement Learning
+        - AI Ethics
+        - Electives
+        - Labs and Capstone
+        - Entrepreneurship
+        - Industry Trends
+        - Career Development
+        - Research Methods
+        - Platform/Tools
+        - Governance/Policies
+        - Cross-cutting
+
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: Urgency
+      description: How time-sensitive is this review?
+      options:
+        - Low - General interest, no rush
+        - Medium - Relevant trend, review within a month
+        - High - Significant impact, review soon
+        - Critical - Immediate curriculum implications
+      default: 0
+    validations:
+      required: true
+
+  - type: textarea
+    id: curriculum-impact
+    attributes:
+      label: Potential Curriculum Impact
+      description: How might this article impact the curriculum?
+      placeholder: |
+        Consider:
+        - Should we add new content based on this?
+        - Should we update existing content?
+        - Does it suggest new skills students need?
+        - Does it highlight industry needs we're not addressing?
+        - Should this be shared as a reading/resource?
+
+  - type: textarea
+    id: key-topics
+    attributes:
+      label: Key Topics/Concepts
+      description: List main topics or concepts covered in the article
+      placeholder: |
+        - Topic 1
+        - Topic 2
+        - Topic 3
+
+  - type: textarea
+    id: target-courses
+    attributes:
+      label: Target Courses/Modules
+      description: Which specific courses or modules could benefit from this article?
+      placeholder: |
+        List specific courses, e.g.:
+        - Introduction to AI/ML
+        - Deep Learning Module 3: LLMs
+        - AI Ethics and Society
+
+  - type: dropdown
+    id: integration-type
+    attributes:
+      label: Suggested Integration
+      description: How should this be integrated into the curriculum?
+      options:
+        - Reading assignment
+        - Discussion topic
+        - Case study
+        - Motivational example
+        - Lab/project inspiration
+        - Update existing content
+        - New course/module topic
+        - Industry partnership opportunity
+        - Guest speaker suggestion
+        - No integration needed (informational only)
+
+  - type: textarea
+    id: discussion-questions
+    attributes:
+      label: Discussion Questions
+      description: Optional - Suggest 2-3 discussion questions based on this article
+      placeholder: |
+        1. 
+        2. 
+        3. 
+
+  - type: textarea
+    id: additional-resources
+    attributes:
+      label: Additional Resources
+      description: Related articles, papers, or resources
+      placeholder: |
+        - Related resource 1
+        - Related resource 2
+
+  - type: checkboxes
+    id: review-checklist
+    attributes:
+      label: Submission Checklist
+      description: Please confirm
+      options:
+        - label: Article is publicly accessible or I have provided access details
+        - label: I have reviewed the article for relevance to A2I curriculum
+        - label: I have provided sufficient context for curriculum review
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this article review request, you agree to follow our Code of Conduct
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
