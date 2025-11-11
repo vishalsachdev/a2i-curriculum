@@ -1,10 +1,12 @@
-# Core Courses (A²I 601–608)
+# Proposed Core Courses (A²I 601–608)
 
-The eight-course core sequence establishes the shared mindset and toolkit required to orchestrate intelligent systems responsibly within business contexts. Each 8-week course blends Coursera media, Canvas discussions, applied projects, executive presentations, and AI-augmented feedback.【F:docs/context/conversation.md†L44-L108】
+> **Note:** This document describes the proposed core curriculum. Course content, assessments, and delivery methods would be finalized during program development based on faculty input, institutional requirements, and industry feedback.
 
-## 8-Week Business Cycle Format
+The eight-course core sequence would establish the shared mindset and toolkit required to orchestrate intelligent systems responsibly within business contexts. Each proposed 8-week course would blend asynchronous content delivery, discussions, applied projects, executive presentations, and AI-augmented feedback.【F:docs/context/conversation.md†L44-L108】
 
-Each course follows a business sprint cycle structure that mirrors real organizational rhythms, teaching students to think in terms of rapid iteration and executive communication:
+## Proposed 8-Week Business Cycle Format
+
+Each course would follow a business sprint cycle structure that mirrors real organizational rhythms, teaching students to think in terms of rapid iteration and executive communication:
 
 | Week Phase | Business Context | Learning Activities | Deliverables |
 |------------|-----------------|-------------------|--------------|

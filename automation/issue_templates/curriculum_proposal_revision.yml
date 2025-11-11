@@ -1,0 +1,175 @@
+name: Curriculum Proposal Revision
+description: Suggest improvements or changes to the A²I curriculum proposal
+title: "[Proposal Revision]: "
+labels: ["proposal-revision", "needs-review"]
+assignees:
+  - curriculum-team
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for providing input on the A²I curriculum proposal!
+        **Note**: This is a proposal repository. Suggestions should focus on improving the proposal for approval, not operational implementation details.
+
+  - type: dropdown
+    id: revision-type
+    attributes:
+      label: Type of Revision
+      description: What kind of revision are you suggesting?
+      options:
+        - Curriculum design improvement
+        - Learning outcomes refinement
+        - Course structure adjustment
+        - Domain track modification
+        - Assessment approach change
+        - Pedagogical enhancement
+        - Market positioning adjustment
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Proposal Area
+      description: Which area of the proposal does this affect?
+      options:
+        - Core Courses (601-608)
+        - Applied Studios (621-623)
+        - Domain Tracks & Electives
+        - Learning Outcomes
+        - Pedagogical Approach
+        - Delivery Model
+        - Business Case
+        - Strategic Positioning
+        - Cross-cutting
+    validations:
+      required: true
+
+  - type: input
+    id: specific-component
+    attributes:
+      label: Specific Component
+      description: Name of the course, module, or section being addressed
+      placeholder: e.g., A²I 607 - AI Economics & Business Models
+    validations:
+      required: false
+
+  - type: textarea
+    id: current-proposal
+    attributes:
+      label: Current Proposal Content
+      description: Describe what the proposal currently says (if revising existing content)
+      placeholder: What aspect of the current proposal are you addressing?
+
+  - type: textarea
+    id: suggested-revision
+    attributes:
+      label: Suggested Revision
+      description: Describe your suggested changes in detail
+      placeholder: |
+        Be specific about:
+        - What should be added, changed, or removed
+        - How it should be restructured or reframed
+        - Specific language or content suggestions
+        - How this improves the proposal
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale for Revision
+      description: Why is this revision important for the proposal?
+      placeholder: |
+        Explain:
+        - What problem does this solve?
+        - How does it strengthen the proposal?
+        - Does it address approval committee concerns?
+        - Does it improve market positioning?
+        - Supporting evidence or examples
+    validations:
+      required: true
+
+  - type: dropdown
+    id: supports-approval
+    attributes:
+      label: Does this support program approval?
+      description: How does this revision impact the likelihood of approval?
+      options:
+        - Strengthens approval case significantly
+        - Modestly improves approval case
+        - Neutral (improves quality without affecting approval)
+        - Unclear
+    validations:
+      required: true
+
+  - type: textarea
+    id: stakeholder-perspective
+    attributes:
+      label: Stakeholder Perspective
+      description: From which stakeholder perspective is this important?
+      placeholder: |
+        Consider:
+        - Leadership / decision makers
+        - Curriculum committee reviewers
+        - Industry partners
+        - Potential students
+        - Faculty
+        - Multiple stakeholders
+
+  - type: textarea
+    id: learning-outcomes-impact
+    attributes:
+      label: Impact on Learning Outcomes
+      description: How does this affect the proposed learning outcomes?
+      placeholder: |
+        - Changes to competencies students would develop
+        - Alignment with business school positioning
+        - Market relevance of outcomes
+
+  - type: textarea
+    id: implementation-considerations
+    attributes:
+      label: Implementation Considerations
+      description: What would need to change upon program approval if this is adopted?
+      placeholder: |
+        Consider:
+        - Faculty expertise needed
+        - Resource requirements
+        - Timeline impact
+        - Partnerships or infrastructure
+
+  - type: textarea
+    id: references
+    attributes:
+      label: Supporting References
+      description: Any supporting materials, research, or examples?
+      placeholder: |
+        - Academic research
+        - Industry standards or best practices
+        - Peer institution examples
+        - Market data or trends
+        - Advisory board input
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Revision Checklist
+      description: Please confirm you've considered these aspects
+      options:
+        - label: Aligns with program vision (business leaders orchestrating AI, not building algorithms)
+        - label: Strengthens differentiation from CS programs and MBA tracks
+        - label: Considers approval committee perspective
+        - label: Maintains academic rigor appropriate for MS degree
+        - label: Feasible to implement with reasonable resources
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this suggestion, you agree to follow our Code of Conduct
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

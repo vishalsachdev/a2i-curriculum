@@ -1,7 +1,7 @@
-name: Curriculum Feedback
-description: Provide feedback on curriculum content, structure, or delivery
+name: Proposal Feedback
+description: Provide feedback on the A²I program proposal
 title: "[Feedback]: "
-labels: ["feedback", "needs-review"]
+labels: ["proposal-feedback", "needs-review"]
 assignees:
   - curriculum-team
 
@@ -9,8 +9,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to provide feedback on the A2I curriculum!
-        Your input helps us continuously improve the learning experience.
+        Thanks for taking the time to provide feedback on the A²I program proposal!
+        **Note**: This is a proposal repository. Feedback should focus on strengthening the proposal for approval, not operational implementation details.
 
   - type: dropdown
     id: feedback-category
@@ -18,12 +18,14 @@ body:
       label: Feedback Category
       description: What area does this feedback relate to?
       options:
-        - Course Content
-        - Learning Experience
-        - Platform/Technology
-        - Assessment
-        - Pedagogy
-        - Resources
+        - Curriculum Design
+        - Learning Outcomes
+        - Business Case & Market Analysis
+        - Strategic Positioning
+        - Delivery Model
+        - Pedagogical Approach
+        - Resource Requirements
+        - Competitive Differentiation
         - Other
     validations:
       required: true
@@ -42,11 +44,11 @@ body:
       required: true
 
   - type: input
-    id: course-name
+    id: proposal-section
     attributes:
-      label: Course or Module Name
-      description: Which course or module does this relate to? (if applicable)
-      placeholder: e.g., Introduction to AI/ML, Deep Learning Module 3
+      label: Proposal Section
+      description: Which part of the proposal does this relate to? (if applicable)
+      placeholder: e.g., Executive Summary, Business Case, Core Courses, Delivery Options
 
   - type: textarea
     id: feedback-details
@@ -76,17 +78,18 @@ body:
       required: true
 
   - type: dropdown
-    id: user-type
+    id: reviewer-type
     attributes:
       label: I am a...
-      description: What is your role?
+      description: What is your role in reviewing this proposal?
       options:
-        - Student (current)
-        - Student (alumni)
-        - Faculty/Instructor
-        - Teaching Assistant
+        - Leadership / Decision Maker
+        - Faculty Member
+        - Curriculum Committee Member
+        - Industry Advisor
+        - Potential Student / Prospective Applicant
+        - Academic Researcher
         - Community Member
-        - Industry Partner
         - Other
     validations:
       required: true

@@ -1,8 +1,10 @@
-# Learning Outcomes
+# Proposed Learning Outcomes
+
+> **Note:** These learning outcomes represent the proposed competencies graduates would develop. Upon program approval, these would be validated with industry advisory boards, mapped to accreditation standards, and refined based on stakeholder feedback.
 
 ## Program-Level Outcomes
 
-Graduates of the A²I program orchestrate intelligent systems that advance organizational and public missions with integrity. The program develops **business leaders who manage AI initiatives, not build algorithms**—positioning graduates as essential bridges between technical teams and business strategy. Upon completion, learners will be able to:
+Graduates of the proposed A²I program would orchestrate intelligent systems that advance organizational and public missions with integrity. The program would develop **business leaders who manage AI initiatives, not build algorithms**—positioning graduates as essential bridges between technical teams and business strategy. Upon completion, learners would be able to:
 
 ### Strategic AI Leadership
 1. **Frame and Prioritize AI Portfolios** – Align opportunities with institutional purpose, stakeholder value, and measurable business outcomes using frameworks like balanced scorecards, OKRs, and portfolio management.【F:docs/context/conversation.md†L16-L108】

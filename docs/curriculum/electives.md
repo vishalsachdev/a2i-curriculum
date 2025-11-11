@@ -1,18 +1,20 @@
-# Electives & Domain Tracks
+# Proposed Electives & Domain Tracks
+
+> **Note:** This document describes proposed elective courses and industry partnerships. Domain tracks, partnerships, and course offerings would be finalized upon program approval based on institutional resources and industry engagement.
 
 ## Purpose
 
-Electives deepen expertise within mission-driven domains so learners can translate core orchestration skills into sector-specific impact. Offerings evolve through open contribution but are organized around three anchor tracks identified in the founding conversation.【F:docs/context/conversation.md†L129-L137】
+Electives would deepen expertise within mission-driven domains so learners can translate core orchestration skills into sector-specific impact. Offerings would evolve through open contribution but are organized around three anchor tracks identified in the founding conversation.【F:docs/context/conversation.md†L129-L137】
 
-## Track Overview
+## Proposed Track Overview
 
-Each domain track is structured as an **industry consortium** with active partnerships that provide real-world context, mentorship, and pathways to employment. This approach leverages business school strengths in industry relationships while ensuring curriculum remains current with sector needs.
+Each domain track would be structured as an **industry consortium** with active partnerships that would provide real-world context, mentorship, and pathways to employment. This approach would leverage business school strengths in industry relationships while ensuring curriculum remains current with sector needs.
 
 ### Growth for Good
 **Mission:** Equitable experimentation, ethical marketing, and customer journeys that prioritize inclusion and trust.
 
-**Industry Partnership Framework:**
-- **Partner Organizations:** Major CPG companies (P&G, Unilever), B-Corps (Patagonia, Ben & Jerry's), e-commerce platforms (Etsy, Shopify)
+**Proposed Industry Partnership Framework:**
+- **Potential Partner Organizations:** Major CPG companies (P&G, Unilever), B-Corps (Patagonia, Ben & Jerry's), e-commerce platforms (Etsy, Shopify)
 - **Focus Areas:** Sustainable growth metrics, ESG integration, responsible marketing automation
 - **Student Deliverables:** Industry-ready growth playbooks with privacy-preserving analytics
 - **Partner Engagement:** Quarterly case study contributions, mentorship program, pilot project opportunities
@@ -28,8 +30,8 @@ Each domain track is structured as an **industry consortium** with active partne
 ### Finance for Inclusion
 **Mission:** Design financial systems that expand access while maintaining compliance and risk controls.
 
-**Industry Partnership Framework:**
-- **Partner Organizations:** Community banks, credit unions, fintech startups (Chime, Dave), microfinance institutions, federal reserve regional banks
+**Proposed Industry Partnership Framework:**
+- **Potential Partner Organizations:** Community banks, credit unions, fintech startups (Chime, Dave), microfinance institutions, federal reserve regional banks
 - **Focus Areas:** Regulatory compliance, risk management, alternative credit assessment, financial resilience
 - **Student Deliverables:** Compliance-ready AI governance frameworks, fairness audit protocols
 - **Partner Engagement:** Regulatory workshop series, compliance clinic access, sandbox environments for experimentation
@@ -45,8 +47,8 @@ Each domain track is structured as an **industry consortium** with active partne
 ### Healthcare for Humanity
 **Mission:** Access, outcomes, and ethical deployment of intelligent systems in health contexts.
 
-**Industry Partnership Framework:**
-- **Partner Organizations:** Hospital systems (Carle Health, OSF Healthcare), health tech companies (Epic, Cerner), digital health startups, FDA digital health unit, CMS innovation center
+**Proposed Industry Partnership Framework:**
+- **Potential Partner Organizations:** Hospital systems (Carle Health, OSF Healthcare), health tech companies (Epic, Cerner), digital health startups, FDA digital health unit, CMS innovation center
 - **Focus Areas:** HIPAA compliance, clinical decision support, health equity, care coordination
 - **Student Deliverables:** FDA-pathway documentation templates, clinical governance frameworks, health equity dashboards
 - **Partner Engagement:** Clinical advisor network, IRB training, pilot deployment in teaching hospitals
@@ -59,9 +61,9 @@ Each domain track is structured as an **industry consortium** with active partne
 - HIPAA-Compliant AI Architecture for Healthcare
 - Health Equity Analytics & Intervention Design
 
-## Industry Advisory Boards
+## Proposed Industry Advisory Boards
 
-Each track maintains a dedicated advisory board that meets quarterly to:
+Each track would maintain a dedicated advisory board that would meet quarterly to:
 - Review curriculum relevance and recommend updates
 - Provide case studies and real-world scenarios
 - Offer mentorship and office hours for students
