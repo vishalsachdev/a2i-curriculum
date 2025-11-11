@@ -49,4 +49,4 @@ Community members may suggest additions via the curriculum governance process. P
 - Required partnerships (industry, civic, research) and resource implications.
 - Assessment strategy leveraging AI-augmented feedback.
 
-See [CONTRIBUTING.md](../../CONTRIBUTING.md) for submission guidelines.
+See [CONTRIBUTING.md](../CONTRIBUTING.md) for submission guidelines.

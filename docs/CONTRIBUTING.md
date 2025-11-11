@@ -32,7 +32,7 @@ For curriculum changes, please:
 Found an interesting article, blog post, or research paper relevant to AI education? We welcome article submissions!
 
 **How to Submit:**
-1. Use the [Article Review issue template](.github/ISSUE_TEMPLATE/article_review.yml)
+1. Use the [Article Review issue template](../.github/ISSUE_TEMPLATE/article_review.yml)
 2. Provide the article URL and basic information
 3. Explain why it's relevant to the curriculum
 4. Suggest how it might be integrated
@@ -51,7 +51,7 @@ Found an interesting article, blog post, or research paper relevant to AI educat
 - Opinion pieces on AI ethics and policy
 - White papers from industry leaders
 
-See [docs/research/README.md](docs/research/README.md) for more about our article review process.
+See [docs/research/README.md](research/README.md) for more about our article review process.
 
 ## Review Process
 

@@ -1,0 +1,26 @@
+# Jekyll configuration for GitHub Pages
+title: AI for Innovation (A²I) Curriculum
+description: An open-source, practice-based program that develops system orchestrators who align people, data, and intelligent agents toward verifiable business and societal value.
+
+# Theme
+theme: jekyll-theme-minimal
+
+# Exclude files from processing
+exclude:
+  - LICENSE
+  - .gitignore
+  - .DS_Store
+  - .claude/
+  - automation/
+  - node_modules/
+  - vendor/
+
+# Include all markdown files
+include:
+  - docs
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false

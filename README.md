@@ -88,7 +88,7 @@ This design widens the program's ***coherence bandwidth***—the shared capacity
 Explore detailed documentation:
 
 - [Curriculum Overview](docs/curriculum/overview.md) – Full program structure and philosophy
-- [Core Courses](docs/curriculum/core_courses.md) – Detailed syllabi for A²I 601-606
+- [Core Courses](docs/curriculum/core_courses.md) – Course descriptions for A²I 601-606
 - [Studios & Capstone](docs/curriculum/labs_and_capstone.md) – Applied project experiences
 - [Electives](docs/curriculum/electives.md) – Domain tracks and entrepreneurship
 - [Learning Outcomes](docs/curriculum/learning_outcomes.md) – Program-level competencies
@@ -102,7 +102,7 @@ Explore detailed documentation:
 
 We welcome contributions from educators, students, industry professionals, and the global community. This curriculum evolves through transparent, open development.
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
+Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines on:
 - Proposing curriculum changes
 - Suggesting new electives
 - Contributing to pedagogy and platform development
@@ -114,10 +114,10 @@ This curriculum is open-source to maximize access and enable adaptation. See [LI
 
 ## Code of Conduct
 
-We are committed to maintaining an inclusive, respectful learning community. This project adheres to a Code of Conduct—see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
+We are committed to maintaining an inclusive, respectful learning community. This project adheres to a Code of Conduct—see [CODE_OF_CONDUCT.md](docs/CODE_OF_CONDUCT.md) for details.
 
 ---
 
-**Contact**: For inquiries about the A²I program, visit the [Gies College of Business at UIUC](https://giesbusiness.illinois.edu/) or open an issue in this repository.
+**Contact**: For inquiries about the A²I program, contact vishal AT illinois DOT edu or open an issue in this repository.
 
 *Built on the insight that capability is cheap; coherence is scarce.*
