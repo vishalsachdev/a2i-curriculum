@@ -128,15 +128,15 @@ Business schools have unique strengths in areas critical for AI adoption:
 This is a critical strategic question addressed in detail in our [`degree-vs-specialization-analysis.md`](./degree-vs-specialization-analysis.md) document. Both options have merit:
 
 **Option A: Full MS Degree (Proposed)**
-- Allows 36 credits of deep AI specialization (vs. 12-15 credits in MBA track)
+- Allows 36 credits of deep AI specialization (vs. 8-12 credits in MBA track)
 - Targets students who want AI focus without full MBA
 - Creates new brand positioning in AI business education
 - Higher differentiation but requires more investment
 
 **Option B: iMBA Specialization (Alternative)**
-- Leverages existing iMBA infrastructure and brand
-- Lower risk, faster time to market (6-9 months vs. 12-18 months)
-- Lower investment ($200-400K vs. $700K-$1M startup)
+- Leverages existing iMBA infrastructure and brand (Coursera + high engagement)
+- Lower risk, faster time to market (6-7 months vs. 12-18 months)
+- Lower investment ($150-300K vs. $700K-$1M startup)
 - Appeals to MBA-seeking students who want AI focus
 
 **Recommended Approach:** Consider a phased launch starting with iMBA specialization to test market demand, then evaluate full MS degree based on results. See the full analysis document for detailed comparison, risk analysis, and implementation timeline.

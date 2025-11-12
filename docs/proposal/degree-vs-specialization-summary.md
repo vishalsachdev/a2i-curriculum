@@ -14,10 +14,11 @@
 - Targets: AI-focused professionals (no MBA needed)
 
 ### Option B: iMBA Specialization in Applied AI
-- **12-15 credits** AI specialization within MBA
+- **8-12 credits** AI specialization within MBA (4-6 courses)
 - **$22-25K** tuition (iMBA pricing), **2-3 years** duration
-- **$200K-$400K** startup, **$500K-$800K** annual operating
-- **1-3 FTE** faculty, **6-9 months** to launch
+- **$150-300K** startup, **$400-600K** annual operating
+- **0.60-0.90 FTE** faculty, **6-7 months** to launch
+- **Two-component model**: Coursera async + high engagement live sessions
 - Targets: MBA-seeking professionals (want AI focus)
 
 ---
@@ -28,7 +29,7 @@
 |--------|-----------|---------------------|
 | **Risk Level** | Higher | Lower |
 | **Time to Market** | 12-18 months | 6-9 months |
-| **Investment** | $700K-$1M | $200K-$400K |
+| **Investment** | $700K-$1M | $150-300K |
 | **Market Segment** | AI specialists | MBA + AI |
 | **Differentiation** | High | Medium |
 | **Break-Even** | Year 2-3 | Year 1-2 |
