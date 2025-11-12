@@ -1,11 +1,31 @@
 # A²I Curriculum Proposal: Applied AI for Impact
 
 > **📋 STATUS: Curriculum Proposal**  
-> This repository contains a comprehensive curriculum proposal for a **Master of Science in Applied Artificial Intelligence & Business Systems (A²I)**. The program is currently in the planning and approval phase. This document presents the vision, pedagogical approach, market opportunity, and implementation considerations for leadership review.
+> This repository contains comprehensive curriculum proposals for delivering Applied AI education at Gies College of Business through **two strategic options**: (1) a **Master of Science in Applied Artificial Intelligence & Business Systems (A²I)**, and (2) an **iMBA Specialization in Applied AI**. Both options are currently in the planning and approval phase. This document presents the vision, pedagogical approach, market opportunity, and implementation considerations for leadership review.
 
 ---
 
-Welcome to the **A²I curriculum proposal**—an innovative, practice-based graduate program designed to develop **system orchestrators** who can align people, data, and intelligent agents toward verifiable business and societal value.
+Welcome to the **A²I curriculum proposal**—an innovative, practice-based approach to developing **system orchestrators** who can align people, data, and intelligent agents toward verifiable business and societal value.
+
+## Two Strategic Options
+
+This proposal presents **two complementary pathways** for delivering Applied AI education:
+
+### Option A: Full MS in Applied AI & Business Systems
+- **36 credits** dedicated AI curriculum
+- **18-24 months** part-time, fully online
+- **$45-55K** tuition (estimated)
+- Targets: AI-focused professionals seeking deep specialization
+
+### Option B: iMBA Specialization in Applied AI
+- **12-15 credits** AI specialization within MBA
+- **2-3 years** part-time (with iMBA), fully online via Coursera
+- **$22-25K** tuition (iMBA pricing)
+- Targets: MBA-seeking professionals who want AI focus
+
+**Recommended Approach:** Consider a phased launch starting with the iMBA specialization to test market demand, then evaluate the full MS degree based on results. See [Degree vs. Specialization Analysis](docs/proposal/degree-vs-specialization-analysis.md) for detailed comparison.
+
+> **Note:** The detailed curriculum below describes **Option A (Full MS Degree)**. For **Option B (iMBA Specialization)** curriculum, see [iMBA Specialization Curriculum](docs/proposal/imba-specialization-curriculum.md).
 
 ## Vision
 
@@ -57,11 +77,13 @@ The A²I program would be designed from the ground up for exceptional online del
 
 [📚 **Full Online Delivery Documentation →**](./docs/online-delivery/README.md) *(Detailed implementation specifications)*
 
-## Proposed Program Structure
+## Proposed Program Structure: Full MS Degree Option
+
+> **Note:** This section describes **Option A: Full MS Degree**. For **Option B: iMBA Specialization** structure, see [iMBA Specialization Curriculum](docs/proposal/imba-specialization-curriculum.md).
 
 ### 36 Credits | 12 Courses | 8-Week Format
 
-Designed for working professionals, the proposed program would deliver twelve 8-week courses combining asynchronous learning, applied projects, oral vivas, and AI-augmented feedback.
+Designed for working professionals, the proposed MS degree program would deliver twelve 8-week courses combining asynchronous learning, applied projects, oral vivas, and AI-augmented feedback.
 
 #### Core Courses (24 credits)
 Eight foundational courses would establish shared literacy in orchestrating intelligent systems, with business-focused additions:
@@ -145,22 +167,28 @@ This proposal is organized for different audiences. Start with the sections most
 ### 📊 For Leadership & Decision Makers
 
 **Start here for strategic overview:**
+- [Degree vs. Specialization Analysis](docs/proposal/degree-vs-specialization-analysis.md) – **Critical comparison of both options** addressing Dean's questions
+- [Degree vs. Specialization Summary](docs/proposal/degree-vs-specialization-summary.md) – Quick executive reference
 - [Curriculum Overview](docs/curriculum/overview.md) – Program vision and business school positioning
 - [Business School Adaptations Summary](docs/curriculum/business_school_adaptations_summary.md) – Strategic enhancements (Nov 2025)
 - [Success Metrics](docs/metrics.md) – Program evaluation framework aligned with coherence philosophy
 - [Research Foundation](docs/research/) – Evidence base for program design
+- [Dean Review Questions](docs/proposal/dean-review-questions.md) – Critical questions and concerns addressed
 
 **Key questions answered:**
 - Why is this program needed now?
 - What makes it different from existing offerings?
-- What resources would be required?
+- **Should we pursue MS degree or iMBA specialization?**
+- What resources would be required for each option?
 - What is the expected return on investment?
+- How do we address cannibalization and market positioning concerns?
 
 ### 👨‍🏫 For Academic Reviewers
 
 **Start here for curriculum detail:**
-- [Core Courses](docs/curriculum/core_courses.md) – Course descriptions for A²I 601-608
-- [Studios & Capstone](docs/curriculum/labs_and_capstone.md) – Applied project experiences
+- [Core Courses](docs/curriculum/core_courses.md) – Course descriptions for A²I 601-608 (MS Degree option)
+- [iMBA Specialization Curriculum](docs/proposal/imba-specialization-curriculum.md) – 4-5 course specialization curriculum
+- [Studios & Capstone](docs/curriculum/labs_and_capstone.md) – Applied project experiences (MS Degree option)
 - [Learning Outcomes](docs/curriculum/learning_outcomes.md) – 19 proposed business leadership competencies
 - [Pedagogy Overview](docs/pedagogy/) – Six teaching models including Business Coherence Scorecard
 
@@ -169,6 +197,7 @@ This proposal is organized for different audiences. Start with the sections most
 - Is the pedagogical approach sound?
 - How does this fit within business school accreditation?
 - What is the academic quality of the curriculum?
+- **How do the two options compare academically?**
 
 ### 🏢 For Industry Partners
 
@@ -208,6 +237,16 @@ This proposal is organized for different audiences. Start with the sections most
 - [Business Coherence Scorecard](docs/pedagogy/business_coherence_scorecard.md)
 - [Online Delivery Model](docs/online-delivery/)
 
+#### Proposal Documents & Strategic Analysis
+- [Degree vs. Specialization Analysis](docs/proposal/degree-vs-specialization-analysis.md) – Comprehensive comparison of both options
+- [Degree vs. Specialization Summary](docs/proposal/degree-vs-specialization-summary.md) – Executive summary
+- [iMBA Specialization Curriculum](docs/proposal/imba-specialization-curriculum.md) – Detailed specialization curriculum
+- [iMBA Content Review Notes](docs/proposal/imba-content-review-notes.md) – Guide for leveraging existing Coursera content
+- [Dean Review Questions](docs/proposal/dean-review-questions.md) – Critical questions and responses
+- [Business Case](docs/proposal/business-case.md) – Market opportunity and financial projections
+- [Executive Summary](docs/proposal/executive-summary.md) – High-level overview for leadership
+- [FAQ](docs/proposal/FAQ.md) – Common questions and answers
+
 #### Implementation Considerations
 - [Platform & Tools](docs/platform/)
 - [Governance & Policies](docs/governance/)
@@ -242,9 +281,18 @@ We are committed to maintaining an inclusive, respectful learning community. Thi
 ![Status](https://img.shields.io/badge/Status-Proposal-yellow)
 ![Stage](https://img.shields.io/badge/Stage-Planning%20%26%20Review-blue)
 ![Completeness](https://img.shields.io/badge/Proposal-85%25-green)
+![Options](https://img.shields.io/badge/Options-MS%20Degree%20%7C%20iMBA%20Specialization-blue)
 
 **Current Phase:** Proposal development and stakeholder feedback  
-**Next Steps:** Leadership review → Curriculum committee approval → Implementation planning
+**Strategic Options:** Two pathways under consideration:
+- **Option A:** Full MS in Applied AI & Business Systems (36 credits)
+- **Option B:** iMBA Specialization in Applied AI (12-15 credits)
+
+**Next Steps:** 
+1. Leadership review of both options → Strategic decision on pathway
+2. Market research and faculty capacity assessment
+3. Curriculum committee approval (if MS degree selected)
+4. Implementation planning (phased approach recommended)
 
 ---
 
