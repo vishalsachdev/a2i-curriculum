@@ -124,10 +124,22 @@ Business schools have unique strengths in areas critical for AI adoption:
 - **A²I**: Students seeking to specialize in AI leadership without full MBA
 
 **Why not just add AI track to MBA?**
-- MBA is expensive and time-intensive for working professionals seeking focused AI skills
-- Separate MS degree allows more AI depth than MBA track can provide
-- Different positioning and branding (specialist vs. generalist)
-- Reaches new student market (those who don't want full MBA)
+
+This is a critical strategic question addressed in detail in our [`degree-vs-specialization-analysis.md`](./degree-vs-specialization-analysis.md) document. Both options have merit:
+
+**Option A: Full MS Degree (Proposed)**
+- Allows 36 credits of deep AI specialization (vs. 12-15 credits in MBA track)
+- Targets students who want AI focus without full MBA
+- Creates new brand positioning in AI business education
+- Higher differentiation but requires more investment
+
+**Option B: iMBA Specialization (Alternative)**
+- Leverages existing iMBA infrastructure and brand
+- Lower risk, faster time to market (6-9 months vs. 12-18 months)
+- Lower investment ($200-400K vs. $700K-$1M startup)
+- Appeals to MBA-seeking students who want AI focus
+
+**Recommended Approach:** Consider a phased launch starting with iMBA specialization to test market demand, then evaluate full MS degree based on results. See the full analysis document for detailed comparison, risk analysis, and implementation timeline.
 
 ---
 
