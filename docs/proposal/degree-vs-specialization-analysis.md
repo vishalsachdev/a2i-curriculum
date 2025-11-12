@@ -134,7 +134,7 @@ From the dean's review document, key concerns about a separate MS degree include
 ### Program Overview
 
 **Degree:** Master of Business Administration (iMBA) with Applied AI Specialization  
-**Credits:** 72 credits total (iMBA core + 12-15 credits specialization)  
+**Credits:** 72 credits total (iMBA core + 8-12 credits specialization)  
 **Duration:** 2-3 years part-time (same as iMBA)  
 **Format:** Fully online via Coursera (existing iMBA infrastructure)  
 **Tuition:** $22,000 - $25,000 (iMBA current pricing)  
@@ -146,7 +146,7 @@ From the dean's review document, key concerns about a separate MS degree include
 - Existing iMBA curriculum (unchanged)
 - Business fundamentals, leadership, strategy, operations
 
-#### Applied AI Specialization (12-15 credits / 4-5 courses)
+#### Applied AI Specialization (8-12 credits / 4-6 courses)
 **Option B1: Light Specialization (4 courses)**
 - AI Strategy & Business Framing (3 credits)
 - Data & AI Infrastructure for Business (3 credits)
@@ -189,7 +189,7 @@ From the dean's review document, key concerns about a separate MS degree include
 ### Strategic Disadvantages
 
 #### 1. Limited Depth
-- **Fewer Credits**: 12-15 credits vs. 36 credits for MS degree
+- **Fewer Credits**: 8-12 credits vs. 36 credits for MS degree
 - **Less Specialization**: Cannot match depth of dedicated MS program
 - **MBA Focus**: Must balance AI content with MBA generalist requirements
 - **Competitive Positioning**: Less differentiated from other MBA programs with AI tracks
@@ -232,7 +232,7 @@ From the dean's review document, key concerns about a separate MS degree include
 |-----------|---------------------------|-------------------------------|
 | **Degree Credential** | MS in Applied AI & Business Systems | MBA with Applied AI Specialization |
 | **Total Credits** | 36 credits | 72 credits (60 MBA + 12 AI) |
-| **AI-Specific Credits** | 36 credits (100% AI focus) | 12-15 credits (17-21% AI focus) |
+| **AI-Specific Credits** | 36 credits (100% AI focus) | 8-12 credits (11-17% AI focus) |
 | **Duration** | 18-24 months | 2-3 years (same as iMBA) |
 | **Tuition** | $45,000 - $55,000 | $22,000 - $25,000 |
 | **Target Market** | AI-focused professionals (no MBA needed) | MBA-seeking professionals (want AI focus) |
@@ -305,7 +305,7 @@ From the dean's review document, key concerns about a separate MS degree include
 | Risk | Probability | Impact | Mitigation Strategy |
 |------|-------------|--------|-------------------|
 | Low specialization enrollment | Low | Low | Leverage existing iMBA pipeline, clear value proposition |
-| Insufficient AI depth | Medium | Medium | Ensure 12-15 credits provide meaningful AI expertise |
+| Insufficient AI depth | Medium | Medium | Ensure 8-12 credits provide meaningful AI expertise |
 | Brand dilution | Low | Low | Position as enhancement, not replacement |
 | Limited differentiation | Medium | Medium | Emphasize Gies quality, business focus, online excellence |
 

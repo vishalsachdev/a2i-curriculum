@@ -18,9 +18,10 @@ This proposal presents **two complementary pathways** for delivering Applied AI 
 - Targets: AI-focused professionals seeking deep specialization
 
 ### Option B: iMBA Specialization in Applied AI
-- **12-15 credits** AI specialization within MBA
-- **2-3 years** part-time (with iMBA), fully online via Coursera
+- **8-12 credits** AI specialization within MBA (4-6 courses)
+- **2-3 years** part-time (with iMBA), Coursera + high engagement live sessions
 - **$22-25K** tuition (iMBA pricing)
+- **Two-component model**: Asynchronous Coursera content + weekly live sessions
 - Targets: MBA-seeking professionals who want AI focus
 
 **Recommended Approach:** Consider a phased launch starting with the iMBA specialization to test market demand, then evaluate the full MS degree based on results. See [Degree vs. Specialization Analysis](docs/proposal/degree-vs-specialization-analysis.md) for detailed comparison.
@@ -285,8 +286,8 @@ We are committed to maintaining an inclusive, respectful learning community. Thi
 
 **Current Phase:** Proposal development and stakeholder feedback  
 **Strategic Options:** Two pathways under consideration:
-- **Option A:** Full MS in Applied AI & Business Systems (36 credits)
-- **Option B:** iMBA Specialization in Applied AI (12-15 credits)
+- **Option A:** Full MS in Applied AI & Business Systems (36 credits, 18-24 months)
+- **Option B:** iMBA Specialization in Applied AI (8-12 credits, Coursera + high engagement)
 
 **Next Steps:** 
 1. Leadership review of both options → Strategic decision on pathway
