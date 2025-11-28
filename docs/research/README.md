@@ -94,7 +94,10 @@ When reviewing submitted articles:
 - [2025-06 - Best of Teaching Professor Conference 2025](2025-06-best-of-teaching-uk.md) - Critical thinking, AI-era assessment, flipped classroom, and academic integrity practices for AI education
 
 ### Impact Assessments
-- [2025-11 - X/Grok Discussion Impact Assessment](2025-11-grok-discussion-impact-assessment.md) - **NEW** Assessment of AI platform proliferation and multi-platform strategy implications for A²I curriculum; includes recommendations for strengthening platform-agnostic competencies
+- **[2025-11 - X/Grok Discussion - START HERE](2025-11-grok-discussion-README.md)** - **NEW** Quick navigation guide and summary for the X/Grok discussion impact assessment
+  - [Executive Summary](2025-11-grok-discussion-executive-summary.md) - Leadership brief (5-minute read)
+  - [Full Impact Assessment](2025-11-grok-discussion-impact-assessment.md) - Detailed curriculum implications (30-minute read)
+  - Assessment of AI platform proliferation and multi-platform strategy implications for A²I curriculum
 
 ---
 
