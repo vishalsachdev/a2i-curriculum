@@ -84,10 +84,17 @@ When reviewing submitted articles:
 
 ## Index of Reviews
 
+### Framework Documents
+- [2025-11 - Curriculum Impact Assessment Framework](2025-11-curriculum-impact-assessment-framework.md) - **NEW** Systematic methodology for evaluating how AI discussions, developments, and trends should influence curriculum design and updates
+
+### Article Reviews
 - [2511.01956v1 - Analysis](2511-01956-analysis.md) - *Pending network access for article retrieval*
 - [2025-11 - Tim O'Reilly: AI as Tool vs Worker](2025-11-tim-oreilly-ai-tool-vs-worker.md) - Foundational philosophical framework arguing AI should be taught as augmentation tool rather than worker replacement; critical for curriculum design
 - [2025-11 - Goldman Sachs Now Hiring for OpenAI](2025-11-goldman-sachs-openai-hiring.md) - Industry trends in AI talent acquisition and finance sector transformation
 - [2025-06 - Best of Teaching Professor Conference 2025](2025-06-best-of-teaching-uk.md) - Critical thinking, AI-era assessment, flipped classroom, and academic integrity practices for AI education
+
+### Impact Assessments
+- [2025-11 - X/Grok Discussion Impact Assessment](2025-11-grok-discussion-impact-assessment.md) - **NEW** Assessment of AI platform proliferation and multi-platform strategy implications for A²I curriculum; includes recommendations for strengthening platform-agnostic competencies
 
 ---
 
