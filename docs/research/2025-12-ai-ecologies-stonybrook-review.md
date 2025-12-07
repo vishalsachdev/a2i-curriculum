@@ -601,16 +601,9 @@ By the end of this course, students will be able to:
 - Short quizzes on key concepts from each module
 - Open-book, applied scenario-based questions
 
-**Total:** 100% (or 110% with Friday lab bonus)
+**Total:** 100% base (or up to 110% with Friday lab bonus)
 
-**Final Project: AI Ecosystem Analysis (30%):**
-- Written report (20%)
-- Presentation (10%)
-- Peer evaluation component
-
-**Quizzes/Exams (10%):**
-- Short quizzes on key concepts from each module
-- Open-book, applied scenario-based questions
+---
 
 ### Required Faculty Expertise Matrix
 
