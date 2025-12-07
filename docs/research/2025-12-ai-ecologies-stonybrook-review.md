@@ -4,21 +4,73 @@
 
 **Title:** New Course on 'AI Ecologies' to Debut in Spring 2026
 
+**Course:** CDS 222: AI Ecologies
+
 **Institution:** Stony Brook University
+
+**Primary Instructor:** Joseph Lemelin, Assistant Professor of Philosophy
 
 **Publication:** Stony Brook AI Institute News
 
-**Date:** 2025-11 (estimated)
+**Date:** 2025 (exact date not specified)
 
 **Link:** https://ai.stonybrook.edu/about-us/News/new-course-ai-ecologies-debut-spring-2026
 
-**Tags:** curriculum-innovation, interdisciplinary-ai, team-teaching, business-education, ai-literacy, systems-thinking
+**Funding:** AI Innovation Institute (AI3) seed grant
+
+**Tags:** curriculum-innovation, interdisciplinary-ai, team-teaching, humanities-tech-integration, ai-literacy, systems-thinking, coding-integration
 
 ---
 
 ## Executive Summary
 
-Stony Brook University's AI Institute is launching an innovative "AI Ecologies" course in Spring 2026, taught by multiple faculty members from different disciplines. This interdisciplinary approach treats AI not as isolated technology but as part of complex socio-technical ecosystems involving humans, organizations, data, ethics, and broader societal impacts. The course represents a significant pedagogical innovation that aligns closely with the A²I curriculum's emphasis on systems orchestration and business coherence.
+Stony Brook University is launching **CDS 222: AI Ecologies** in Spring 2026, an innovative interdisciplinary course that combines humanities and social science inquiry with hands-on coding. Led by Philosophy Professor Joseph Lemelin, the course features 10+ guest lecturers from diverse disciplines including computer science, art, psychology, linguistics, history, English, communication, and music. The course requires no prerequisites and combines Monday/Wednesday lectures with Friday coding recitations, offering students a "big-picture, holistic approach" to understanding AI's role in contemporary society. This represents a significant pedagogical innovation that aligns closely with the A²I curriculum's emphasis on systems orchestration and business coherence.
+
+---
+
+## Course Overview (Stony Brook Model)
+
+### Course Structure
+
+**Course Code:** CDS 222: AI Ecologies
+
+**Level:** 200-level (sophomore, but open to all levels)
+
+**Prerequisites:** None (no prior AI knowledge or disciplinary background required)
+
+**Format:**
+- **Monday/Wednesday:** Lectures covering core concepts and guest faculty expertise
+- **Friday:** Hands-on coding recitations
+
+**SBC Requirements Met:** 
+- CER (Critical/Ethical Reasoning)
+- TECH (Understand Technology)
+
+### Primary Instructor
+
+**Joseph Lemelin** - Assistant Professor, Department of Philosophy, College of Arts and Sciences
+
+**Philosophy:** "AI is changing nearly every aspect of our lives — it affects how everyday actions are surveilled, the media we see, what kinds of jobs will exist, how resources are distributed and even our sense of what it means to be a human being. This timely and exciting new course offers a big-picture, holistic approach to raising urgent questions about AI and its role in our lives."
+
+### Guest Lecturers (10+ Faculty from Across Campus)
+
+1. **Aruna Balasubramanian** - Computer Science (College of Engineering & Applied Sciences)
+2. **Katherine Johnston** - English and Writing & Rhetoric (CAS)
+3. **Matthew Salzano** - Communication (School of Communication & Journalism)
+4. **Susannah Glickman** - History (CAS)
+5. **Stephanie Dinkins** - Art (CAS)
+6. **Gregory Zelinsky** - Psychology (CAS)
+7. **Owen Rambow** - Linguistics, Institute for Advanced Scientific Computing (CAS)
+8. **Brooke Belisle** - Art (CAS)
+9. **Susan Brennan** - Psychology (CAS)
+10. **Margaret Schedel** - Music, Institute for Advanced Scientific Computing (CAS)
+
+### Key Innovation: Humanities + Coding Integration
+
+**Unique Feature:** Combines theoretical/philosophical inquiry with practical technical skills
+- Lectures provide conceptual grounding and multiple disciplinary perspectives
+- Coding recitations provide hands-on technical literacy
+- Students leave with both critical thinking AND practical AI skills
 
 ---
 
@@ -26,51 +78,68 @@ Stony Brook University's AI Institute is launching an innovative "AI Ecologies" 
 
 ### Problem Statement
 
-Traditional AI education often focuses narrowly on technical implementation, missing the broader ecosystem in which AI operates. Students graduate with algorithmic knowledge but lack understanding of how AI systems interact with human organizations, social structures, regulatory frameworks, and ethical considerations. The "AI Ecologies" concept addresses this gap by treating AI as part of interconnected systems.
+Traditional AI education often focuses narrowly on either:
+1. **Pure technical implementation** (computer science approach) - misses societal, ethical, cultural contexts
+2. **Pure humanities critique** (philosophy/ethics approach) - lacks technical grounding to understand how AI actually works
+
+Students need both: the technical literacy to understand AI systems AND the critical frameworks to evaluate their impacts. The "AI Ecologies" concept addresses this gap by treating AI as part of interconnected systems while teaching actual coding skills.
 
 ### Methodology
 
-**Team-Teaching Model:**
-- Multiple faculty members from different disciplines
-- Each teaches specific weeks aligned with their expertise
-- Integrated curriculum with common thread
-- Interdisciplinary perspectives on shared problems
+**Integrated Team-Teaching Model:**
+- **Primary instructor** (Philosophy) provides integrative framework
+- **10+ guest lecturers** each bring deep disciplinary expertise
+- **Coding recitations** provide hands-on technical component
+- **Interdisciplinary perspectives** on shared problems across arts, sciences, and humanities
 
 **Key Features:**
 - No technical prerequisites (accessible to all students)
 - Focus on ecosystems rather than isolated technologies
-- Business and societal implications emphasized
-- Real-world case studies from multiple domains
+- Cultural, societal, ethical implications emphasized alongside technical understanding
+- Real-world applications from multiple domains
 - Systems thinking approach to AI
+- **Hands-on coding** integrated throughout (not just conceptual)
 
 ### Key Findings
 
 **Curriculum Innovation:**
-- Team-teaching enables true interdisciplinary integration
-- Each faculty brings domain expertise to shared problems
-- Students gain holistic view of AI in context
-- Accessible to non-technical students including business majors
+- **11-faculty team** enables truly comprehensive interdisciplinary integration
+- Each faculty brings world-class disciplinary expertise
+- Students gain holistic view of AI across arts, sciences, humanities
+- **Practical + Theoretical:** Combines coding skills with critical inquiry
+- Philosophy professor as integrator ensures coherent thread
+- Funded institutional support (AI3 seed grant) enables ambitious design
 
 **Pedagogical Approach:**
-- Ecological metaphor helps conceptualize AI complexity
-- Multiple perspectives on same challenges
-- Integration of technical, ethical, business, and social dimensions
+- **Ecological metaphor** helps conceptualize AI complexity and interconnections
+- Multiple perspectives on same challenges (art, psychology, linguistics, history, etc.)
+- Integration of technical, ethical, cultural, and social dimensions
+- **Friday coding recitations** ground abstract concepts in practical skills
 - Emphasis on relationships and interactions, not just components
+- Meets general education requirements (Critical Reasoning + Technology)
+
+**Target Audience Quote (Matthew Salzano, Communication):**
+> "If you're finding yourself intrigued and/or bewildered by AI — whether you aren't sure what that term really refers to, or you don't understand how it actually works technically, or you can't keep up with the daily headlines of its impacts on society and culture — then CDS 222 is the class for you."
 
 **Implications for Business Education:**
-- Business students need AI literacy without deep technical training
-- Understanding AI ecosystems more valuable than coding skills
+- Business students need BOTH technical literacy AND critical/strategic thinking
+- Understanding AI ecosystems more valuable than narrow technical skills alone
 - Leadership requires orchestrating human-AI-organizational systems
 - Strategic decision-making about AI requires multiple lenses
+- **Coding integration** makes students more credible with technical teams
+- Humanities/arts perspectives essential for innovation and ethics
 
 ### Limitations
 
-- Team-teaching requires significant coordination
-- Faculty must align on common curriculum thread
-- Scheduling and logistics more complex
-- May lack depth in any single area
-- Assessment must reflect interdisciplinary nature
-- Requires institutional support for team teaching
+- **Coordination intensive:** 11+ faculty requires significant coordination and alignment
+- Faculty must align on common curriculum thread across 10+ perspectives
+- Scheduling and logistics more complex with multiple instructors
+- **Survey breadth vs. depth trade-off:** May lack depth in any single disciplinary area
+- Assessment must reflect interdisciplinary nature without fragmenting
+- Requires institutional support (seed grant funding)
+- **Coding component challenge:** Non-technical students may struggle with Friday recitations
+- TAs needed to support diverse coding abilities
+- **Sustainability question:** Dependent on multiple faculty commitments year after year
 
 ---
 
@@ -82,9 +151,10 @@ The "AI Ecologies" concept directly aligns with A²I's core philosophy:
 
 1. **Systems Orchestration Focus:** Both emphasize coordinating multiple elements rather than mastering individual technologies
 2. **Business Coherence:** Ecological thinking maps to coherence across strategy, operations, ethics, and governance
-3. **Interdisciplinary Nature:** Business school positioning requires multiple lenses
+3. **Interdisciplinary Nature:** Business school positioning requires multiple lenses (not just business, but also humanities, arts, social sciences)
 4. **Accessible to Non-Technical Students:** No prerequisites aligns with business student needs
 5. **Team Teaching:** Leverages faculty expertise across domains
+6. **Practical Integration:** Coding recitations mirror A²I's studio approach
 
 ### Related A²I Courses
 
@@ -92,6 +162,7 @@ The "AI Ecologies" concept directly aligns with A²I's core philosophy:
 - **A²I 606 – Governance & Trust Systems:** Explores regulatory and ethical ecology
 - **A²I 607 – AI Economics & Business Models:** Economic ecosystems around AI
 - **A²I 608 – Leading AI Transformation:** Organizational ecology of AI adoption
+- **A²I 621-623 – Studios:** Hands-on technical work similar to Friday coding recitations
 - **All Domain Tracks:** Growth, Finance, Healthcare as specific ecosystems
 
 ### Learning Outcomes Addressed
@@ -101,8 +172,10 @@ The "AI Ecologies" concept directly aligns with A²I's core philosophy:
 - Navigating multiple stakeholder perspectives
 - Strategic thinking about AI in organizational context
 - Ethical reasoning in complex systems
+- **Basic coding literacy for AI** (new emphasis from Stony Brook model)
 - Business decision-making with incomplete information
 - Systems thinking and holistic analysis
+- **Cultural and artistic dimensions** of AI (often missing in business curricula)
 
 ### Concepts Covered
 
@@ -115,6 +188,10 @@ The "AI Ecologies" concept directly aligns with A²I's core philosophy:
 - Human-AI interaction and collaboration
 - Data ecosystems and infrastructure
 - Innovation and disruption patterns
+- **Art, media, and cultural production with AI**
+- **Psychology of human-AI interaction**
+- **Linguistic and communication dimensions**
+- **Historical context of technological transformation**
 
 ---
 
@@ -123,14 +200,23 @@ The "AI Ecologies" concept directly aligns with A²I's core philosophy:
 ### Strengths
 
 **Pedagogical Innovation:**
-- Team-teaching brings authentic expertise to each topic
-- Multiple perspectives enrich understanding
-- Faculty modeling interdisciplinary collaboration
+- **11-faculty team** brings exceptional depth and authenticity to each topic
+- Multiple perspectives enrich understanding beyond what single instructor could provide
+- Faculty modeling interdisciplinary collaboration for students
 - Students see how experts from different fields approach same problems
+- **Philosophy as integrator** ensures coherent thread across diverse topics
+- **AI3 seed grant** demonstrates institutional commitment and enables innovation
+
+**Unique Humanities + Tech Integration:**
+- **Only course model** that combines coding recitations with humanities/arts perspectives
+- Bridges the gap between critical thinking and technical literacy
+- Students leave with BOTH philosophical grounding AND practical skills
+- Positions graduates to work effectively with technical teams
+- Arts/humanities perspectives often missing from business AI education
 
 **Accessibility:**
-- No prerequisites removes barriers for business students
-- Focus on concepts rather than implementation
+- No prerequisites removes barriers for all students
+- 200-level workload appropriate for broad audience
 - Relevant to all majors and career paths
 - Prepares leaders and decision-makers, not just technicians
 
@@ -226,17 +312,29 @@ The "AI Ecologies" concept directly aligns with A²I's core philosophy:
 
 **Format:** 15 weeks, team-taught by 1 lead + 3-4 co-teaching faculty
 
+**Schedule Model (Inspired by Stony Brook):**
+- **Tuesday/Thursday:** Lectures and case discussions (75 min each)
+- **Friday (Optional):** AI Tools Lab / Recitation (50 min)
+
 **Prerequisites:** None (designed for all business students)
 
 **Target Audience:**
 - Undergraduate business majors (junior/senior level)
-- MBA students
-- Specialized masters students (MSF, MSM, MSBA, etc.)
+- MBA students (especially valuable for general MBA students)
+- Specialized masters students (MSF, MSM, MSBA, MIM, etc.)
 - Non-business students interested in AI's business impact
 
 ### Course Description
 
-**AI Ecologies for Business Leaders** explores artificial intelligence as complex socio-technical ecosystems involving technology, humans, organizations, markets, regulation, and society. Through an interdisciplinary lens taught by faculty from multiple departments, students develop systems thinking capabilities essential for leading AI initiatives in business contexts. No technical prerequisites required—this course prepares business leaders to make strategic decisions about AI, not to build algorithms.
+**AI Ecologies for Business Leaders** explores artificial intelligence as complex socio-technical ecosystems involving technology, humans, organizations, markets, regulation, and society. Through an interdisciplinary lens taught by faculty from multiple departments, students develop systems thinking capabilities essential for leading AI initiatives in business contexts.
+
+**Key Features:**
+- **No technical prerequisites** – designed for all business students
+- **Team-taught** by Gies faculty from multiple departments
+- **Business + Tech Integration** – combines strategic thinking with hands-on AI tool literacy
+- **Optional Friday labs** – practical experience with business AI tools (no coding required)
+- **Real-world case studies** from multiple industries
+- **Systems thinking** approach preparing leaders, not technicians
 
 ### Learning Objectives
 
@@ -249,11 +347,19 @@ By the end of this course, students will be able to:
 5. **Apply Systems Thinking:** Recognize interdependencies and second-order effects in AI deployment
 6. **Engage Ethically:** Identify and address ethical implications in business AI applications
 7. **Communicate Across Disciplines:** Translate between technical, business, and policy languages
+8. **Use Business AI Tools:** Gain hands-on experience with AI tools relevant to business (ChatGPT for analysis, analytics platforms, etc.)
 
 ### Course Structure: Team-Teaching Model
 
 **Lead Faculty (Weeks 1-2, 14-15):** Sets frame, integrates themes, coordinates assessment
+
 **Co-Teaching Faculty (Weeks 3-13):** Each teaches 2-4 weeks in area of expertise
+
+**Friday AI Tools Labs (Optional but Recommended):** Teaching assistant leads hands-on sessions with business AI tools
+- No coding required
+- Focus on tools business leaders actually use
+- Examples: ChatGPT for business analysis, Power BI/Tableau, AI writing assistants, Midjourney/DALL-E, analytics platforms
+- Optional 10% grade bonus for participation
 
 #### Week 1-2: Introduction – AI Ecosystems Framework (Lead Faculty)
 **Topic:** What are AI Ecologies? Systems Thinking for Business Leaders
@@ -278,6 +384,12 @@ By the end of this course, students will be able to:
 - Read: Tim O'Reilly "AI as Tool vs. Worker"
 - Stakeholder map of AI system in chosen industry
 - Reflection: Your relationship with AI technologies
+
+**Friday Lab (Weeks 1-2):** Introduction to Business AI Tools
+- Hands-on: ChatGPT for business analysis and writing
+- Try: Perplexity for research, Claude for reasoning
+- Exercise: Use AI assistant to analyze a business case
+- Discussion: When to use AI vs. human judgment
 
 ---
 
@@ -309,6 +421,11 @@ By the end of this course, students will be able to:
 - Analyze data strategy of a major company
 - Data governance policy proposal
 - Quiz on data privacy regulations
+
+**Friday Labs (Weeks 3-5):** Business Analytics Tools
+- Week 3: Excel for basic data analysis and visualization
+- Week 4: Power BI or Tableau for dashboard creation
+- Week 5: Introduction to SQL for querying business data (optional, conceptual)
 
 ---
 
@@ -342,6 +459,11 @@ By the end of this course, students will be able to:
 - Economic analysis of AI's industry impact
 - Group presentation: AI market analysis
 
+**Friday Labs (Weeks 6-8):** AI Tools for Market Research & Analysis
+- Week 6: Using AI for competitive intelligence and market research
+- Week 7: Financial modeling with AI-assisted tools (Excel + ChatGPT)
+- Week 8: AI-powered presentation tools (Gamma, Beautiful.ai, Canva AI)
+
 ---
 
 #### Week 9-11: Organizational Change and Human-AI Work (Faculty #3)
@@ -373,6 +495,11 @@ By the end of this course, students will be able to:
 - Change management plan for AI initiative
 - Interview organizational leader about AI adoption
 - Reflection on personal skill development for AI era
+
+**Friday Labs (Weeks 9-11):** AI for Productivity & Collaboration
+- Week 9: AI writing assistants for business communication (Grammarly, Notion AI)
+- Week 10: AI project management and collaboration tools
+- Week 11: AI for learning and personal development (language learning, skill building)
 
 ---
 
@@ -407,6 +534,10 @@ By the end of this course, students will be able to:
 - Regulatory compliance assessment
 - Group debate: AI regulation approaches
 
+**Friday Labs (Weeks 12-13):** AI Ethics & Bias Detection Tools
+- Week 12: Testing AI tools for bias (image recognition, text generation)
+- Week 13: AI transparency and explainability tools demonstration
+
 ---
 
 #### Week 14-15: Integration and Future Directions (Lead Faculty)
@@ -436,11 +567,15 @@ By the end of this course, students will be able to:
   - Present findings to class
 - Course reflection and personal action plan
 
+**Friday Labs (Weeks 14-15):** Final Project Support & AI Career Exploration
+- Week 14: AI tools for presentation and visualization (polish final projects)
+- Week 15: AI career pathways workshop (resume AI tools, LinkedIn optimization, job search AI)
+
 ---
 
 ### Assessment Structure
 
-**Participation & Engagement (20%):**
+**Participation & Engagement (15%):**
 - Active participation in class discussions
 - Completion of weekly reflection prompts
 - Peer feedback on projects
@@ -451,6 +586,22 @@ By the end of this course, students will be able to:
 - Business model canvas (10%)
 - Change management plan (10%)
 - Ethics case analysis (5%)
+
+**Friday AI Tools Labs (10% bonus optional):**
+- Participation in hands-on Friday sessions
+- Completion of lab exercises
+- Demonstrates practical AI tool literacy
+
+**Final Project: AI Ecosystem Analysis (35%):**
+- Written report (25%)
+- Presentation (10%)
+- Peer evaluation component
+
+**Quizzes/Exams (10%):**
+- Short quizzes on key concepts from each module
+- Open-book, applied scenario-based questions
+
+**Total:** 100% (or 110% with Friday lab bonus)
 
 **Final Project: AI Ecosystem Analysis (30%):**
 - Written report (20%)

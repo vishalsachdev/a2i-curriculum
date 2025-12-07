@@ -85,6 +85,7 @@ When reviewing submitted articles:
 ## Index of Reviews
 
 - [2511.01956v1 - Analysis](2511-01956-analysis.md) - *Pending network access for article retrieval*
+- [2025-12 - Stony Brook AI Ecologies Course Review](2025-12-ai-ecologies-stonybrook-review.md) - **NEW: Comprehensive review of innovative interdisciplinary AI course with detailed Gies Business School curriculum proposal featuring team-teaching model (1 lead + 3-4 faculty), no prerequisites, 15-week structure**
 - [2025-11 - Tim O'Reilly: AI as Tool vs Worker](2025-11-tim-oreilly-ai-tool-vs-worker.md) - Foundational philosophical framework arguing AI should be taught as augmentation tool rather than worker replacement; critical for curriculum design
 - [2025-11 - Goldman Sachs Now Hiring for OpenAI](2025-11-goldman-sachs-openai-hiring.md) - Industry trends in AI talent acquisition and finance sector transformation
 - [2025-06 - Best of Teaching Professor Conference 2025](2025-06-best-of-teaching-uk.md) - Critical thinking, AI-era assessment, flipped classroom, and academic integrity practices for AI education
