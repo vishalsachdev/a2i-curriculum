@@ -2,7 +2,20 @@
 
 ## Overview
 
-Based on Stony Brook University's innovative "AI Ecologies" course launching Spring 2026, this document proposes a similar interdisciplinary course for Gies Business School that requires no prerequisites and can be taught by one lead faculty with 3-4 co-teaching faculty members.
+Based on Stony Brook University's innovative **CDS 222: AI Ecologies** course launching Spring 2026, this document proposes a similar interdisciplinary course for Gies Business School. The Stony Brook model features **11 faculty** from diverse disciplines (philosophy, computer science, art, psychology, linguistics, history, communication, music) combining **Monday/Wednesday lectures with Friday hands-on coding recitations**. Our adapted version requires no prerequisites and can be taught by one lead faculty with 3-4 co-teaching faculty members, featuring **Friday AI Tools Labs** for business students.
+
+## The Stony Brook Model
+
+**CDS 222: AI Ecologies** (Spring 2026)
+- **Primary Instructor:** Joseph Lemelin, Assistant Professor of Philosophy
+- **Guest Lecturers:** 10+ faculty from computer science, art, psychology, linguistics, history, English, communication, and music
+- **Structure:** Monday/Wednesday lectures + Friday coding recitations
+- **Prerequisites:** None (accessible to all levels)
+- **Funding:** AI Innovation Institute (AI3) seed grant
+- **Innovation:** Combines humanities/social science inquiry with hands-on technical skills
+
+**Philosophy (Joseph Lemelin):**
+> "AI is changing nearly every aspect of our lives — it affects how everyday actions are surveilled, the media we see, what kinds of jobs will exist, how resources are distributed and even our sense of what it means to be a human being. This timely and exciting new course offers a big-picture, holistic approach to raising urgent questions about AI and its role in our lives."
 
 ## The Concept: AI Ecologies
 
@@ -12,29 +25,34 @@ Based on Stony Brook University's innovative "AI Ecologies" course launching Spr
 - Economic systems and business models
 - Regulatory and ethical frameworks
 - Social impacts and stakeholder concerns
+- **Cultural and artistic dimensions** (inspired by Stony Brook's inclusion of art, music, communication)
 
 **Why "Ecologies"?**
 - Emphasizes interconnections and interdependencies
 - Highlights that AI doesn't exist in isolation
 - Requires multiple perspectives to understand fully
 - Aligns perfectly with A²I's "systems orchestration" philosophy
+- **Combines critical thinking with practical skills** (unique to Stony Brook model)
 
 ## Why This Matters for Gies
 
 ### Strategic Opportunity
 
-1. **Market Demand:** Business students need AI literacy without technical prerequisites
-2. **Differentiation:** Innovative pedagogy positions Gies as leader in AI business education
-3. **Faculty Leverage:** Uses existing faculty expertise rather than requiring new hires
-4. **Rapid Launch:** Can be developed in one semester and launched the next
-5. **Scalability:** Model can extend to exec ed, online, and other programs
+1. **Proven Model:** Stony Brook's 11-faculty team demonstrates feasibility and institutional support
+2. **Market Demand:** Business students need AI literacy without technical prerequisites
+3. **Differentiation:** Innovative pedagogy positions Gies as leader in AI business education
+4. **Faculty Leverage:** Uses existing faculty expertise rather than requiring new hires
+5. **Rapid Launch:** Can be developed in one semester and launched the next (with AI3-style seed grant)
+6. **Scalability:** Model can extend to exec ed, online, and other programs
+7. **Humanities Integration:** Arts/culture perspectives often missing from business AI education
 
 ### Alignment with A²I Curriculum
 
 - **Philosophy:** Ecosystems = Systems Orchestration = Business Coherence
 - **Accessibility:** No prerequisites = business student friendly
 - **Interdisciplinary:** Multiple lenses = holistic leadership preparation
-- **Validation:** Confirms that other leading institutions see value in this approach
+- **Practical Integration:** Friday labs mirror A²I's studio approach
+- **Validation:** Leading research university's model confirms this approach
 
 ## Proposed Course Structure
 
@@ -42,19 +60,26 @@ Based on Stony Brook University's innovative "AI Ecologies" course launching Spr
 - **Credits:** 3
 - **Duration:** 15 weeks
 - **Format:** Team-taught by 1 lead + 3-4 faculty
+- **Schedule:** Tuesday/Thursday lectures + Friday AI Tools Labs (optional)
 - **Prerequisites:** None
 - **Target:** All business students (undergrad, MBA, specialized masters)
 
 ### Teaching Model
 
-| Weeks | Module | Faculty Expertise Required |
-|-------|--------|---------------------------|
-| 1-2 | Introduction: AI Ecosystems Framework | Strategic management, systems thinking |
-| 3-5 | Data Ecosystems & Business Intelligence | Data analytics, information systems |
-| 6-8 | AI Economics & Market Dynamics | Economics, finance, strategy, entrepreneurship |
-| 9-11 | Organizational Change & Human-AI Work | Organizational behavior, HR, change management |
-| 12-13 | Ethics, Governance & Regulation | Business ethics, risk management, compliance |
-| 14-15 | Integration & Synthesis | Lead faculty (synthesis and integration) |
+| Weeks | Module | Faculty Expertise Required | Friday Labs |
+|-------|--------|---------------------------|-------------|
+| 1-2 | Introduction: AI Ecosystems Framework | Strategic management, systems thinking | ChatGPT for business |
+| 3-5 | Data Ecosystems & Business Intelligence | Data analytics, information systems | Excel, Power BI, Tableau |
+| 6-8 | AI Economics & Market Dynamics | Economics, finance, strategy, entrepreneurship | Market research AI tools |
+| 9-11 | Organizational Change & Human-AI Work | Organizational behavior, HR, change management | AI productivity tools |
+| 12-13 | Ethics, Governance & Regulation | Business ethics, risk management, compliance | Bias detection tools |
+| 14-15 | Integration & Synthesis | Lead faculty (synthesis and integration) | Project support & career |
+
+**Friday AI Tools Labs (Optional 10% Bonus):**
+- Hands-on sessions with business AI tools (no coding required)
+- Tools: ChatGPT, Perplexity, Power BI, Tableau, AI writing assistants, etc.
+- Practical skills business leaders actually use
+- Inspired by Stony Brook's Friday coding recitations
 
 ## Faculty Expertise Mapping for Gies
 
@@ -184,13 +209,17 @@ Students will be able to:
 5. **Apply Systems Thinking:** Recognize interdependencies and second-order effects
 6. **Engage Ethically:** Identify and address ethical implications in business AI applications
 7. **Communicate Across Disciplines:** Translate between technical, business, and policy languages
+8. **Use Business AI Tools:** Gain hands-on experience with AI tools for business (NEW: inspired by Stony Brook)
 
 ## Assessment Structure
 
-- **Participation & Engagement:** 20%
+- **Participation & Engagement:** 15%
 - **Module Assignments:** 40% (each faculty assesses their module)
-- **Final Project:** 30% (AI Ecosystem Analysis - integrated across all perspectives)
+- **Friday AI Tools Labs (Bonus):** 10% (optional but recommended)
+- **Final Project:** 35% (AI Ecosystem Analysis - integrated across all perspectives)
 - **Quizzes:** 10%
+
+**Total:** 100% base + 10% optional lab bonus (max 110%)
 
 **Signature Assignment:** Students choose an organization or industry and analyze AI opportunities/challenges from all course perspectives (data, economics, organizational, ethical), developing integrated strategic recommendations.
 
@@ -199,8 +228,10 @@ Students will be able to:
 ### For Students
 - AI literacy without technical prerequisites
 - Multiple expert perspectives in one course
+- **Hands-on experience with business AI tools** (NEW)
 - Preparation for leadership roles in AI transformation
 - Systems thinking capabilities
+- **Practical AI skills valued by employers** (NEW)
 - Competitive advantage in job market
 
 ### For Faculty
@@ -209,6 +240,7 @@ Students will be able to:
 - Manageable time commitment (2-4 weeks)
 - Connection to institutional AI priority
 - Research collaboration potential
+- **Proven model from leading research university** (NEW)
 
 ### For Gies
 - First-mover in innovative AI business education
@@ -216,6 +248,7 @@ Students will be able to:
 - Attracts students seeking AI education
 - Demonstrates innovation and leadership
 - Scalable model for other courses
+- **Combines theory with practical skills** (differentiator)
 
 ## Success Metrics
 
